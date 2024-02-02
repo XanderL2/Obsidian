@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Sintax/Markdown Sintax.md",
+                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Sintax/Markdown Sintax.md",
+                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Sintax/Markdown Sintax.md",
+                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Sintax/Markdown Sintax.md"
+                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md"
               }
             }
           }
@@ -161,6 +161,10 @@
   },
   "active": "4e11d9106c3e1e99",
   "lastOpenFiles": [
+    "PREVIEW.png",
+    "DAW/BIG DATA/Python/19. Excepciones.md",
+    "DAW/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
+    "Markdown Sintax/Markdown Sintax.md",
     "DAW/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
     "DAW/PROGRAMACION/10. Arrays.md",
     "DAW/PROGRAMACION/13. Structs (Diccionarios).md",
@@ -168,7 +172,6 @@
     "DAW/PROGRAMACION/3. Entrada y Salida de Datos.md",
     "DAW/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
     "DAW/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
-    "Markdown Sintax/Markdown Sintax.md",
     "DAW/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
     "DAW/BIG DATA/Pygame/2. Dibujado de Figuras.md",
     "DAW/BIG DATA/Flask/1. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
@@ -181,16 +184,13 @@
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Restauracion y Control de Versiones.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks y Pull Requests.md",
-    "DAW/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Images/Pasted image 20240202115350.png",
     "Images/Pasted image 20240202114954.png",
     "Images/Pasted image 20240202114924.png",
-    "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB",
-    "DAW/PROGRAMACION/5. Condicionales (If - Else).md",
     "Images/Pasted image 20240201192152.png",
     "Images/Pasted image 20240201192008.png",
     "Images/Pasted image 20240201191237.png",
