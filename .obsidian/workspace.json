@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "0ab8a5826d617233",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3a65f57a782a56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e11d9106c3e1e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Sintax/Markdown Sintax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d904fc03652901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAW/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "774db4a91d609937",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1cb48417b9afc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba6262b5ef0e65b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31d4fa1733a47e66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99e3b1b40a8b4fdd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.50520849227905
+  },
+  "right": {
+    "id": "8c7dd5d078583b80",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50bf46a7f04ccc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e13811f1f3d4e8f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown Sintax/Markdown Sintax.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c17e4bd4886d10e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown Sintax/Markdown Sintax.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d213c10ee5b8c43c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41b851cc6f7d14cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown Sintax/Markdown Sintax.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4e11d9106c3e1e99",
+  "lastOpenFiles": [
+    "DAW/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
+    "DAW/PROGRAMACION/10. Arrays.md",
+    "DAW/PROGRAMACION/13. Structs (Diccionarios).md",
+    "DAW/PROGRAMACION/4. Operadores en C-Sharp.md",
+    "DAW/PROGRAMACION/3. Entrada y Salida de Datos.md",
+    "DAW/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
+    "DAW/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
+    "Markdown Sintax/Markdown Sintax.md",
+    "DAW/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
+    "DAW/BIG DATA/Pygame/2. Dibujado de Figuras.md",
+    "DAW/BIG DATA/Flask/1. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "DAW/LENGUAJE DE MARCAS/BINARIOS Y TXTS, EXAMEN.md",
+    "DAW/LENGUAJE DE MARCAS/BOOTSTRAP/1. Introduccion y Utilizacion de Bootstrap.md",
+    "DAW/LENGUAJE DE MARCAS/BOOTSTRAP/2. Grid de Bootstrap  y Breakpoints.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Restauracion y Control de Versiones.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks y Pull Requests.md",
+    "DAW/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Images/Pasted image 20240202115350.png",
+    "Images/Pasted image 20240202114954.png",
+    "Images/Pasted image 20240202114924.png",
+    "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB",
+    "DAW/PROGRAMACION/5. Condicionales (If - Else).md",
+    "Images/Pasted image 20240201192152.png",
+    "Images/Pasted image 20240201192008.png",
+    "Images/Pasted image 20240201191237.png",
+    "Images/Pasted image 20240201185410.png",
+    "Images/Pasted image 20240201183325.png",
+    "Images/Pasted image 20240201183027.png",
+    "Images/Pasted image 20240201183013.png",
+    "Untitled.canvas",
+    "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion",
+    "DAW/BASE DATOS/Lenguaje SQL",
+    "DAW/MODELO RELACIONAL Y NORMALIZACION",
+    "DAW/BASE DATOS/INTRODUCCION/Untitled",
+    "DAW/BASE DATOS/INTRODUCCION",
+    "DAW/BASE DATOS",
+    "DAW/LENGUAJE DE MARCAS/JSONS",
+    "DAW/ENTORNOS DE DESARROLLO",
+    "DAW/PROGRAMACION/Sin título"
+  ]
+}
