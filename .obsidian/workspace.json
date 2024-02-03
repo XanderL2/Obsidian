@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd3a65f57a782a56",
+        "id": "c3a246c29c823ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "4e11d9106c3e1e99",
+            "id": "90f9537e987809e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45d904fc03652901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAW/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAW/BIG DATA/Python/20. Expresiones Regulares.md"
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md"
               }
             }
           }
@@ -159,8 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e11d9106c3e1e99",
+  "active": "90f9537e987809e9",
   "lastOpenFiles": [
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Images/Pasted image 20240203160519.png",
+    "Pasted image 20240203160519.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Restauracion y Control de Versiones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/1. Introduccion a las Bases de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
     "PREVIEW.png",
     "DAW/BIG DATA/Python/19. Excepciones.md",
     "DAW/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
@@ -176,17 +177,6 @@
     "DAW/BIG DATA/Pygame/2. Dibujado de Figuras.md",
     "DAW/BIG DATA/Flask/1. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "DAW/LENGUAJE DE MARCAS/BINARIOS Y TXTS, EXAMEN.md",
-    "DAW/LENGUAJE DE MARCAS/BOOTSTRAP/1. Introduccion y Utilizacion de Bootstrap.md",
-    "DAW/LENGUAJE DE MARCAS/BOOTSTRAP/2. Grid de Bootstrap  y Breakpoints.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Restauracion y Control de Versiones.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks y Pull Requests.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Images/Pasted image 20240202115350.png",
     "Images/Pasted image 20240202114954.png",
     "Images/Pasted image 20240202114924.png",
@@ -195,9 +185,6 @@
     "Images/Pasted image 20240201192008.png",
     "Images/Pasted image 20240201191237.png",
     "Images/Pasted image 20240201185410.png",
-    "Images/Pasted image 20240201183325.png",
-    "Images/Pasted image 20240201183027.png",
-    "Images/Pasted image 20240201183013.png",
     "Untitled.canvas",
     "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion",
     "DAW/BASE DATOS/Lenguaje SQL",
