@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md"
+                "file": "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md"
               }
             }
           }
@@ -149,51 +149,52 @@
   },
   "active": "90f9537e987809e9",
   "lastOpenFiles": [
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "Images/Pasted image 20240203160519.png",
-    "Pasted image 20240203160519.png",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Desarrollo_web/BIG DATA/Pygame/4. Animaciones.md",
+    "Desarrollo_web/BIG DATA/Pygame/3. Dibujado de Figuras con Bucles.md",
+    "Desarrollo_web/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
+    "Desarrollo_web/PROGRAMACION/12. Matrices Escalonadas.md",
+    "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
+    "Desarrollo_web/BIG DATA/Python/3. Operadores en Python.md",
+    "Desarrollo_web/BIG DATA/Python/16. Modulos y Enrutado de Modulos.md",
+    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "Desarrollo_web/BASE DATOS/Temas repaso.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/1. Introduccion a las Bases de Datos.md",
+    "Desarrollo_web/SISTEMAS INFORMATICOS/Linux",
+    "Desarrollo_web/SISTEMAS INFORMATICOS/Redes/Untitled",
+    "Desarrollo_web/SISTEMAS INFORMATICOS/Redes",
+    "Desarrollo_web/SISTEMAS INFORMATICOS",
+    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/BINARIOS Y TXTS, EXAMEN.md",
+    "Images/Pasted image 20240203205716.png",
+    "Images/Pasted image 20240203202517.png",
+    "Images/Pasted image 20240203201655.png",
+    "Images/Pasted image 20240203201549.png",
+    "Images/Pasted image 20240203200453.png",
+    "Desarrollo_web/PROGRAMACION/10. Arrays.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Restauracion y Control de Versiones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Pasted image 20240203205716.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Pasted image 20240203202517.png",
+    "Pasted image 20240203201655.png",
+    "README.md",
+    "Pasted image 20240203201549.png",
+    "Pasted image 20240203200453.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
-    "Desarrollo_web/BASE DATOS/INTRODUCCION/1. Introduccion a las Bases de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
-    "PREVIEW.png",
-    "DAW/BIG DATA/Python/19. Excepciones.md",
-    "DAW/ENTORNOS DE DESARROLLO/Ramas en GIT.md",
-    "Markdown Sintax/Markdown Sintax.md",
-    "DAW/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
-    "DAW/PROGRAMACION/10. Arrays.md",
-    "DAW/PROGRAMACION/13. Structs (Diccionarios).md",
-    "DAW/PROGRAMACION/4. Operadores en C-Sharp.md",
-    "DAW/PROGRAMACION/3. Entrada y Salida de Datos.md",
-    "DAW/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
-    "DAW/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
-    "DAW/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
-    "DAW/BIG DATA/Pygame/2. Dibujado de Figuras.md",
-    "DAW/BIG DATA/Flask/1. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "Images/Pasted image 20240202115350.png",
-    "Images/Pasted image 20240202114954.png",
-    "Images/Pasted image 20240202114924.png",
     "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB",
-    "Images/Pasted image 20240201192152.png",
-    "Images/Pasted image 20240201192008.png",
-    "Images/Pasted image 20240201191237.png",
-    "Images/Pasted image 20240201185410.png",
     "Untitled.canvas",
     "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion",
     "DAW/BASE DATOS/Lenguaje SQL",
     "DAW/MODELO RELACIONAL Y NORMALIZACION",
     "DAW/BASE DATOS/INTRODUCCION/Untitled",
-    "DAW/BASE DATOS/INTRODUCCION",
-    "DAW/BASE DATOS",
-    "DAW/LENGUAJE DE MARCAS/JSONS",
-    "DAW/ENTORNOS DE DESARROLLO",
-    "DAW/PROGRAMACION/Sin título"
+    "DAW/BASE DATOS/INTRODUCCION"
   ]
 }
