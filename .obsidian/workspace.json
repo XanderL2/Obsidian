@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md"
               }
             }
           }
@@ -162,8 +162,22 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/2. Tipos de Ataques en Red.md",
+    "Pasted image 20240207201556.png",
+    "Pasted image 20240207201521.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/1. Exploits, Vulnerabilidades y Payloads.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/6. SSL y TLS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/5. Certificados Digitales (PKIs).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
+    "Pasted image 20240207200149.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
+    "Pasted image 20240207195834.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/5. ACLs (Listas De Control de Acceso).md",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/4. VLANs.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
     "Pasted image 20240207195253.png",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/3. Seguridad Fisica (CPDs).md",
     "Pasted image 20240207194938.png",
@@ -173,12 +187,8 @@
     "Pasted image 20240207194039.png",
     "Pasted image 20240207193951.png",
     "Pasted image 20240207193935.png",
-    "Pasted image 20240207193910.png",
-    "Pasted image 20240207193721.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
-    "Pasted image 20240207193549.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/4. VPNs.md",
-    "Pasted image 20240207193306.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/1. DHCP (Host Dinamico).md",
@@ -188,16 +198,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/1. Protocolos de Eleccion de Rutas (ICMP).md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
     "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red",
