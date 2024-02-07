@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md"
               }
             }
           }
@@ -162,29 +162,33 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/4. VLANs.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/ACLs (Listas De Control de Acceso).md",
+    "Pasted image 20240207195253.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/3. Seguridad Fisica (CPDs).md",
+    "Pasted image 20240207194938.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/2. IDS e IPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
+    "Pasted image 20240207194053.png",
+    "Pasted image 20240207194039.png",
+    "Pasted image 20240207193951.png",
+    "Pasted image 20240207193935.png",
+    "Pasted image 20240207193910.png",
+    "Pasted image 20240207193721.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
     "Pasted image 20240207193549.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/4. VPNs.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
     "Pasted image 20240207193306.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
-    "Pasted image 20240207192740.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/1. DHCP (Host Dinamico).md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Pasted image 20240207192249.png",
-    "Pasted image 20240207192134.png",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Pasted image 20240207191841.png",
-    "Pasted image 20240207191631.png",
-    "Pasted image 20240207191539.png",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/1. Protocolos de Eleccion de Rutas (ICMP).md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
-    "Pasted image 20240207190625.png",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
-    "Pasted image 20240207190426.png",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
-    "Pasted image 20240207190229.png",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
@@ -204,10 +208,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamento.md",
-    "Ciberseguridad/Untitled.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion a SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Limit (Limitar los Registros que traigamos).md",
     "Untitled.canvas"
   ]
 }
