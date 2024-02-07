@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md"
               }
             }
           }
@@ -162,19 +162,25 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
+    "Pasted image 20240207190625.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
+    "Pasted image 20240207190426.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
+    "Pasted image 20240207190229.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
+    "Pasted image 20240207185549.png",
+    "Pasted image 20240207185434.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Pasted image 20240207184722.png",
+    "Pasted image 20240207184546.png",
+    "Pasted image 20240207184535.png",
+    "Pasted image 20240207184524.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/Direcciones IP.md",
     "Images/Pasted image 20240207184146.png",
     "Images/Pasted image 20240207184120.png",
-    "Images/Pasted image 20240207183810.png",
-    "Images/Pasted image 20240207183337.png",
-    "Images/Pasted image 20240207183054.png",
-    "Images/Pasted image 20240207181854.png",
-    "Images/Pasted image 20240207181700.png",
-    "Images/IMAGEN MAPA.png",
-    "Pasted image 20240207184146.png",
-    "Pasted image 20240207184120.png",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Pasted image 20240207183810.png",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
@@ -202,12 +208,6 @@
     "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
     "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
-    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/7. Where (Condicionales en BD).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. Clausula AS (Alias a las tablas).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion y Relacion de Tablas mediante Clave Foranea.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
     "Untitled.canvas"
   ]
 }
