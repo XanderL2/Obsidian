@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50260543823242
+    "width": 220.50260543823242
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md"
               }
             }
           }
@@ -162,14 +162,22 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
-    "Pasted image 20240207183337.png",
-    "Pasted image 20240207183054.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
+    "Images/Pasted image 20240207184146.png",
+    "Images/Pasted image 20240207184120.png",
+    "Images/Pasted image 20240207183810.png",
+    "Images/Pasted image 20240207183337.png",
+    "Images/Pasted image 20240207183054.png",
+    "Images/Pasted image 20240207181854.png",
+    "Images/Pasted image 20240207181700.png",
+    "Images/IMAGEN MAPA.png",
+    "Pasted image 20240207184146.png",
+    "Pasted image 20240207184120.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+    "Pasted image 20240207183810.png",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Pasted image 20240207181854.png",
-    "Pasted image 20240207181700.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
-    "IMAGEN MAPA.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
@@ -200,14 +208,6 @@
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion y Relacion de Tablas mediante Clave Foranea.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "Pasted image 20240205201706.png",
-    "Pasted image 20240205201536.png",
-    "Pasted image 20240205200939.png",
-    "Images/Pasted image 20240203205716.png",
-    "Images/Pasted image 20240203202517.png",
-    "Images/Pasted image 20240203201655.png",
     "Untitled.canvas"
   ]
 }
