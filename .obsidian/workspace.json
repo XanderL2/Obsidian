@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md"
               }
             }
           }
@@ -162,8 +162,15 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/2. SIEMS SIEM (Security Information and Event Management).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/1. ¿Que son los Logs?.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Antivirus y Malware.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/2. Sniffers.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Firewalls.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/1. Escaneres de Vulnerabilidades.md",
     "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
     "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/2. Tipos de Ataques en Red.md",
     "Pasted image 20240207201556.png",
     "Pasted image 20240207201521.png",
@@ -191,13 +198,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/4. VPNs.md",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/1. DHCP (Host Dinamico).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/1. Protocolos de Eleccion de Rutas (ICMP).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
     "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red",
