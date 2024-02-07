@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md"
               }
             }
           }
@@ -162,41 +162,45 @@
   },
   "active": "0de9880360bd3ba8",
   "lastOpenFiles": [
-    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamento.md",
+    "Ciberseguridad/Untitled.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion a SQL.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Limit (Limitar los Registros que traigamos).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/9. Funciones Predeterminadas en SQL y Comentarios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/8. Operadores en SQL (Like, Beetween, Not, In, is null).md",
+    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
+    "Desarrollo_web/BIG DATA/Flask/5. Url_For (Enrutado comun de Flask).md",
+    "Desarrollo_web/BIG DATA/Flask/6. CSS con Flask.md",
+    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
+    "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/7. Where (Condicionales en BD).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. Clausula AS (Alias a las tablas).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion y Relacion de Tablas mediante Clave Foranea.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
     "Desarrollo_web/BIG DATA/Python/16. Modulos y Enrutado de Modulos.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "Desarrollo_web/BIG DATA/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
-    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
-    "Desarrollo_web/BIG DATA/Flask/5. Url_For (Enrutado comun de Flask).md",
-    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
-    "Desarrollo_web/BIG DATA/Flask/6. CSS con Flask.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/6. Formularios.md",
-    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Backend? Funciones.md",
-    "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
-    "Desarrollo_web/BIG DATA/Flask/4. Manejo de Errores de rutas con Flask.md",
     "Pasted image 20240205201706.png",
     "Pasted image 20240205201536.png",
     "Pasted image 20240205200939.png",
-    "OneNote/JavaScript Launch X (Backend).one",
-    "OneNote",
-    "Desarrollo_web/SISTEMAS INFORMATICOS/Linux",
-    "Desarrollo_web/SISTEMAS INFORMATICOS/Redes/Untitled",
-    "Desarrollo_web/SISTEMAS INFORMATICOS/Redes",
-    "Desarrollo_web/SISTEMAS INFORMATICOS",
     "Images/Pasted image 20240203205716.png",
     "Images/Pasted image 20240203202517.png",
     "Images/Pasted image 20240203201655.png",
@@ -204,10 +208,6 @@
     "Images/Pasted image 20240203200453.png",
     "Pasted image 20240203205716.png",
     "Pasted image 20240203202517.png",
-    "DAW/ENTORNOS DE DESARROLLO/GIT Y GITHUB",
-    "Untitled.canvas",
-    "DAW/BASE DATOS/Modelo Entidad Relacion y Normalizacion",
-    "DAW/BASE DATOS/Lenguaje SQL",
-    "DAW/MODELO RELACIONAL Y NORMALIZACION"
+    "Untitled.canvas"
   ]
 }
