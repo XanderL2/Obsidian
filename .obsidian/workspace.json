@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9a48be26eb40cafc",
+        "id": "8a40a6dc2477ef4f",
         "type": "tabs",
         "children": [
           {
-            "id": "b85de60eb80bdc86",
+            "id": "f77f51f813ada01f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0de9880360bd3ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.50260543823242
+    "width": 341.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md"
               }
             }
           }
@@ -160,54 +147,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "f77f51f813ada01f",
   "lastOpenFiles": [
+    "Images/Pasted image 20240209170351.png",
+    "Images/Pasted image 20240209165457.png",
+    "Images/Pasted image 20240209162304.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
+    "Pasted image 20240209170351.png",
+    "Pasted image 20240209165457.png",
+    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Gestion de Ficheros Avanzada.md",
+    "Pasted image 20240209162304.png",
+    "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos",
+    "Desarrollo_web/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
+    "Desarrollo_web/PROGRAMACION/7. Bucle Do - While.md",
+    "Desarrollo_web/PROGRAMACION/8. Bucle FOR.md",
+    "Desarrollo_web/PROGRAMACION/9. Bucle Foreach.md",
+    "Desarrollo_web/PROGRAMACION/10. Arrays.md",
+    "Desarrollo_web/PROGRAMACION/12. Matrices Escalonadas.md",
+    "Desarrollo_web/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
+    "README.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "2024-02-08.md",
+    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Backend? Funciones.md",
+    "Untitled.canvas",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
+    "Desarrollo_web/PROGRAMACION/6. Bucle While.md",
+    "Ciberseguridad/Hacking Etico/Herramientas",
+    "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting",
+    "Ciberseguridad/Sistemas Operativos/Linux",
+    "Ciberseguridad/Programacion y Scripting/Bash",
+    "Ciberseguridad/Programacion y Scripting/Python",
     "Images/Pasted image 20240207201556.png",
     "Images/Pasted image 20240207201521.png",
     "Images/Pasted image 20240207200149.png",
     "Images/Pasted image 20240207195834.png",
     "Images/Pasted image 20240207195253.png",
-    "Images/Pasted image 20240207194938.png",
-    "Images/Pasted image 20240207194053.png",
-    "Images/Pasted image 20240207194039.png",
-    "Images/Pasted image 20240207193951.png",
-    "Images/Pasted image 20240207193935.png",
-    "Images/Pasted image 20240207193910.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/2. SIEMS SIEM (Security Information and Event Management).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/1. ¿Que son los Logs?.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Antivirus y Malware.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/2. Sniffers.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Firewalls.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/1. Escaneres de Vulnerabilidades.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/4. Phishing e Ingeneria Social.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/2. Tipos de Ataques en Red.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/1. Exploits, Vulnerabilidades y Payloads.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/6. SSL y TLS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/5. Certificados Digitales (PKIs).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/5. ACLs (Listas De Control de Acceso).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/4. VLANs.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/3. Seguridad Fisica (CPDs).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/2. IDS e IPS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/4. VPNs.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
     "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos",
-    "Untitled.canvas"
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados"
   ]
 }
