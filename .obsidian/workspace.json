@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md"
               }
             }
           }
@@ -149,11 +149,15 @@
   },
   "active": "f77f51f813ada01f",
   "lastOpenFiles": [
+    "Pasted image 20240209171006.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto",
+    "Ciberseguridad/Sistemas Operativos/Linux/Untitled.md",
     "Images/Pasted image 20240209170351.png",
     "Images/Pasted image 20240209165457.png",
     "Images/Pasted image 20240209162304.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
     "Pasted image 20240209170351.png",
     "Pasted image 20240209165457.png",
@@ -180,8 +184,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Desarrollo_web/PROGRAMACION/6. Bucle While.md",
     "Ciberseguridad/Hacking Etico/Herramientas",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting",
     "Ciberseguridad/Sistemas Operativos/Linux",
@@ -191,10 +193,8 @@
     "Images/Pasted image 20240207201521.png",
     "Images/Pasted image 20240207200149.png",
     "Images/Pasted image 20240207195834.png",
-    "Images/Pasted image 20240207195253.png",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados"
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red"
   ]
 }
