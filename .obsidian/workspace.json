@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md"
               }
             }
           }
@@ -147,11 +147,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77f51f813ada01f",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "Images/Pasted image 20240209173020.png",
+    "Images/Pasted image 20240209172850.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+    "Pasted image 20240209173020.png",
+    "Pasted image 20240209172850.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos",
+    "Images/Pasted image 20240209171006.png",
     "Pasted image 20240209171006.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto",
     "Ciberseguridad/Sistemas Operativos/Linux/Untitled.md",
     "Images/Pasted image 20240209170351.png",
@@ -163,7 +172,6 @@
     "Pasted image 20240209165457.png",
     "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Gestion de Ficheros Avanzada.md",
-    "Pasted image 20240209162304.png",
     "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos",
     "Desarrollo_web/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
@@ -181,20 +189,12 @@
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
     "Ciberseguridad/Hacking Etico/Herramientas",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting",
     "Ciberseguridad/Sistemas Operativos/Linux",
     "Ciberseguridad/Programacion y Scripting/Bash",
     "Ciberseguridad/Programacion y Scripting/Python",
-    "Images/Pasted image 20240207201556.png",
-    "Images/Pasted image 20240207201521.png",
-    "Images/Pasted image 20240207200149.png",
-    "Images/Pasted image 20240207195834.png",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red"
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad"
   ]
 }
