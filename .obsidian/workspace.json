@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md"
               }
             }
           }
@@ -147,13 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "f77f51f813ada01f",
   "lastOpenFiles": [
+    "Pasted image 20240209181808.png",
+    "Pasted image 20240209181659.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Commits y Rollbacks.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Transacciones.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
+    "Desarrollo_web/BASE DATOS/Temas repaso.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
     "Images/Pasted image 20240209173020.png",
     "Images/Pasted image 20240209172850.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
     "Pasted image 20240209173020.png",
     "Pasted image 20240209172850.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
@@ -168,8 +176,6 @@
     "Images/Pasted image 20240209162304.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
-    "Pasted image 20240209170351.png",
-    "Pasted image 20240209165457.png",
     "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Gestion de Ficheros Avanzada.md",
     "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
@@ -182,13 +188,7 @@
     "Desarrollo_web/PROGRAMACION/12. Matrices Escalonadas.md",
     "Desarrollo_web/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
     "README.md",
-    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
-    "2024-02-08.md",
-    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Backend? Funciones.md",
     "Untitled.canvas",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
     "Ciberseguridad/Hacking Etico/Herramientas",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting",
     "Ciberseguridad/Sistemas Operativos/Linux",
