@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md"
               }
             }
           }
@@ -159,30 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d67987bb5fe004b",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/5. Requests HTTP (Enviar Solicitudes request).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/6. Libreria JSON.md",
+    "Ciberseguridad/Hacking Etico/Introduccion al Hacking",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/6. Libreria JSON (Manejo de JSONS en Python).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/5. Requests HTTP (Enviar Solicitudes request).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/4. Libreria Re (Expresiones Regulares).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/8. Python Autogui.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/2. Libreria SubProcess.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
     "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
     "Ciberseguridad/Hacking Etico/Maquinas",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/Untitled",
     "Ciberseguridad/Programacion y Scripting/Python/Utilidades",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
@@ -191,7 +192,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
     "Images/Pasted image 20240209181808.png",
     "Images/Pasted image 20240209181659.png",
     "Pasted image 20240209181808.png",
