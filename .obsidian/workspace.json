@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8a40a6dc2477ef4f",
+        "id": "78a7ff19841dd173",
         "type": "tabs",
         "children": [
           {
-            "id": "f77f51f813ada01f",
+            "id": "1d67987bb5fe004b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md"
               }
             }
           }
@@ -147,8 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f77f51f813ada01f",
+  "active": "1d67987bb5fe004b",
   "lastOpenFiles": [
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/8. Python Autogui.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Libreria ARGParse.md",
+    "Ciberseguridad/Hacking Etico/Maquinas",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/6. Libreria JSON.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/4. Libreria Re (Expresiones Regulares).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Sys.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/Untitled",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/5. Requests HTTP (Enviar Solicitudes request).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Utilidades",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Limit (Limitar los Registros que traigamos).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
     "Images/Pasted image 20240209181808.png",
     "Images/Pasted image 20240209181659.png",
     "Pasted image 20240209181808.png",
@@ -156,45 +184,17 @@
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Commits y Rollbacks.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Transacciones.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
     "Images/Pasted image 20240209173020.png",
     "Images/Pasted image 20240209172850.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
     "Pasted image 20240209173020.png",
     "Pasted image 20240209172850.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos",
     "Images/Pasted image 20240209171006.png",
     "Pasted image 20240209171006.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto",
-    "Ciberseguridad/Sistemas Operativos/Linux/Untitled.md",
-    "Images/Pasted image 20240209170351.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
-    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Gestion de Ficheros Avanzada.md",
-    "Desarrollo_web/PROGRAMACION/13. Structs (Diccionarios).md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos",
-    "Desarrollo_web/PROGRAMACION/11. Arreglos Bidimensionales (Matrices).md",
-    "Desarrollo_web/PROGRAMACION/7. Bucle Do - While.md",
-    "Desarrollo_web/PROGRAMACION/8. Bucle FOR.md",
-    "Desarrollo_web/PROGRAMACION/9. Bucle Foreach.md",
-    "Desarrollo_web/PROGRAMACION/10. Arrays.md",
-    "Desarrollo_web/PROGRAMACION/12. Matrices Escalonadas.md",
-    "Desarrollo_web/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
-    "README.md",
     "Untitled.canvas",
     "Ciberseguridad/Hacking Etico/Herramientas",
-    "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting",
-    "Ciberseguridad/Sistemas Operativos/Linux",
-    "Ciberseguridad/Programacion y Scripting/Bash",
-    "Ciberseguridad/Programacion y Scripting/Python",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad"
+    "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting"
   ]
 }
