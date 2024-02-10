@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "1d67987bb5fe004b",
   "lastOpenFiles": [
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/4. Libreria Re (Expresiones Regulares).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/8. Python Autogui.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
@@ -162,9 +165,6 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/4. Libreria Re (Expresiones Regulares).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/3. Libreria Sys.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/2. Libreria SubProcess.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/Untitled",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/5. Requests HTTP (Enviar Solicitudes request).md",
     "Ciberseguridad/Programacion y Scripting/Python/Utilidades",
