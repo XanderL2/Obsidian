@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78a7ff19841dd173",
+        "id": "e6371ab722a3ae30",
         "type": "tabs",
         "children": [
           {
-            "id": "1d67987bb5fe004b",
+            "id": "758f883ee5c06080",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "273ac2cf87479317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md"
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md"
               }
             }
           }
@@ -160,8 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "758f883ee5c06080",
   "lastOpenFiles": [
+    "Pasted image 20240212001027.png",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
+    "Pasted image 20240211235907.png",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
+    "Pasted image 20240211235238.png",
+    "Pasted image 20240211235017.png",
+    "Pasted image 20240211232906.png",
+    "Pasted image 20240211225243.png",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
+    "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
     "Images/Pasted image 20240211171912.png",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
@@ -175,9 +176,7 @@
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
     "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Sys (Recibir Parametros por Consola).md",
-    "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT",
     "Pasted image 20240211171912.png",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
@@ -187,27 +186,15 @@
     "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Wi-fi",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Web",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting en Red",
     "Ciberseguridad/Hacking Etico/Introduccion al Hacking",
     "Ciberseguridad/Hacking Etico/Maquinas",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/Untitled",
-    "Ciberseguridad/Programacion y Scripting/Python/Utilidades",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting",
     "Images/Pasted image 20240209181808.png",
     "Images/Pasted image 20240209181659.png",
     "Pasted image 20240209181808.png",
-    "Pasted image 20240209181659.png",
-    "Images/Pasted image 20240209173020.png",
-    "Images/Pasted image 20240209172850.png",
-    "Pasted image 20240209173020.png",
-    "Pasted image 20240209172850.png",
-    "Images/Pasted image 20240209171006.png",
     "Untitled.canvas"
   ]
 }
