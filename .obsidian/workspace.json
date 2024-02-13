@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mouse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md"
               }
             }
           }
@@ -149,52 +149,52 @@
   },
   "active": "758f883ee5c06080",
   "lastOpenFiles": [
-    "Pasted image 20240212001027.png",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
-    "Pasted image 20240211235907.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+    "Desarrollo_web/PROGRAMACION/12. Arreglos Bidimensionales (Matrices).md",
+    "Desarrollo_web/PROGRAMACION/x. Complementario.md",
+    "Desarrollo_web/PROGRAMACION/6. Switch - Case.md",
+    "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
+    "Desarrollo_web/PROGRAMACION/10. Bucle Foreach.md",
+    "Desarrollo_web/PROGRAMACION/9. Bucle FOR.md",
+    "Desarrollo_web/PROGRAMACION/5. Condicionales (If - Else).md",
+    "Desarrollo_web/PROGRAMACION/11. Arrays.md",
+    "Desarrollo_web/PROGRAMACION/13. Matrices Escalonadas.md",
+    "Desarrollo_web/PROGRAMACION/7. Bucle While.md",
+    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
+    "Desarrollo_web/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
-    "Pasted image 20240211235238.png",
-    "Pasted image 20240211235017.png",
-    "Pasted image 20240211232906.png",
-    "Pasted image 20240211225243.png",
+    "Images/Pasted image 20240212134403.png",
+    "Images/Pasted image 20240212133751.png",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
+    "Pasted image 20240212134403.png",
+    "Pasted image 20240212133751.png",
+    "Images/Pasted image 20240212001027.png",
+    "Images/Pasted image 20240211235907.png",
+    "Images/Pasted image 20240211235238.png",
+    "Images/Pasted image 20240211235017.png",
+    "Images/Pasted image 20240211232906.png",
+    "Images/Pasted image 20240211225243.png",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
     "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
-    "Images/Pasted image 20240211171912.png",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Sys (Recibir Parametros por Consola).md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT",
-    "Pasted image 20240211171912.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Redirecciones.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Permisos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Gestion de Ficheros Avanzada.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Wi-fi",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Web",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting en Red",
     "Ciberseguridad/Hacking Etico/Introduccion al Hacking",
     "Ciberseguridad/Hacking Etico/Maquinas",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/Untitled",
-    "Images/Pasted image 20240209181808.png",
-    "Images/Pasted image 20240209181659.png",
-    "Pasted image 20240209181808.png",
     "Untitled.canvas"
   ]
 }
