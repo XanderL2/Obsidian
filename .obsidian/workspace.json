@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md"
               }
             }
           }
@@ -138,38 +138,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "758f883ee5c06080",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web",
+    "Desarrollo_web/LENGUAJE DE MARCAS/BINARIOS Y TXTS, EXAMEN.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "Desarrollo_web/BASE DATOS/Temas repaso.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/CSS/1. ¿Que es CSS? Caracteristicas y Conceptos.md",
+    "Desarrollo_web/BIG DATA/Python/19. Excepciones.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "Desarrollo_web/BIG DATA/Python/20. Expresiones Regulares.md",
+    "Desarrollo_web/BIG DATA/Python/3. Operadores en Python.md",
+    "Desarrollo_web/BIG DATA/Python/2. Entrada y Salida de Datos por Consola.md",
+    "Desarrollo_web/BIG DATA/Python/1. Variables, Constantes y Tipos de Datos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
     "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
     "Desarrollo_web/PROGRAMACION/12. Arreglos Bidimensionales (Matrices).md",
-    "Desarrollo_web/PROGRAMACION/x. Complementario.md",
-    "Desarrollo_web/PROGRAMACION/6. Switch - Case.md",
-    "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
-    "Desarrollo_web/PROGRAMACION/10. Bucle Foreach.md",
-    "Desarrollo_web/PROGRAMACION/9. Bucle FOR.md",
-    "Desarrollo_web/PROGRAMACION/5. Condicionales (If - Else).md",
-    "Desarrollo_web/PROGRAMACION/11. Arrays.md",
-    "Desarrollo_web/PROGRAMACION/13. Matrices Escalonadas.md",
-    "Desarrollo_web/PROGRAMACION/7. Bucle While.md",
-    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
-    "Desarrollo_web/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
     "Images/Pasted image 20240212134403.png",
     "Images/Pasted image 20240212133751.png",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
     "Pasted image 20240212134403.png",
     "Pasted image 20240212133751.png",
     "Images/Pasted image 20240212001027.png",
@@ -178,16 +185,9 @@
     "Images/Pasted image 20240211235017.png",
     "Images/Pasted image 20240211232906.png",
     "Images/Pasted image 20240211225243.png",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/1. Libreria OS (Mas Facil y Util).md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
-    "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Wi-fi",
     "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Web",
