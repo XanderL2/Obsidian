@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md"
+                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md"
               }
             }
           }
@@ -172,16 +172,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "44993240665750b1",
+  "active": "a4893aac4abd9e4a",
   "lastOpenFiles": [
-    "Images/Pasted image 20240218103312.png",
+    "Images/Pasted image 20240218182940.png",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Pasted image 20240218182940.png",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
     "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
+    "Images/Pasted image 20240218103312.png",
     "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
     "Desarrollo_web/BIG DATA/Flask/6. CSS con Flask.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
     "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
     "Desarrollo_web/BASE DATOS/INTRODUCCION/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Commits y Rollbacks (Revertir y Confirmar cambios de una transaccion).md",
     "Pasted image 20240218103312.png",
@@ -196,14 +204,8 @@
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web",
     "Images/Pasted image 20240212134403.png",
@@ -213,8 +215,6 @@
     "Images/Pasted image 20240212001027.png",
     "Images/Pasted image 20240211235907.png",
     "Images/Pasted image 20240211235238.png",
-    "Images/Pasted image 20240211235017.png",
-    "Images/Pasted image 20240211232906.png",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
