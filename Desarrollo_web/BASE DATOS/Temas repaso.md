@@ -3,7 +3,6 @@
 
 
 
-### ALTER TABLE:
 ### RESTRICCIONES :
 
 ### TRANSACCIONES:
