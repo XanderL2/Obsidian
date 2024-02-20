@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers/WireShark.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers/WireShark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers/WireShark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md"
+                "file": "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers/WireShark.md"
               }
             }
           }
@@ -172,54 +172,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a4893aac4abd9e4a",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "Images/Pasted image 20240218182940.png",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Pasted image 20240218182940.png",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Images/Pasted image 20240220180444.png",
+    "Images/Pasted image 20240220180422.png",
+    "Images/Pasted image 20240220180227.png",
+    "Images/Pasted image 20240220175757.png",
+    "Images/Pasted image 20240220175626.png",
+    "Images/Pasted image 20240220175317.png",
+    "Images/Pasted image 20240220173145.png",
+    "Images/Pasted image 20240220172223.png",
+    "Pasted image 20240220180444.png",
+    "Pasted image 20240220180422.png",
+    "Pasted image 20240220180227.png",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers/WireShark.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
-    "Images/Pasted image 20240218103312.png",
-    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
-    "Desarrollo_web/BIG DATA/Flask/6. CSS con Flask.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/BASE DATOS/INTRODUCCION/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Commits y Rollbacks (Revertir y Confirmar cambios de una transaccion).md",
-    "Pasted image 20240218103312.png",
-    "Desarrollo_web/BASE DATOS/INTRODUCCION/1. Introduccion a las Bases de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/Sin título",
-    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/20. Expresiones Regulares.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/19. Excepciones.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
+    "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/5. Requests HTTP (Enviar Solicitudes request).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting/4. Libreria Re (Expresiones Regulares).md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/Sin título",
+    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos",
     "Desarrollo_web/BIG DATA/Python/Python Basico",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web",
-    "Images/Pasted image 20240212134403.png",
-    "Images/Pasted image 20240212133751.png",
-    "Pasted image 20240212134403.png",
-    "Pasted image 20240212133751.png",
-    "Images/Pasted image 20240212001027.png",
-    "Images/Pasted image 20240211235907.png",
-    "Images/Pasted image 20240211235238.png",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT",
-    "Ciberseguridad/Hacking Etico/Tecnicas de Pentesting/Pentesting Wi-fi",
     "Untitled.canvas"
   ]
 }
