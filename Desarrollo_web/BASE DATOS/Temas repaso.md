@@ -1,22 +1,3 @@
 
 ---
-
-
-
-### RESTRICCIONES :
-
-### TRANSACCIONES:
-
-### Commits y rollbacks
-
-
-
-
-
-
-
-
-
-
-
-
+## Union
