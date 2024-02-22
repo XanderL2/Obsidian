@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md"
               }
             }
           }
@@ -172,10 +171,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ec9854ce52716d27",
+  "active": "758f883ee5c06080",
   "lastOpenFiles": [
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Images/Pasted image 20240222180901.png",
+    "Pasted image 20240222180901.png",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
     "Desarrollo_web/BASE DATOS/Temas repaso.md",
@@ -190,16 +200,6 @@
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos en SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion a SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. Clausula AS (Alias a las tablas).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Images/Pasted image 20240220180444.png",
     "Images/Pasted image 20240220180422.png",
     "Images/Pasted image 20240220180227.png",
@@ -209,7 +209,6 @@
     "Images/Pasted image 20240220173145.png",
     "Images/Pasted image 20240220172223.png",
     "Pasted image 20240220180444.png",
-    "Pasted image 20240220180422.png",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
     "Desarrollo_web/BIG DATA/Python/Python Basico/Sin título",
