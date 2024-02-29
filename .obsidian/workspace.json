@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos en SQL.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md"
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md"
               }
             }
           }
@@ -172,54 +172,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d892531cc7cc04f6",
+  "active": "7fd812c85db77781",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By y Having (Agrupar registros que tienen el mismo valor).md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Images/Pasted image 20240229193609.png",
+    "Images/Pasted image 20240229193452.png",
+    "Images/Pasted image 20240229193406.png",
+    "Images/Pasted image 20240229170350.png",
+    "Images/Pasted image 20240227171744.png",
+    "Images/Pasted image 20240227165710.png",
+    "Images/Pasted image 20240227165700.png",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/2. Extraccion datos de Archivos CSV con Pandas.md",
+    "Pasted image 20240229193609.png",
+    "Pasted image 20240229193452.png",
+    "Pasted image 20240229193406.png",
+    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/4. Seaborn (Estadistica).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Extraction",
+    "Pasted image 20240229170350.png",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
+    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos en SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de las Clausulas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Limit (Limitar los Registros que traigamos).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/9. Funciones Predeterminadas en SQL y Comentarios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/8. Operadores en SQL (Like, Beetween, Not, In, is null).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/7. Where (Condicionales en BD).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. Clausula AS (Alias a las columnas).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion a SQL.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/5. ACLs (Listas De Control de Acceso).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
     "Desarrollo_web/BIG DATA/Big Data con Python",
-    "Images/Pasted image 20240222180901.png",
-    "Pasted image 20240222180901.png",
-    "Images/Pasted image 20240220180444.png",
-    "Images/Pasted image 20240220180422.png",
-    "Images/Pasted image 20240220180227.png",
-    "Images/Pasted image 20240220175757.png",
-    "Images/Pasted image 20240220175626.png",
-    "Images/Pasted image 20240220175317.png",
-    "Images/Pasted image 20240220173145.png",
-    "Images/Pasted image 20240220172223.png",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
     "Desarrollo_web/BIG DATA/Python/Python Basico/Sin título",
     "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos",
     "Desarrollo_web/BIG DATA/Python/Python Basico",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/OSINT",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/Untitled",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento",
     "Untitled.canvas"
   ]
 }

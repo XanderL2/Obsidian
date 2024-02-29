@@ -52,7 +52,6 @@ SELECT * FROM usuarios WHERE usuarios.id NOT IN (SELECT usuario_id FROM pedidos)
 
 
 
-
 ## Doble Join:
 Los Joins dobles van sin comas, y siguiendo la estructura del join.
 
