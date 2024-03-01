@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib y Seaborn).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pop",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib y Seaborn).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib y Seaborn).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md"
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib y Seaborn).md"
               }
             }
           }
@@ -172,30 +171,37 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7fd812c85db77781",
+  "active": "758f883ee5c06080",
   "lastOpenFiles": [
-    "Images/Pasted image 20240229193609.png",
-    "Images/Pasted image 20240229193452.png",
-    "Images/Pasted image 20240229193406.png",
-    "Images/Pasted image 20240229170350.png",
-    "Images/Pasted image 20240227171744.png",
-    "Images/Pasted image 20240227165710.png",
-    "Images/Pasted image 20240227165700.png",
+    "Images/Pasted image 20240301154054.png",
+    "Images/Pasted image 20240301153945.png",
+    "Images/Pasted image 20240301140646.png",
+    "Images/Pasted image 20240301135951.png",
+    "Images/Pasted image 20240301135927.png",
+    "Images/Pasted image 20240301135624.png",
+    "Images/Pasted image 20240301135148.png",
+    "Pasted image 20240301154054.png",
+    "Pasted image 20240301153945.png",
+    "Pasted image 20240301140646.png",
+    "Pasted image 20240301135951.png",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/4. Seaborn (Estadistica).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib y Seaborn).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/2. Extraccion datos de Archivos CSV con Pandas.md",
-    "Pasted image 20240229193609.png",
-    "Pasted image 20240229193452.png",
-    "Pasted image 20240229193406.png",
     "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/3. Librerias Graficas (Matplotlib).md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/4. Seaborn (Estadistica).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/Temas repaso.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
+    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
+    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
+    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Extraction",
-    "Pasted image 20240229170350.png",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
@@ -206,13 +212,6 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
     "Ciberseguridad/Hacking Etico/Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Diferencia entre OSINT - Footprinting y Reconocimiento.md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos en SQL.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
     "Desarrollo_web/BIG DATA/Big Data con Python",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
