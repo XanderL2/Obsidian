@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commits",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md"
               }
             }
           }
@@ -173,15 +171,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "31d4fa1733a47e66",
+  "active": "758f883ee5c06080",
   "lastOpenFiles": [
+    "Images/Pasted image 20240302201643.png",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
+    "Desarrollo_web/PROGRAMACION/6. Switch - Case.md",
+    "Pasted image 20240302201643.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Visualization/1. Librerias Graficas (Matplotlib).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Visualization",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/Sin título",
@@ -196,7 +202,6 @@
     "Images/Pasted image 20240301135148.png",
     "Pasted image 20240301154054.png",
     "Pasted image 20240301153945.png",
-    "Pasted image 20240301140646.png",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/4. Seaborn (Estadistica).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/2. Extraccion datos de Archivos CSV con Pandas.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
@@ -210,13 +215,6 @@
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Extraction",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
     "Desarrollo_web/BIG DATA/Big Data con Python",
     "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
