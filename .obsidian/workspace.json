@@ -8,42 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "758f883ee5c06080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7fd812c85db77781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d892531cc7cc04f6",
+            "id": "bd7419ed447798b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "puertos comun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md"
               }
             }
           }
@@ -171,54 +160,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "758f883ee5c06080",
+  "active": "bd7419ed447798b0",
   "lastOpenFiles": [
-    "Images/Pasted image 20240302201643.png",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Desarrollo_web/PROGRAMACION/6. Switch - Case.md",
-    "Pasted image 20240302201643.png",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros Avanzada.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Comandos Basicos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Windows/1. Gestion de Archivos en Windows.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/0. Shebang (Interprete de Comandos).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/20. Expresiones Regulares.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/19. Excepciones.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Visualization/1. Librerias Graficas (Matplotlib).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/7. Bucle For.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/6. Bucle Do - While.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/5. Bucle While.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/4. Condicionales IF - ELSE.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
+    "Images/Pasted image 20240309181744.png",
+    "Images/Pasted image 20240309173848.png",
+    "Images/Pasted image 20240309173608.png",
+    "Images/Pasted image 20240309173521.png",
+    "Images/Pasted image 20240309134652.png",
+    "Pasted image 20240309181744.png",
+    "Pasted image 20240309173848.png",
+    "Pasted image 20240309173608.png",
+    "Pasted image 20240309173521.png",
+    "Pasted image 20240309134652.png",
+    "Ciberseguridad/Sistemas Operativos/Windows",
+    "Ingles/Sin título",
+    "Ingles",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Visualization",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/Sin título",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/Sin título",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Images/Pasted image 20240301154054.png",
-    "Images/Pasted image 20240301153945.png",
-    "Images/Pasted image 20240301140646.png",
-    "Images/Pasted image 20240301135951.png",
-    "Images/Pasted image 20240301135927.png",
-    "Images/Pasted image 20240301135624.png",
-    "Images/Pasted image 20240301135148.png",
-    "Pasted image 20240301154054.png",
-    "Pasted image 20240301153945.png",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/4. Seaborn (Estadistica).md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/2. Extraccion datos de Archivos CSV con Pandas.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
-    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
-    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
-    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Extraction",
     "Desarrollo_web/BIG DATA/Big Data con Python",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Sniffers",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/Sin título",
     "Untitled.canvas"
   ]
 }
