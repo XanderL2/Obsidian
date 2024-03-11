@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md"
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md"
               }
             }
           }
@@ -161,11 +161,12 @@
   },
   "active": "537610abe9459ea2",
   "lastOpenFiles": [
+    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
+    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
     "Images/Pasted image 20240311175629.png",
     "Images/Pasted image 20240311174944.png",
     "Images/Pasted image 20240311173722.png",
-    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
-    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
     "Pasted image 20240311175629.png",
     "Pasted image 20240311174944.png",
     "Pasted image 20240311173722.png",
@@ -198,7 +199,6 @@
     "Images/Pasted image 20240309173848.png",
     "Images/Pasted image 20240309173608.png",
     "Images/Pasted image 20240309173521.png",
-    "Images/Pasted image 20240309134652.png",
     "Ciberseguridad/Sistemas Operativos/Windows",
     "Ingles/Sin título",
     "Ingles",
