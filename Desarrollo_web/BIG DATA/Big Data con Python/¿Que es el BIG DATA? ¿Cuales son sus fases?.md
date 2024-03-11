@@ -1,5 +1,5 @@
 
----
+--kk-
 ## ¿Que es el BIG DATA?
 Es la accion de manejar grandes volumenes de datos de diferentes fuentes, tipos y velocidades, todo para convertir esos datos en informacion util para la toma de decisiones.
 
@@ -33,7 +33,7 @@ Es la accion de manejar grandes volumenes de datos de diferentes fuentes, tipos 
 	 
 	 
 	 
-- **Manipulacion de Datos (Data Wrangling):**
+- **Manipulacion de Datos (Data Wrangling o Data Cleaning):**
 	 Esta fase implica la limpieza de datos (Limpiar los datos irrelevantes), y en general se preparan los datos para su analisis.
 	 ![[Pasted image 20240229170350.png]]
 	 Aparte de esto, durante esta fase se lleva a cabo el proceso de **Data Cleaning** el cual es el encargado de limpiar toda esa informacion de otra informacion que es no relevante para el estudio

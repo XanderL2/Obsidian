@@ -8,31 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fd812c85db77781",
+            "id": "537610abe9459ea2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bd7419ed447798b0",
+            "id": "7fd812c85db77781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+                "file": "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "puertos comun",
+                "query": "constructor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md"
+                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md"
               }
             }
           }
@@ -160,54 +159,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd7419ed447798b0",
+  "active": "537610abe9459ea2",
   "lastOpenFiles": [
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
+    "Images/Pasted image 20240311175629.png",
+    "Images/Pasted image 20240311174944.png",
+    "Images/Pasted image 20240311173722.png",
+    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+    "Pasted image 20240311175629.png",
+    "Pasted image 20240311174944.png",
+    "Pasted image 20240311173722.png",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
+    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
+    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
+    "Desarrollo_web/BIG DATA/Flask/4. Manejo de Errores de rutas con Flask.md",
+    "Desarrollo_web/BIG DATA/Flask/3. Enrutado en Flask.md",
+    "Desarrollo_web/BIG DATA/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
+    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Backend? Funciones.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization/1. Librerias Graficas (Matplotlib).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Anotaciones.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros Avanzada.md",
     "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Comandos Basicos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+    "EXAMEN FOL.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
     "Ciberseguridad/Sistemas Operativos/Windows/1. Gestion de Archivos en Windows.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/0. Shebang (Interprete de Comandos).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/20. Expresiones Regulares.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/19. Excepciones.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/7. Bucle For.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/6. Bucle Do - While.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/5. Bucle While.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/4. Condicionales IF - ELSE.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
     "Images/Pasted image 20240309181744.png",
     "Images/Pasted image 20240309173848.png",
     "Images/Pasted image 20240309173608.png",
     "Images/Pasted image 20240309173521.png",
     "Images/Pasted image 20240309134652.png",
-    "Pasted image 20240309181744.png",
-    "Pasted image 20240309173848.png",
-    "Pasted image 20240309173608.png",
-    "Pasted image 20240309173521.png",
-    "Pasted image 20240309134652.png",
     "Ciberseguridad/Sistemas Operativos/Windows",
     "Ingles/Sin título",
     "Ingles",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Visualization",
+    "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/Sin título",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/Sin título",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction",
-    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Extraction",
-    "Desarrollo_web/BIG DATA/Big Data con Python",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction",
     "Untitled.canvas"
   ]
 }
