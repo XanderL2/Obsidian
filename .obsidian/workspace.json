@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7fd812c85db77781",
+            "id": "2d2f84c759f2912d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "constructor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md"
               }
             }
           }
@@ -161,44 +161,44 @@
   },
   "active": "537610abe9459ea2",
   "lastOpenFiles": [
-    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
-    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/BOOTSTRAP/2. Grid de Bootstrap  y Breakpoints.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/BOOTSTRAP/1. Introduccion y Utilizacion de Bootstrap.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4.  XPATH.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
+    "Images/Pasted image 20240207193549.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros Avanzada.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Comandos Basicos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
+    "Desarrollo_web/BASE DATOS/INTRODUCCION/1. Introduccion a las Bases de Datos.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
     "Images/Pasted image 20240311175629.png",
     "Images/Pasted image 20240311174944.png",
     "Images/Pasted image 20240311173722.png",
     "Pasted image 20240311175629.png",
     "Pasted image 20240311174944.png",
     "Pasted image 20240311173722.png",
-    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Desarrollo_web/BIG DATA/Flask/8. Objeto Request (Metodos Post y Get).md",
-    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
-    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
-    "Desarrollo_web/BIG DATA/Flask/4. Manejo de Errores de rutas con Flask.md",
-    "Desarrollo_web/BIG DATA/Flask/3. Enrutado en Flask.md",
-    "Desarrollo_web/BIG DATA/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
-    "Desarrollo_web/BIG DATA/Flask/1. ¿Que es Backend? Funciones.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization/1. Librerias Graficas (Matplotlib).md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Anotaciones.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros Avanzada.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Comandos Basicos.md",
-    "EXAMEN FOL.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
-    "Ciberseguridad/Sistemas Operativos/Windows/1. Gestion de Archivos en Windows.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
     "Images/Pasted image 20240309181744.png",
     "Images/Pasted image 20240309173848.png",
     "Images/Pasted image 20240309173608.png",
-    "Images/Pasted image 20240309173521.png",
     "Ciberseguridad/Sistemas Operativos/Windows",
     "Ingles/Sin título",
     "Ingles",

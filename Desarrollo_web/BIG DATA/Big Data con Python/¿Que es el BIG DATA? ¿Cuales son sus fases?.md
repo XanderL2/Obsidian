@@ -1,5 +1,5 @@
 
---kk-
+---
 ## ¿Que es el BIG DATA?
 Es la accion de manejar grandes volumenes de datos de diferentes fuentes, tipos y velocidades, todo para convertir esos datos en informacion util para la toma de decisiones.
 
