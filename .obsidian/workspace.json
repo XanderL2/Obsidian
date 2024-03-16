@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md"
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "537610abe9459ea2",
   "lastOpenFiles": [
-    "Images/Pasted image 20240316170915.png",
-    "Images/Pasted image 20240315133418.png",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+    "Images/Pasted image 20240316170915.png",
+    "Images/Pasted image 20240315133418.png",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
     "Pasted image 20240316170915.png",
     "Pasted image 20240315133418.png",
@@ -198,7 +198,6 @@
     "Images/Pasted image 20240311175629.png",
     "Images/Pasted image 20240311174944.png",
     "Images/Pasted image 20240311173722.png",
-    "Pasted image 20240311175629.png",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning",
     "Ciberseguridad/Sistemas Operativos/Windows",
