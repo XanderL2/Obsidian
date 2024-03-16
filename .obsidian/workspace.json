@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. ¿Que es un EndPoint?.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d0041123ee9b785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Fundamentos de Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. ¿Que es un EndPoint?.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. ¿Que es un EndPoint?.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. ¿Que es un EndPoint?.md"
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md"
               }
             }
           }
@@ -149,52 +161,52 @@
   },
   "active": "537610abe9459ea2",
   "lastOpenFiles": [
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. ¿Que es un EndPoint?.md",
+    "Images/Pasted image 20240316170915.png",
+    "Images/Pasted image 20240315133418.png",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
+    "Pasted image 20240316170915.png",
+    "Pasted image 20240315133418.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Create, Read, Update, Delete).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Clausula Order By (Ordenar Registros).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. Clausula AS (Alias a las columnas).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion o Muestreo de Datos (Clausula Select).md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
-    "EXAMEN FOL.md",
+    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
+    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
+    "Desarrollo_web/PROGRAMACION/13. Matrices Escalonadas.md",
+    "Desarrollo_web/PROGRAMACION/12. Arreglos Bidimensionales (Matrices).md",
+    "Desarrollo_web/PROGRAMACION/11. Arrays.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario.md",
+    "Markdown Sintax/Markdown Sintax.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/2. Tipos de Ataques en Red.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/1. Exploits, Vulnerabilidades y Payloads.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
     "Images/Pasted image 20240312213357.png",
     "Pasted image 20240312213357.png",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4.  XPATH.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
-    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
-    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins (Consultas Multitabla).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de las Clausulas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Constraints).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/BOOTSTRAP/2. Grid de Bootstrap  y Breakpoints.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/BOOTSTRAP/1. Introduccion y Utilizacion de Bootstrap.md",
     "Images/Pasted image 20240207193549.png",
     "Images/Pasted image 20240311175629.png",
     "Images/Pasted image 20240311174944.png",
     "Images/Pasted image 20240311173722.png",
     "Pasted image 20240311175629.png",
-    "Pasted image 20240311174944.png",
-    "Pasted image 20240311173722.png",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning",
-    "Images/Pasted image 20240309181744.png",
     "Ciberseguridad/Sistemas Operativos/Windows",
     "Ingles/Sin título",
     "Ingles",
     "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/Sin título",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/Sin título",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction",
     "Untitled.canvas"
   ]
 }
