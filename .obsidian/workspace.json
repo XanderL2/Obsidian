@@ -8,30 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "537610abe9459ea2",
+            "id": "9d0041123ee9b785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization/1. Librerias Graficas (Matplotlib).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2766bf100752b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d0041123ee9b785",
+            "id": "07724cfc4c8e8a99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tablas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md"
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md"
               }
             }
           }
@@ -156,48 +169,53 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "537610abe9459ea2",
+  "active": "b2766bf100752b98",
   "lastOpenFiles": [
+    "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization/1. Librerias Graficas (Matplotlib).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
+    "Desarrollo_web/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
+    "Images/2024-02-01-16-24-21.jpeg",
+    "Images/IMAGEN MAPA.png",
+    "Images/Pasted image 20240124163345.png",
+    "Images/Pasted image 20240124163117.png",
+    "Images/Pasted image 20240124162724.png",
+    "README.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Excalidraw/Drawing 2024-03-17 23.21.59.excalidraw.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Excalidraw/Drawing 2024-03-17 23.05.52.excalidraw.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/3. Links e Imagenes.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/5. Botones.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/6. Formularios.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
+    "Excalidraw/Drawing 2024-03-16 20.24.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-17 16.50.02.excalidraw.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
+    "Excalidraw",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
     "Images/Pasted image 20240316170915.png",
     "Images/Pasted image 20240315133418.png",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
     "Pasted image 20240316170915.png",
     "Pasted image 20240315133418.png",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Fundamentos de Testing.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
-    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
-    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
-    "Desarrollo_web/PROGRAMACION/13. Matrices Escalonadas.md",
-    "Desarrollo_web/PROGRAMACION/12. Arreglos Bidimensionales (Matrices).md",
-    "Desarrollo_web/PROGRAMACION/11. Arrays.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario.md",
-    "Markdown Sintax/Markdown Sintax.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/3. Malwares.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/2. Tipos de Ataques en Red.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/8. Ataques y Malwares en Red/1. Exploits, Vulnerabilidades y Payloads.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
     "Images/Pasted image 20240312213357.png",
-    "Pasted image 20240312213357.png",
-    "Images/Pasted image 20240207193549.png",
-    "Images/Pasted image 20240311175629.png",
-    "Images/Pasted image 20240311174944.png",
-    "Images/Pasted image 20240311173722.png",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning",
     "Ciberseguridad/Sistemas Operativos/Windows",
@@ -205,7 +223,6 @@
     "Ingles",
     "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization",
     "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/Sin título",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Data Extraction/CSV con Pandas/Sin título",
     "Untitled.canvas"
   ]
 }
