@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,18 +160,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07724cfc4c8e8a99",
+  "active": "b2766bf100752b98",
   "lastOpenFiles": [
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
@@ -195,7 +195,6 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
     "Excalidraw/Drawing 2024-03-17 23.21.59.excalidraw.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Excalidraw/Drawing 2024-03-17 23.05.52.excalidraw.md",
     "Sin título 1.canvas",
     "Images/Pasted image 20240316170915.png",
     "Images/Pasted image 20240315133418.png",
