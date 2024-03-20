@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,18 +161,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2766bf100752b98",
+  "active": "07724cfc4c8e8a99",
   "lastOpenFiles": [
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
