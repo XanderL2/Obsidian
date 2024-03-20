@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md"
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "b2766bf100752b98",
   "lastOpenFiles": [
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
