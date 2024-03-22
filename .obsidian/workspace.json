@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77db4a48fc156b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,12 +38,13 @@
               "type": "markdown",
               "state": {
                 "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
+                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md"
+                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md"
               }
             }
           }
@@ -160,41 +173,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2766bf100752b98",
+  "active": "77db4a48fc156b79",
   "lastOpenFiles": [
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/PROGRAMACION/15. Funciones.md",
+    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
+    "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
+    "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
+    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Manipulacion y Extracccion de Informacion con Pandas.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
-    "Excalidraw/Drawing 2024-03-19 08.32.51.excalidraw.md",
-    "Excalidraw",
-    "2024-03-19.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/3. ¿Donde se usa XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/2.  DTDS (Reglas de un documento XML).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/XML/1. ¿Que es XML?.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
     "Sin título.canvas",
-    "Desarrollo_web/BIG DATA/Big Data con Python/4. Data Visualization/1. Librerias Graficas (Matplotlib).md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
-    "Desarrollo_web/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
+    "Excalidraw/Drawing 2024-03-21 09.40.43.excalidraw.md",
+    "Excalidraw",
+    "Desarrollo_web/LENGUAJE DE MARCAS/Servicios Web/2. Arquitectura REST.md",
+    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
+    "Desarrollo_web/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
+    "Desarrollo_web/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/JSONS/1. ¿Que son los JSONS.md",
+    "Desarrollo_web/BIG DATA/Pygame/3. Dibujado de Figuras con Bucles.md",
+    "Desarrollo_web/BIG DATA/Pygame/4. Animaciones.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
     "Images/2024-02-01-16-24-21.jpeg",
     "Images/IMAGEN MAPA.png",
     "Images/Pasted image 20240124163345.png",
     "Images/Pasted image 20240124163117.png",
     "Images/Pasted image 20240124162724.png",
-    "README.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
-    "Excalidraw/Drawing 2024-03-17 23.21.59.excalidraw.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Sin título 1.canvas",
     "Images/Pasted image 20240316170915.png",
     "Images/Pasted image 20240315133418.png",
