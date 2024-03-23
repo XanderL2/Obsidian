@@ -1,6 +1,0 @@
-- **Sobrecarga de funciones**
-- **Paso de parametros por referencia**
-- **Estructuras dinamicas:**
-	- **Listas (Arraylists)**
-	- **Pilas**
-	- **Colas**

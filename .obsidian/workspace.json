@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
+                "file": "Desarrollo_web/PROGRAMACION/20. Pilas (Stack).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,22 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
-                "mode": "preview",
+                "file": "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
+                "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2bb0154d6074fa6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
+                "file": "Desarrollo_web/PROGRAMACION/20. Pilas (Stack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
+                "file": "Desarrollo_web/PROGRAMACION/20. Pilas (Stack).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md"
+                "file": "Desarrollo_web/PROGRAMACION/20. Pilas (Stack).md"
               }
             }
           }
@@ -181,11 +173,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07724cfc4c8e8a99",
+  "active": "77db4a48fc156b79",
   "lastOpenFiles": [
-    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
+    "Images/Pasted image 20240323123601.png",
+    "Images/Pasted image 20240323123554.png",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
+    "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
+    "Desarrollo_web/PROGRAMACION/20. Pilas (Stack).md",
     "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
     "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
+    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
     "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
     "Desarrollo_web/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
@@ -207,10 +204,6 @@
     "Pasted image 20240323123554.png",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/20. Expresiones Regulares.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "Sin título.canvas",
     "Excalidraw",
     "Images/2024-02-01-16-24-21.jpeg",
@@ -221,7 +214,6 @@
     "Sin título 1.canvas",
     "Images/Pasted image 20240316170915.png",
     "Images/Pasted image 20240315133418.png",
-    "Pasted image 20240316170915.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
