@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/Sin título.md",
+                "file": "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Temas repaso.md",
+                "file": "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
-                "mode": "preview",
+                "file": "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/Sin título.md",
+                "file": "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/Sin título.md",
+                "file": "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/Sin título.md"
+                "file": "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md"
               }
             }
           }
@@ -172,18 +173,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2766bf100752b98",
+  "active": "07724cfc4c8e8a99",
   "lastOpenFiles": [
-    "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
-    "Desarrollo_web/PROGRAMACION/Sin título.md",
+    "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
+    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
+    "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "Desarrollo_web/BASE DATOS/Temas repaso.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
     "Desarrollo_web/PROGRAMACION/15. Funciones.md",
     "Desarrollo_web/PROGRAMACION/14. Structs (Diccionarios).md",
-    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/7. XQUERY.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/5.  XPATH.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
