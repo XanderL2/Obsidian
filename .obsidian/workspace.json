@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,8 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md"
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md"
               }
+            }
+          },
+          {
+            "id": "d671545013b3347b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -162,9 +170,15 @@
   },
   "active": "77db4a48fc156b79",
   "lastOpenFiles": [
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Pasted image 20240325190011.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "Images/Pasted image 20240324203130.png",
+    "2024-03-24.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
+    "Pasted image 20240324203130.png",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
@@ -190,10 +204,6 @@
     "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
     "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
-    "Desarrollo_web/PROGRAMACION/2. Variables, Constantes y Tipos de Datos.md",
-    "Desarrollo_web/PROGRAMACION/1. Estructura Basica de un Programa en C-Sharp.md",
-    "Desarrollo_web/PROGRAMACION/17. Sobrecarga de Funciones.md",
-    "Desarrollo_web/PROGRAMACION/16. Variables Globales.md",
     "Pasted image 20240323123601.png",
     "Pasted image 20240323123554.png",
     "Sin título.canvas",
@@ -202,9 +212,7 @@
     "Images/IMAGEN MAPA.png",
     "Images/Pasted image 20240124163345.png",
     "Images/Pasted image 20240124163117.png",
-    "Images/Pasted image 20240124162724.png",
     "Sin título 1.canvas",
-    "Images/Pasted image 20240316170915.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
     "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
