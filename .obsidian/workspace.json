@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+                "file": "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md"
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md"
               }
             }
           },
@@ -168,31 +169,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77db4a48fc156b79",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "Images/Pasted image 20240326173003.png",
+    "Images/Pasted image 20240326162603.png",
+    "Images/Pasted image 20240325190011.png",
+    "Pasted image 20240326173003.png",
+    "Pasted image 20240326162603.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario.md",
+    "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Pasted image 20240325190011.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Images/Pasted image 20240324203130.png",
     "2024-03-24.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
     "Pasted image 20240324203130.png",
-    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
-    "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Sin título.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE",
     "Desarrollo_web/PROGRAMACION/20. Pilas (Stacks).md",
-    "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
@@ -205,13 +211,8 @@
     "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
     "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
     "Pasted image 20240323123601.png",
-    "Pasted image 20240323123554.png",
     "Sin título.canvas",
     "Excalidraw",
-    "Images/2024-02-01-16-24-21.jpeg",
-    "Images/IMAGEN MAPA.png",
-    "Images/Pasted image 20240124163345.png",
-    "Images/Pasted image 20240124163117.png",
     "Sin título 1.canvas",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
