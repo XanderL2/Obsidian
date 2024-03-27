@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md"
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md"
               }
             }
           },
@@ -169,19 +168,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "77db4a48fc156b79",
   "lastOpenFiles": [
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario (XUnit).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
+    "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Images/Pasted image 20240326173003.png",
     "Images/Pasted image 20240326162603.png",
     "Images/Pasted image 20240325190011.png",
     "Pasted image 20240326173003.png",
     "Pasted image 20240326162603.png",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario.md",
     "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Pasted image 20240325190011.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
@@ -209,8 +210,6 @@
     "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
     "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Desarrollo_web/PROGRAMACION/4. Operadores en C-Sharp.md",
-    "Desarrollo_web/PROGRAMACION/3. Entrada y Salida de Datos.md",
-    "Pasted image 20240323123601.png",
     "Sin título.canvas",
     "Excalidraw",
     "Sin título 1.canvas",

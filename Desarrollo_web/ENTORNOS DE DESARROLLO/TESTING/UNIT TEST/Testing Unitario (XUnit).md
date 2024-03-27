@@ -4,9 +4,4 @@
 
 
 
-## Metodos de Testing con C#:
-
-- 
-
-
 
