@@ -14,8 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b85e38c7b5309c94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-27 13.03.13.excalidraw.md"
               }
             }
           },
@@ -25,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,11 +180,20 @@
   },
   "active": "77db4a48fc156b79",
   "lastOpenFiles": [
+    "Images/Pasted image 20240327135749.png",
+    "Images/Pasted image 20240327135130.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Testing.md",
+    "Pasted image 20240327135749.png",
+    "Excalidraw/Drawing 2024-03-27 13.03.13.excalidraw.md",
+    "Pasted image 20240327135130.png",
+    "Excalidraw/Drawing 2024-03-27 13.03.13.excalidraw.png",
+    "Pasted image 20240327132305.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
+    "Excalidraw",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/Testing Unitario (XUnit).md",
     "Desarrollo_web/PROGRAMACION/21. Colas (Queue).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Images/Pasted image 20240326173003.png",
@@ -184,14 +203,11 @@
     "Pasted image 20240326162603.png",
     "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Pasted image 20240325190011.png",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
-    "Images/Pasted image 20240324203130.png",
     "2024-03-24.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
-    "Pasted image 20240324203130.png",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/Sin título.md",
@@ -205,13 +221,7 @@
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/19. Excepciones.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/20. Expresiones Regulares.md",
-    "Images/Pasted image 20240323123601.png",
-    "Images/Pasted image 20240323123554.png",
-    "Desarrollo_web/PROGRAMACION/18. Paso por Valor y por Referencia.md",
-    "Desarrollo_web/PROGRAMACION/TEMAS QUE FALTAN.md",
     "Sin título.canvas",
-    "Excalidraw",
     "Sin título 1.canvas",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
