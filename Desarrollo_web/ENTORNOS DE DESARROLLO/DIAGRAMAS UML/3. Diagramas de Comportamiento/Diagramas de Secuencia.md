@@ -20,7 +20,7 @@ Estos se basan en colocar un rectangulo como cabecera representando el objetom c
 
 ![[Pasted image 20240329165942.png]]
 
-Ejemplo 2:
+**Ejemplo 2:**
 ![[Pasted image 20240329171338.png]]
 
 
