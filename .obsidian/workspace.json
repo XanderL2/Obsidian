@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md"
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md"
               }
             }
           },
@@ -168,18 +168,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "77db4a48fc156b79",
   "lastOpenFiles": [
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
+    "Pasted image 20240329122928.png",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Secuencia",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/4. Parametrizacion y Reutilizacion de Funciones.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GI/Sin título",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GI",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
     "Excalidraw/Drawing 2024-03-27 13.03.13.excalidraw.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
@@ -194,7 +200,6 @@
     "Images/Pasted image 20240326173003.png",
     "Images/Pasted image 20240326162603.png",
     "Images/Pasted image 20240325190011.png",
-    "Pasted image 20240326173003.png",
     "Desarrollo_web/PROGRAMACION/19. Listas Dinamicas (Lists).md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
@@ -210,13 +215,8 @@
     "Desarrollo_web/PROGRAMACION/20. Pilas (Stacks).md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/19. Excepciones.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING",
-    "Desarrollo_web/BIG DATA/Big Data con Python/3. Data Analysis",
     "Untitled.canvas"
   ]
 }
