@@ -40,8 +40,11 @@ Son diagramas que utilizamos para entender como los usuarios interactuan con el 
 	 El usuario podra:
 		 -  Ver menu.
 		 -  Ver el tiempo estimado del pedido
-		
 
-![[Pasted image 20240329135011.png]]
+
+
+![[Pasted image 20240329153757.png]]
+
+
 
 
