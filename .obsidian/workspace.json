@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f5b86317b9df178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tablas",
+                "query": "ascendi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md"
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md"
               }
             }
           },
@@ -168,14 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55081b095a9763b7",
+  "active": "733fb85d3836cd0e",
   "lastOpenFiles": [
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
     "Desarrollo_web/PROGRAMACION/2. Csharp Orientado a Objetos/2. Clases e Instancias.md",
     "Images/Pasted image 20240329224803.png",
     "Images/Pasted image 20240329224729.png",
