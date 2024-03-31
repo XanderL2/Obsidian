@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados (Stored Procedures).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados (Stored Procedures).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados (Stored Procedures).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados (Stored Procedures).md"
               }
             }
           },
@@ -183,9 +183,14 @@
   },
   "active": "733fb85d3836cd0e",
   "lastOpenFiles": [
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados (Stored Procedures).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Views).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion a SQL.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
     "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
@@ -214,11 +219,6 @@
     "Images/Pasted image 20240329165942.png",
     "Images/Pasted image 20240329162802.png",
     "Pasted image 20240329171338.png",
-    "Excalidraw/Sin título.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
     "Desarrollo_web/PROGRAMACION/2. Csharp Orientado a Objetos",
     "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML",
