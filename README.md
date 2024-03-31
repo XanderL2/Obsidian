@@ -5,7 +5,11 @@ Hola, este es un Repositorio de Anotaciones de Programacion / Ciberseguridad e i
 
 ## Preview
 
+![enter image description here](https://raw.githubusercontent.com/XanderL2/Obsidian/master/.preview/Preview1.png)
 
+
+**Funcionalidad de Creacion y Personalizacionn de Diagramas de Manera Nativa**
+![enter image description here](https://raw.githubusercontent.com/XanderL2/Obsidian/master/.preview/preview2.png)
 
 
 ## Indices: 
