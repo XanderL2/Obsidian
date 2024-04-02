@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md"
               }
             }
           },
@@ -158,42 +158,42 @@
   },
   "active": "55081b095a9763b7",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/9. Limit, Offset y Distinct (Limitacion de Registros)/10. Limit (Limitar los Registros que traigamos).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/8. Filtrato de Datos (Where)/Where (Condicionales en BD).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/7. Funciones de SQL/Funciones Predeterminadas en SQL y Comentarios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Operadores SQL/Operadores en SQL (Like, Beetween, Not, In, is null).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. As (Alias)/Clausula AS (Alias a las columnas).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion de Datos (Selects)/Recuperacion o Muestreo de Datos (Clausula Select).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos/Tipos de Datos en SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/4. Parametrizacion y Reutilizacion de Funciones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/Transacciones y Bloqueos (Commits y Rollbacks).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/Vistas (Views).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)/Joins (Consultas Multitabla).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By  (Agrupado de Registros)/Group By y Having (Agrupar registros que tienen el mismo valor).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By/Clausula Order By (Ordenar Registros).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/9. Limit, Offset y Distinct (Limitacion de Registros)/Limit (Limitar los Registros que traigamos).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/16. Vistas (Views).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/13. Orden de las Clausulas.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/14. CRUD (Create, Read, Update, Delete).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By  (Agrupado de Registros)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By/6. Clausula Order By (Ordenar Registros).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/15. Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/18. Gestion de Usuarios y Permisos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/19. Procedimientos Almacenados (Stored Procedures).md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
-    "Excalidraw/Drawing 2024-04-02 10.23.44.excalidraw.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
     "preview2.png",
     "Preview1.png",
     "Images/Pasted image 20240329224803.png",
