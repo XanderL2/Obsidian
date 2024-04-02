@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5f5b86317b9df178",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5026054382324,
-    "collapsed": true
+    "width": 341.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md"
               }
             }
           },
@@ -168,35 +156,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5f5b86317b9df178",
+  "active": "55081b095a9763b7",
   "lastOpenFiles": [
-    "preview2.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
-    "Preview1.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/9. Limit, Offset y Distinct (Limitacion de Registros)/10. Limit (Limitar los Registros que traigamos).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/8. Filtrato de Datos (Where)/Where (Condicionales en BD).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/7. Funciones de SQL/Funciones Predeterminadas en SQL y Comentarios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/6. Operadores SQL/Operadores en SQL (Like, Beetween, Not, In, is null).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/5. As (Alias)/Clausula AS (Alias a las columnas).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion de Datos (Selects)/Recuperacion o Muestreo de Datos (Clausula Select).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos/Tipos de Datos en SQL.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/17. Transacciones y Bloqueos (Commits y Rollbacks).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/16. Vistas (Views).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/13. Orden de las Clausulas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/14. CRUD (Create, Read, Update, Delete).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By  (Agrupado de Registros)",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By/6. Clausula Order By (Ordenar Registros).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/15. Restricciones (Constraints).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/18. Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/19. Procedimientos Almacenados (Stored Procedures).md",
     "Desarrollo_web/BASE DATOS/Temas repaso.md",
     "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "README.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/4. Parametrizacion y Reutilizacion de Funciones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
+    "Excalidraw/Drawing 2024-04-02 10.23.44.excalidraw.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
+    "preview2.png",
+    "Preview1.png",
     "Images/Pasted image 20240329224803.png",
     "Images/Pasted image 20240329224729.png",
     "Pasted image 20240329224803.png",
@@ -205,17 +204,6 @@
     "Images/Pasted image 20240329171122.png",
     "Images/Pasted image 20240329170015.png",
     "Images/Pasted image 20240329165942.png",
-    "Images/Pasted image 20240329162802.png",
-    "Desarrollo_web/PROGRAMACION/2. Csharp Orientado a Objetos",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Comportamiento",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GI/Sin título",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML",
-    "Excalidraw",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
