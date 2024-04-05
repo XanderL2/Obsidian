@@ -25,7 +25,7 @@ Es el proceso en el que se evalua el software en distintos tipos de casos, todo 
 	 Las pruebas de integracion evaluan como interactua lo evaluado en las pruebas unitarias, garantizando asi la correcta ejecucion del programa.
 	 - **Integracion No Incremental:**
 		 Primero se prueba cada modulo por separado y luego se integra todo en una sola prueba
-	 - **Integracion No Incremental:**
+	 - **Integracion Incremental:**
 		 Se van integrando progresivamente conforme se vayan probando unitariamente modulos 
 		 
 	 
@@ -36,7 +36,7 @@ Es el proceso en el que se evalua el software en distintos tipos de casos, todo 
 	 Sirven para verificar si el software hace lo que el cliente espera, se llama asi porque se prueba si el cliente acepta el software como tal.
 	 
 - **Pruebas Funcionales;**
-	 Son las pruebas que se hacen para ver si el softtware cumple con los requisitos funcionales y no funcionales estalecidos.
+	 Son las pruebas que se hacen para ver si el softtware cumple con los requisitos funcionales y no funcionales estalecidos. Caja negra
 
 ## Formas de Clasificar los tipos de testing:
 

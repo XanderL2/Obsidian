@@ -6,6 +6,8 @@ Es de gran importancia que los tipos de datos sean los adecuados segun e√± tama√
 
 ## Tipos de Datos:
 
+![[Pasted image 20240405151122.png]]
+
 - **Cadena de Caraceteres:**
     
     Son campos que creados especificamente con el objetivo de aceptar solo un tipo de dato. Los mas usados son Varchar, Char y text,

@@ -13,8 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31b32be742bdad52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d97ba4f7edc05152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e43b5e97685138d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BIG DATA/Pygame/4. Animaciones.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md"
               }
             }
           },
@@ -158,32 +194,33 @@
   },
   "active": "55081b095a9763b7",
   "lastOpenFiles": [
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "Images/Pasted image 20240405151122.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos/Tipos de Datos en SQL.md",
+    "Pasted image 20240405151122.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
+    "Desarrollo_web/BIG DATA/Pygame/4. Animaciones.md",
+    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
+    "Desarrollo_web/BIG DATA/Pygame/3. Dibujado de Figuras con Bucles.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Desarrollo_web/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/4. Parametrizacion y Reutilizacion de Funciones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/0. Instalacion de XUnit.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)/Joins (Consultas Multitabla).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By  (Agrupado de Registros)/Group By y Having (Agrupar registros que tienen el mismo valor).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
@@ -203,7 +240,6 @@
     "Images/Pasted image 20240329171338.png",
     "Images/Pasted image 20240329171122.png",
     "Images/Pasted image 20240329170015.png",
-    "Images/Pasted image 20240329165942.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"

@@ -580,8 +580,8 @@ tiempo estimado ^LSjKFWko
 		},
 		{
 			"type": "rectangle",
-			"version": 130,
-			"versionNonce": 20108320,
+			"version": 131,
+			"versionNonce": 650417364,
 			"isDeleted": false,
 			"id": "TlyvOEcYaoOJAOAjBKKcL",
 			"fillStyle": "solid",
@@ -591,7 +591,7 @@ tiempo estimado ^LSjKFWko
 			"opacity": 100,
 			"angle": 0,
 			"x": -28.996114940000837,
-			"y": -478.9781926588212,
+			"y": -479.8990973073486,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#96f2d7",
 			"width": 165.5172939407331,
@@ -608,14 +608,14 @@ tiempo estimado ^LSjKFWko
 					"id": "efqit593"
 				}
 			],
-			"updated": 1711727816366,
+			"updated": 1712087736640,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 2133589472,
+			"version": 152,
+			"versionNonce": 209902164,
 			"isDeleted": false,
 			"id": "efqit593",
 			"fillStyle": "solid",
@@ -625,7 +625,7 @@ tiempo estimado ^LSjKFWko
 			"opacity": 100,
 			"angle": 0,
 			"x": 21.242565904877438,
-			"y": -467.4653153442558,
+			"y": -468.38621999278325,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.03993225097656,
@@ -635,7 +635,7 @@ tiempo estimado ^LSjKFWko
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1711727816366,
+			"updated": 1712087736640,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1645,10 +1645,10 @@ tiempo estimado ^LSjKFWko
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 982.293013927807,
-		"scrollY": 549.5187443847291,
+		"scrollX": 759.4367388629988,
+		"scrollY": 646.75775371236,
 		"zoom": {
-			"value": 0.9425739074302643
+			"value": 0.9048852013221511
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
