@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case.md",
-                "mode": "source",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do(Bucles).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do(Bucles).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do(Bucles).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do(Bucles).md"
               }
             }
           },
@@ -195,8 +195,9 @@
   },
   "active": "31b32be742bdad52",
   "lastOpenFiles": [
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case (Condicionales).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do(Bucles).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
@@ -222,7 +223,6 @@
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
