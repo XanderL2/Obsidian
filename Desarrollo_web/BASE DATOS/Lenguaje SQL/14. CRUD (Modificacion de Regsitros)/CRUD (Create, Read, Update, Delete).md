@@ -4,36 +4,19 @@
 
 ![[Pasted image 20240201183325.png]]
 
-CREATE (Insert)
+**CREATE (Insert):**
 Se refiere a la acción de agregar registros a la BD, Estos se hacen con la funcion Insert.
 
-READ (Select):
+**READ (Select):**
 Significa la acción de consultar o ver los datos de una base datos.
 
-UPDATE:
+**UPDATE:**
 Se refiere a la accion de editar los datos de la base de datos.
 
-DELETE:
+**DELETE:**
 Es la accion de eliminar datos de una base de datos.
 
-## Select:
-
-- El comando "SELECT" en SQL es como pedirle a una base de datos que te muestre información específica que está guardada en ella. En el CRUD seria “Read”, que es la acción de consultar o ver los datos de una entidad o base de datos.
-
-```sql
-SELECT * FROM nombreEntidad;
-
-//Ejemplo:
-SELECT * FROM Alumnos;
-//Le estamos diciendo, dejame ver todo lo que hay en la entidad Alumnos
-
-//Tambien podemos decirle que nos muestre solo algunos campos de la entidad 
-//de la siguiente manera:
-
-SELECT campo1, campo FROM nombreEntidad;
-```
-
-## Insert:
+## Insert (Create):
 
 - El Insert se hace para crear nuevos registros dentro de la entidad, en el CRUD hace referencia a CREATE.
 
@@ -51,6 +34,24 @@ VALUES ("Paquito", "Mercedes", 23),
 		("Rodrigo", "Jimenez", 20);
 
 ```
+
+## Select (Read):
+
+- El comando "SELECT" en SQL es como pedirle a una base de datos que te muestre información específica que está guardada en ella. En el CRUD seria “Read”, que es la acción de consultar o ver los datos de una entidad o base de datos.
+
+```sql
+SELECT * FROM nombreEntidad;
+
+//Ejemplo:
+SELECT * FROM Alumnos;
+//Le estamos diciendo, dejame ver todo lo que hay en la entidad Alumnos
+
+//Tambien podemos decirle que nos muestre solo algunos campos de la entidad 
+//de la siguiente manera:
+
+SELECT campo1, campo FROM nombreEntidad;
+```
+
 
 ## Delete:
 

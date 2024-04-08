@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
-                "mode": "preview",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md",
-                "mode": "source",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,14 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ascendi",
+                "query": "broad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md"
               }
             }
           },
@@ -193,38 +192,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31b32be742bdad52",
+  "active": "55081b095a9763b7",
   "lastOpenFiles": [
-    "Images/Pasted image 20240405213116.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Gestion de Privilegios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/Vistas (Views).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)/Joins (Consultas Multitabla).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
+    "Images/Pasted image 20240405213116.png",
     "Pasted image 20240405213116.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/9. Loop (Bucles).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/7. While - Do (Bucles).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/8. Repeat y Until (Bucles).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/6. Case (Condicionales).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
-    "Desarrollo_web/BIG DATA/Pygame/4. Animaciones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
     "Images/Pasted image 20240405151122.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/2. Tipos de Datos/Tipos de Datos en SQL.md",
     "Pasted image 20240405151122.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/Introduccion a SQL.md",
-    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
-    "Desarrollo_web/BIG DATA/Pygame/3. Dibujado de Figuras con Bucles.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "Desarrollo_web/BIG DATA/Pygame/1. Estructura Basica y Ventanas.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/4. Parametrizacion y Reutilizacion de Funciones.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Procedimientos Almacenados",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas",
@@ -233,14 +234,12 @@
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/11. Group By  (Agrupado de Registros)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/10. Order By",
     "preview2.png",
     "Preview1.png",
     "Images/Pasted image 20240329224803.png",
     "Images/Pasted image 20240329224729.png",
     "Pasted image 20240329224803.png",
     "Pasted image 20240329224729.png",
-    "Images/Pasted image 20240329171338.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"

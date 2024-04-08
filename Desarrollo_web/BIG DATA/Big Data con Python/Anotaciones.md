@@ -33,3 +33,65 @@ GRoup by
 
 ILOC PARA POSICIONES
 LOC PARA NOMBRES DE COLUMNAS y CONDICIONES
+
+
+## Repaso examen:
+
+- Metodo format
+- Slices.
+- For One Liners (Listas por comprehension)
+- Metodo index (busca valor por indice)
+- Tipos de declaracion (Declaracion literal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

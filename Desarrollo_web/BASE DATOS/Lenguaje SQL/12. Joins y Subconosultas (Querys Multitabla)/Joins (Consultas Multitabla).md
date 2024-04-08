@@ -18,7 +18,7 @@
     
     Nos devuelven la relacion que existe las filas de 2 tablas, por ejemplo, si tenemos 2 tablas relacionadas mediante clave foranea esta nos devolvera los registros que esten relacionados mediante esta clave. Ademas buscara coincidencias, es decir registros iguales entre tablas.
 	![[Pasted image 20240201185410.png]]
-	 ```sql
+```sql
 LA CONSULTA SE HACE DESDE LA TABLA QUE TIENE LA MAYORIA DE DATOS RELEVANTES
 
 SELECT columnas
