@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
-                "mode": "source",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,37 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d97ba4f7edc05152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e43b5e97685138d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "broad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5026054382324
+    "width": 336.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md"
               }
             }
           },
@@ -192,35 +169,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55081b095a9763b7",
+  "active": "31b32be742bdad52",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Gestion de Privilegios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/Gestion de Usuarios y Permisos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios.md",
+    "Images/Pasted image 20240408164727.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)/Transacciones y Bloqueos (Commits y Rollbacks).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas/Vistas (Views).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Niveles de Privilegios.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)/Joins (Consultas Multitabla).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Mascaras de Red y Rangos de IPS.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Puertos (Estados de un puerto y los mas comunes).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Sockets (IP + Puerto).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/15. Funciones Lambda.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
+    "Pasted image 20240408164727.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/5. ACLs (Listas De Control de Acceso).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/4. VLANs.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/3. Seguridad Fisica (CPDs).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/2. IDS e IPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/1. Escaneres de Vulnerabilidades.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/2. SIEMS SIEM (Security Information and Event Management).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/1. ¿Que son los Logs?.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Antivirus y Malware.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/2. Sniffers.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/5. Certificados Digitales (PKIs).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
     "Images/Pasted image 20240405213116.png",
     "Pasted image 20240405213116.png",
     "Images/Pasted image 20240405151122.png",
@@ -239,7 +217,6 @@
     "Images/Pasted image 20240329224803.png",
     "Images/Pasted image 20240329224729.png",
     "Pasted image 20240329224803.png",
-    "Pasted image 20240329224729.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
