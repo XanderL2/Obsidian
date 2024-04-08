@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md"
               }
             }
           },
@@ -171,11 +171,14 @@
   },
   "active": "31b32be742bdad52",
   "lastOpenFiles": [
-    "Pasted image 20240408180408.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Gestion de Privilegios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios y Gestion de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
+    "Pasted image 20240408180408.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md",
@@ -186,8 +189,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Niveles de Privilegios.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
@@ -216,7 +217,6 @@
     "preview2.png",
     "Preview1.png",
     "Images/Pasted image 20240329224803.png",
-    "Images/Pasted image 20240329224729.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
