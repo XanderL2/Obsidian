@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
-                "mode": "preview",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md"
               }
             }
           },
@@ -171,19 +171,27 @@
   },
   "active": "31b32be742bdad52",
   "lastOpenFiles": [
+    "Pasted image 20240408180408.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios y Gestion de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/5. Encriptacion.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/3. Cuotas (Limitaciones por usuario).md",
     "Images/Pasted image 20240408164727.png",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Niveles de Privilegios.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/2. Tipos de Variables en Procedimientos Almacenados.md",
     "Pasted image 20240408164727.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/5. ACLs (Listas De Control de Acceso).md",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/4. VLANs.md",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/3. Seguridad Fisica (CPDs).md",
@@ -191,13 +199,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
     "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/1. Escaneres de Vulnerabilidades.md",
     "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/3. Analisis de Trafico en Red.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/2. SIEMS SIEM (Security Information and Event Management).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/10. Monitoreo de Eventos de Red/1. ¿Que son los Logs?.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/3. Antivirus y Malware.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/9. Herramientas de Seguridad/2. Sniffers.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/5. Certificados Digitales (PKIs).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
     "Images/Pasted image 20240405213116.png",
     "Pasted image 20240405213116.png",
@@ -216,7 +217,6 @@
     "Preview1.png",
     "Images/Pasted image 20240329224803.png",
     "Images/Pasted image 20240329224729.png",
-    "Pasted image 20240329224803.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
