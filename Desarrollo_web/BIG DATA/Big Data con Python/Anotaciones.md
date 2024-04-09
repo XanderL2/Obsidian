@@ -43,7 +43,13 @@ LOC PARA NOMBRES DE COLUMNAS y CONDICIONES
 - Metodo index (busca valor por indice)
 - Tipos de declaracion (Declaracion literal)
 
+## Flask:
 
+- Loop.index
+
+https://github.com/footballcsv/europe-champions-league/blob/master/2008-09/champs.csv
+
+https://fixturedownload.com/results/champions-league-2021 
 
 
 
