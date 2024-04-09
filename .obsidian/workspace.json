@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md"
               }
             }
           },
@@ -170,11 +170,11 @@
   },
   "active": "99e637a9a84b3474",
   "lastOpenFiles": [
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
     "Images/Pasted image 20240409175203.png",
     "Pasted image 20240409175203.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/6. Conexiones a Bases de Datos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
@@ -206,7 +206,6 @@
     "Excalidraw/comidaCasoUso.excalidraw.md",
     "Excalidraw/cuotasSQL.excalidraw.md",
     "Pasted image 20240409084310.png",
-    "Pasted image 20240409084304.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
