@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e6371ab722a3ae30",
+        "id": "f8dfdd6e67ae4ea7",
         "type": "tabs",
         "children": [
           {
-            "id": "55081b095a9763b7",
+            "id": "99e637a9a84b3474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31b32be742bdad52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d4249c89375bff1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/cuotasSQL.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5dd344d6613d46b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/privilegiosRutina.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "ac8d77b8fff595db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Gestion de Privilegios.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md"
               }
             }
           },
@@ -201,43 +156,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31b32be742bdad52",
+  "active": "99e637a9a84b3474",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
+    "Images/Pasted image 20240409084723.png",
+    "Images/Pasted image 20240409084310.png",
+    "Images/Pasted image 20240409084304.png",
+    "Images/Pasted Image 20240409083834_754.png",
+    "Images/Pasted Image 20240409083435_712.png",
+    "Pasted image 20240409084723.png",
+    "Pasted Image 20240409083834_754.png",
+    "Excalidraw/autenticacion.excalidraw.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Excalidraw/cuotasSQL.excalidraw.md",
+    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "Excalidraw/privilegiosRutina.excalidraw.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/5. Encriptacion.md",
+    "Pasted image 20240409084310.png",
+    "Pasted image 20240409084304.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
+    "Excalidraw/Drawing 2024-04-09 08.34.20.excalidraw.png",
+    "Pasted Image 20240409083435_712.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Gestion de Privilegios.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/5. Certificados Digitales (PKIs).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/6. SSL y TLS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/3. Cuotas (Limitaciones por usuario).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/6. Conexiones a Bases de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/5. Encriptacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
-    "Images/Pasted image 20240408194951.png",
-    "Images/Pasted image 20240408190912.png",
-    "Images/Pasted image 20240408185713.png",
-    "Images/Pasted image 20240408180408.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Gestion de Privilegios.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios y Gestion de Usuarios.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
-    "Excalidraw/cuotasSQL.excalidraw.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/2. Algoritmos de Cifrado Simetrico.md",
-    "Excalidraw/privilegiosRutina.excalidraw.md",
-    "Pasted image 20240408194951.png",
-    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "Excalidraw/ModeloAAA.excalidraw.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
-    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Pasted image 20240408190912.png",
-    "Pasted image 20240408185713.png",
-    "Pasted image 20240408180408.png",
-    "Images/Pasted image 20240408164727.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/3. Algoritmos de Cifrado Asimetrico.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/4. Hashes y Tipos de Hashes.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Cifrados/1. Conceptos Basicos de Criptografia.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
-    "Pasted image 20240408164727.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
