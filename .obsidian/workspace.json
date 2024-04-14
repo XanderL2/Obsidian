@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Pandas Cheatsheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Pandas Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Pandas Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md"
+                "file": "Desarrollo_web/BIG DATA/Big Data con Python/Pandas Cheatsheet.md"
               }
             }
           },
@@ -181,8 +181,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "cd2530adee5e0154",
   "lastOpenFiles": [
+    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Pandas Cheatsheet.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
     "Excalidraw/empresa.excalidraw.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
@@ -199,16 +206,9 @@
     "Desarrollo_web/BIG DATA/Python/Python Basico/6. Bucle Do - While.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/4. Condicionales IF - ELSE.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
     "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
-    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
-    "Desarrollo_web/BIG DATA/Flask/5. Url_For (Enrutado comun de Flask).md",
-    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
     "Excalidraw/empresa.excalidraw.png",
     "Images/Pasted Image 20240413141251_823.png",
     "Images/Pasted Image 20240413140307_677.png",
