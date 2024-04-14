@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6534b1b6a020c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios y Gestion de Usuarios.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "889892282c490bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
+                "file": "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "d285c046f42cb7c2",
+            "id": "cd2530adee5e0154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/MySQL Terminal.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21c4a82f56bf1ef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md"
+                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md"
               }
             }
           },
@@ -181,45 +181,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "889892282c490bf5",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/1. Importancia de la Gestion de Usuarios y Permisos en SQL.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/2. Creacion de Usuarios y Gestion de Usuarios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/3. Niveles de Privilegios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/3. Cuotas (Limitaciones por usuario).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/4. Gestion de Privilegios.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/5. Creacion de Roles.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos/6. Conexiones a Bases de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/7. Anonimizacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/5. Encriptacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos/4. Autenticacion.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/1. Introduccion/MySQL Terminal.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Excalidraw/empresa.excalidraw.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/7. Bucle For.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/5. Bucle While.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/6. Bucle Do - While.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/4. Condicionales IF - ELSE.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
+    "Desarrollo_web/BIG DATA/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
     "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
-    "Desarrollo_web/BIG DATA/Python/Python Orientado a Objetos/2. Clases e Instancias.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/5. Bucle While.md",
-    "Images/Pasted image 20240409175203.png",
-    "Pasted image 20240409175203.png",
+    "Desarrollo_web/BIG DATA/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md",
+    "Desarrollo_web/BIG DATA/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
+    "Desarrollo_web/BIG DATA/Flask/5. Url_For (Enrutado comun de Flask).md",
+    "Desarrollo_web/BIG DATA/Flask/7. Protocolo y Metodos HTTPS.md",
+    "Excalidraw/empresa.excalidraw.png",
+    "Images/Pasted Image 20240413141251_823.png",
+    "Images/Pasted Image 20240413140307_677.png",
+    "Images/Pasted Image 20240413140106_666.png",
+    "Images/Pasted Image 20240413131812_292.png",
+    "Images/Pasted Image 20240413131712_289.png",
+    "Images/Pasted Image 20240413131554_275.png",
+    "Images/Pasted Image 20240413131509_267.png",
+    "Images/Pasted Image 20240413130126_214.png",
+    "Images/Pasted Image 20240413122536_978.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)",
-    "Images/Pasted image 20240409084723.png",
-    "Images/Pasted image 20240409084310.png",
-    "Images/Pasted image 20240409084304.png",
-    "Images/Pasted Image 20240409083834_754.png",
-    "Images/Pasted Image 20240409083435_712.png",
-    "Pasted image 20240409084723.png",
-    "Pasted Image 20240409083834_754.png",
-    "Pasted image 20240409084310.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
