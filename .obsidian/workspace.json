@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
+                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "cd2530adee5e0154",
+            "id": "e36d23d6592e0caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python CheatSheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c4a82f56bf1ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python CheatSheet.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python CheatSheet.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BIG DATA/Python CheatSheet.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md"
               }
             }
           },
@@ -181,35 +169,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd2530adee5e0154",
+  "active": "e36d23d6592e0caa",
   "lastOpenFiles": [
-    "Desarrollo_web/BIG DATA/metodos.md",
-    "Desarrollo_web/BIG DATA/Python CheatSheet.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/Anotaciones.md",
-    "Desarrollo_web/BIG DATA/Pandas Cheatsheet.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/2. Entrada y Salida de Datos por Consola.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/1. Triggers (Disparadores).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Comportamiento/Diagramas de Secuencia.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
+    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/3. Links e Imagenes.md",
+    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
     "Excalidraw/empresa.excalidraw.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/18.  Manejo de Archivos TXT.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/17. Paquetes.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/16. Modulos y Enrutado de Modulos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/14. Funciones definidas por el Usuario.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/13. Arreglos Bidimensionales.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/12. Diccionarios (Objetos).md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/11. Colas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/10. Pilas en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/9.  Listas, Tuplas y Sets.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/7. Bucle For.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/5. Bucle While.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/6. Bucle Do - While.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/4. Condicionales IF - ELSE.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/3. Operadores en Python.md",
-    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
     "Excalidraw/empresa.excalidraw.png",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
     "Images/Pasted Image 20240413141251_823.png",
     "Images/Pasted Image 20240413140307_677.png",
     "Images/Pasted Image 20240413140106_666.png",
