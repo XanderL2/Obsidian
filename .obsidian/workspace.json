@@ -13,26 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "e36d23d6592e0caa",
+            "id": "601f5ad979cc8c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "32e8e20b670ea452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,10 +180,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e36d23d6592e0caa",
+  "active": "889892282c490bf5",
   "lastOpenFiles": [
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/1. Triggers (Disparadores).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
+    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
     "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
     "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
     "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
@@ -186,18 +203,12 @@
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
     "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Comportamiento/Diagramas de Secuencia.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
     "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/3. Links e Imagenes.md",
-    "Desarrollo_web/BIG DATA/Pygame/2. Dibujado de Figuras.md",
-    "Excalidraw/empresa.excalidraw.md",
     "Excalidraw/empresa.excalidraw.png",
-    "Excalidraw/ModeloAAA.excalidraw.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
     "Images/Pasted Image 20240413141251_823.png",
     "Images/Pasted Image 20240413140307_677.png",
     "Images/Pasted Image 20240413140106_666.png",
