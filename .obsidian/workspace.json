@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md"
               }
             }
           },
@@ -178,8 +178,13 @@
   },
   "active": "6c9c9e9e0f49a664",
   "lastOpenFiles": [
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Introduccion/1. OnBoarding e Introduccion.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
+    "Pasted image 20240424160701.png",
+    "Pasted image 20240424160636.png",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Introduccion",
     "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/Exoress",
     "Desarrollo_web/Complementos/JavaScript/Backend/Node",
     "Desarrollo_web/Complementos/JavaScript/Backend",
@@ -218,12 +223,7 @@
     "Images/Pasted Image 20240424114600_909.png",
     "Pasted Image 20240424115227_953.png",
     "Pasted Image 20240424115055_950.png",
-    "Pasted Image 20240424115025_949.png",
-    "Pasted Image 20240424114937_939.png",
     "Desarrollo_web/Complementos",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/2. Variables, Constantes y Tipos de Datos.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
