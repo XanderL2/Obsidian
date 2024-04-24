@@ -8,38 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "889892282c490bf5",
+            "id": "6c9c9e9e0f49a664",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "601f5ad979cc8c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32e8e20b670ea452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "55598b250918818d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ArquitecturaProyecto.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "510bfe134efb7102",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/generalProyecto.excalidraw.md"
               }
             }
           }
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5026054382324
+    "width": 352.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -109,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md"
               }
             }
           },
@@ -180,54 +176,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "889892282c490bf5",
+  "active": "6c9c9e9e0f49a664",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/1. Triggers (Disparadores).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL/Orden de las Clausulas.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/5.  If - Else (Condicionales).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
-    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
-    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/6. Seguridad en Redes (Firewalls)/1. Firewalls y Tipos de Firewalls.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/3. Metodos de Assert.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/UNIT TEST/2. Modelo AAA.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/TESTING/INTRODUCCION AL TESTING/Fundamentos de Testing.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/CLEAN CODE/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
-    "Desarrollo_web/ENTORNOS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Comportamiento/Diagramas de Secuencia.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
-    "Desarrollo_web/LENGUAJE DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
-    "Excalidraw/empresa.excalidraw.png",
-    "Images/Pasted Image 20240413141251_823.png",
-    "Images/Pasted Image 20240413140307_677.png",
-    "Images/Pasted Image 20240413140106_666.png",
-    "Images/Pasted Image 20240413131812_292.png",
-    "Images/Pasted Image 20240413131712_289.png",
-    "Images/Pasted Image 20240413131554_275.png",
-    "Images/Pasted Image 20240413131509_267.png",
-    "Images/Pasted Image 20240413130126_214.png",
-    "Images/Pasted Image 20240413122536_978.png",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/19. Seguridad en Bases de Datos",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/18. Gestion de Usuarios y Permisos",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/17. Transacciones (Commits y Rollbacks)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/16. Vistas (Guardado de Consultas",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/14. CRUD (Modificacion de Regsitros)",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/13. Orden de Las Clausulas SQL",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/12. Joins y Subconosultas (Querys Multitabla)",
+    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/1. OnBoarding.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress",
+    "Desarrollo_web/Complementos/JavaScript/Backend/Node",
+    "Desarrollo_web/Complementos/JavaScript/Backend",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/Sin título",
+    "Desarrollo_web/Complementos/JavaScript/Frontend",
+    "Desarrollo_web/Complementos/JavaScript",
+    "Desarrollo_web/Complementos/Arquitecturas de Software",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Excalidraw/ArquitecturaProyecto.excalidraw.md",
+    "Excalidraw/generalProyecto.excalidraw.md",
+    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "Excalidraw/DiagramaEntornos.excalidraw.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Excalidraw/privilegiosRutina.excalidraw.md",
+    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Excalidraw/cuotasSQL.excalidraw.md",
+    "Excalidraw/autenticacion.excalidraw.md",
+    "Excalidraw/empresa.excalidraw.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Images/Pasted Image 20240424115227_953.png",
+    "Images/Pasted Image 20240424115055_950.png",
+    "Images/Pasted Image 20240424115025_949.png",
+    "Images/Pasted Image 20240424114937_939.png",
+    "Images/Pasted Image 20240424114846_927.png",
+    "Images/Pasted Image 20240424114600_909.png",
+    "Pasted Image 20240424115227_953.png",
+    "Pasted Image 20240424115055_950.png",
+    "Pasted Image 20240424115025_949.png",
+    "Pasted Image 20240424114937_939.png",
+    "Desarrollo_web/Complementos",
+    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/2. Variables, Constantes y Tipos de Datos.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
