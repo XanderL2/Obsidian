@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +23,23 @@
             "id": "55598b250918818d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ArquitecturaProyecto.excalidraw.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "510bfe134efb7102",
+            "id": "b562082ea488f979",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/generalProyecto.excalidraw.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md"
               }
             }
           },
@@ -178,23 +182,38 @@
   },
   "active": "6c9c9e9e0f49a664",
   "lastOpenFiles": [
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Introduccion/1. OnBoarding e Introduccion.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)/1. Creacion de Rutas.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/1. Creacion de Rutas.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/1. OnBoarding e Introduccion.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/1. Manipulacion del Objeto Request.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md",
+    "Pasted image 20240424182922.png",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/0. Partes del Objeto Request.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express/1. Peticion GET.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express/0. HTTP Methods..md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express/3. Peticion.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express/2. Peticion POST.md",
+    "Excalidraw/ArquitecturaProyecto.excalidraw.md",
+    "Excalidraw/generalProyecto.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express",
+    "Images/Pasted image 20240424160701.png",
+    "Images/Pasted image 20240424160636.png",
     "Pasted image 20240424160701.png",
     "Pasted image 20240424160636.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Routing (Enrutado)",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress/Introduccion",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion",
     "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Exoress",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Node",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS",
+    "Desarrollo_web/Complementos/JavaScript/Backend/1. Node JS",
     "Desarrollo_web/Complementos/JavaScript/Backend",
     "Desarrollo_web/Complementos/JavaScript/Frontend/Sin título",
     "Desarrollo_web/Complementos/JavaScript/Frontend",
-    "Desarrollo_web/Complementos/JavaScript",
-    "Desarrollo_web/Complementos/Arquitecturas de Software",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Excalidraw/ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/generalProyecto.excalidraw.md",
     "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
     "Excalidraw/DiagramaEntornos.excalidraw.md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
@@ -204,26 +223,11 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
-    "Excalidraw/ModeloAAA.excalidraw.md",
-    "Excalidraw/privilegiosRutina.excalidraw.md",
-    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
-    "Excalidraw/cuotasSQL.excalidraw.md",
-    "Excalidraw/autenticacion.excalidraw.md",
-    "Excalidraw/empresa.excalidraw.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
     "Images/Pasted Image 20240424115227_953.png",
     "Images/Pasted Image 20240424115055_950.png",
     "Images/Pasted Image 20240424115025_949.png",
     "Images/Pasted Image 20240424114937_939.png",
     "Images/Pasted Image 20240424114846_927.png",
-    "Images/Pasted Image 20240424114600_909.png",
-    "Pasted Image 20240424115227_953.png",
-    "Pasted Image 20240424115055_950.png",
-    "Desarrollo_web/Complementos",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
