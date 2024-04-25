@@ -17,6 +17,7 @@ Auto: ^znuqcMV6
 - añoMatriculacion (int)
 - precioCompra (double)
 - precioVenta (double)
+- FechaCompra (string)
 - probado (bool) ^2vvRBxGi
 
 + CalcularPrecioVenta()
@@ -153,8 +154,8 @@ Proveedor: ^BlOrEYia
 		},
 		{
 			"type": "text",
-			"version": 763,
-			"versionNonce": 271972426,
+			"version": 788,
+			"versionNonce": 1707995471,
 			"isDeleted": false,
 			"id": "2vvRBxGi",
 			"fillStyle": "solid",
@@ -168,25 +169,25 @@ Proveedor: ^BlOrEYia
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 281.25,
-			"height": 192,
+			"height": 216,
 			"seed": 1738506495,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713895923717,
+			"updated": 1713988126859,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
-			"text": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- probado (bool)",
-			"rawText": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- probado (bool)",
+			"text": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- FechaCompra (string)\n- probado (bool)",
+			"rawText": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- FechaCompra (string)\n- probado (bool)",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- probado (bool)",
+			"originalText": "- modelo (string) \n- marca (string)\n- kilometros (double)\n- añoFabricacion (int)\n- añoMatriculacion (int)\n- precioCompra (double)\n- precioVenta (double)\n- FechaCompra (string)\n- probado (bool)",
 			"lineHeight": 1.2,
-			"baseline": 186
+			"baseline": 210
 		},
 		{
 			"type": "text",
@@ -535,10 +536,10 @@ Proveedor: ^BlOrEYia
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 585.0926136391499,
-		"scrollY": 735.0281963709825,
+		"scrollX": 603.3928215285912,
+		"scrollY": 751.3927337297825,
 		"zoom": {
-			"value": 1.1
+			"value": 1.05
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
