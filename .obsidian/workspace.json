@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
-                "mode": "source",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md"
               }
             }
           },
@@ -156,16 +156,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "6c9c9e9e0f49a664",
   "lastOpenFiles": [
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/Sin título",
+    "Images/Pasted image 20240425173606.png",
+    "Images/Pasted image 20240425173557.png",
+    "Pasted image 20240425173606.png",
+    "Pasted image 20240425173557.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
+    "Excalidraw/Drawing 2024-04-25 17.03.33.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params API).md",
+    "Excalidraw/faseDiseño.excalidraw.md",
+    "Images/Pasted image 20240425164638.png",
+    "Images/Pasted image 20240425164534.png",
+    "Images/Pasted image 20240425164347.png",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares",
     "Pasted image 20240425164638.png",
     "Pasted image 20240425164534.png",
     "Pasted image 20240425164347.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params API).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/Sin título",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
     "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Excepciones (Try - Catch).md",
@@ -173,19 +183,13 @@
     "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
     "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
     "Images/Pasted Image 20240425121836_269.png",
-    "Images/Pasted Image 20240425121035_999.png",
-    "Images/Pasted Image 20240425110026_350.png",
     "Excalidraw/comidaCasoUso.excalidraw.md",
     "Excalidraw/autenticacion.excalidraw.md",
     "Excalidraw/DiagramaEntornos.excalidraw.md",
-    "Excalidraw/Drawing 2024-04-25 10.25.31.excalidraw.md",
-    "Pasted Image 20240425121836_269.png",
-    "Pasted Image 20240425121035_999.png",
     "Excalidraw/generalProyecto.excalidraw.md",
     "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/4. Funciones/1. Funciones Declaradas (Normales).md",
     "Desarrollo_web/LENGUAJES DE MARCAS/CSS/Utilidades..md",
-    "Pasted Image 20240425110026_350.png",
     "Excalidraw/cuotasSQL.excalidraw.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/4. Funciones",
@@ -195,15 +199,11 @@
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/4. While.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/5. Do - While.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/6. Foreach.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control",
     "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/Sin título",
     "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/1. Introduccion",
-    "Pasted image 20240424182922.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
