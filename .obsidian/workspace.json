@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md"
               }
             }
           },
@@ -156,14 +156,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c9c9e9e0f49a664",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/Sin título",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
     "Pasted image 20240425164638.png",
     "Pasted image 20240425164534.png",
     "Pasted image 20240425164347.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params API).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/Sin título",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
@@ -203,7 +204,6 @@
     "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos",
     "Desarrollo_web/Complementos/JavaScript/Frontend/1. Introduccion",
     "Pasted image 20240424182922.png",
-    "Images/Pasted image 20240424182922.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
