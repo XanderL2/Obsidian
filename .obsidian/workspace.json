@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md"
               }
             }
           },
@@ -191,10 +191,16 @@
   },
   "active": "b97b40a0ee292864",
   "lastOpenFiles": [
-    "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2,",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/2. For In.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/3. For Of.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/4. While.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/5. Do - While.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/6. Foreach.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales/1. If - Else.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control",
@@ -219,11 +225,6 @@
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/0. Partes del Objeto Request.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/1. OnBoarding e Introduccion.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/1. Creacion de Rutas.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express/0. HTTP Methods..md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/3. Metodos HTTP en Express",
