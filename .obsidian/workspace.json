@@ -13,8 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
+                "file": "Excalidraw/Planification/6. Routes REST API.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bc72101614b77fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/cuotasSQL.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9956cfe7fed792d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
+                "file": "Excalidraw/Planification/6. Routes REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
+                "file": "Excalidraw/Planification/6. Routes REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
+                "file": "Excalidraw/Planification/6. Routes REST API.md"
               }
             }
           },
@@ -158,52 +180,52 @@
   },
   "active": "6c9c9e9e0f49a664",
   "lastOpenFiles": [
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/0.md",
+    "Images/Pasted Image 20240426114709_416.png",
+    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
+    "Excalidraw/Planification/6. Routes REST API.md",
+    "Excalidraw/Planification/4. faseDiseño.excalidraw.md",
+    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
+    "Excalidraw/cuotasSQL.excalidraw.md",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/2. Dependencias comunes.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/9. Modules Import - Export/1. Configuracion de Modules en NJS.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/9. Modules Import - Export",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+    "Excalidraw/Planification/3. autenticacion.excalidraw 1.md",
+    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "Excalidraw/DiagramaEntornos.excalidraw.md",
+    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/Utilidades..md",
+    "Excalidraw/autenticacion.excalidraw.md",
+    "Pasted Image 20240426114709_416.png",
+    "Excalidraw/Planification/Sin título",
+    "Excalidraw/Planification/5. Diagrama BD.md",
+    "Excalidraw/Drawing 2024-04-25 17.03.33.excalidraw.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
+    "Excalidraw/Planification",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/2..md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/8. Conexiones a Base de Datos/1. Conexiones a Bases de Datos.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/3. Async - Await.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/8. Conexiones a Base de Datos",
     "Desarrollo_web/Complementos/JavaScript/Backend/Sin título",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/2. Middleware Morgan.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
     "Images/Pasted image 20240425173606.png",
     "Images/Pasted image 20240425173557.png",
     "Pasted image 20240425173606.png",
     "Pasted image 20240425173557.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
-    "Excalidraw/Drawing 2024-04-25 17.03.33.excalidraw.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params API).md",
-    "Excalidraw/faseDiseño.excalidraw.md",
     "Images/Pasted image 20240425164638.png",
     "Images/Pasted image 20240425164534.png",
     "Images/Pasted image 20240425164347.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares",
     "Pasted image 20240425164638.png",
     "Pasted image 20240425164534.png",
-    "Pasted image 20240425164347.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/Sin título",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Excepciones (Try - Catch).md",
     "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/Sin título",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/TESTING/UNIT TEST/1. Creacion y Gestion de Proyectos con XUnit.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
-    "Excalidraw/autenticacion.excalidraw.md",
-    "Excalidraw/DiagramaEntornos.excalidraw.md",
-    "Excalidraw/generalProyecto.excalidraw.md",
-    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/4. Funciones/1. Funciones Declaradas (Normales).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/Utilidades..md",
-    "Excalidraw/cuotasSQL.excalidraw.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/1. For.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/4. Funciones",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/Sin título",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles/2. For In.md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/2, Bucles",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/3. Estructuras de Control/1. Condicionales",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
