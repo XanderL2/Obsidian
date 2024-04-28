@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5bbe6b021021fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md"
               }
             }
           },
@@ -171,6 +183,17 @@
   },
   "active": "efb88f20f5c4c17f",
   "lastOpenFiles": [
+    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "Pasted image 20240428125629.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
+    "Pasted image 20240428123416.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/6. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
     "Images/Pasted image 20240428105533.png",
     "Images/Pasted image 20240428103328.png",
     "Images/Pasted image 20240427163645.png",
@@ -180,15 +203,9 @@
     "Pasted image 20240428105533.png",
     "Pasted image 20240428103328.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
-    "Pasted image 20240427163645.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
-    "Pasted image 20240427162933.png",
-    "Pasted image 20240427162055.png",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
@@ -202,11 +219,6 @@
     "Excalidraw/Planification/4. faseDiseño.excalidraw.md",
     "Excalidraw/Planification/3. autenticacion.excalidraw 1.md",
     "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/20. Pilas (Stacks).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/18. Paso por Valor y por Referencia.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/17. Sobrecarga de Funciones.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
