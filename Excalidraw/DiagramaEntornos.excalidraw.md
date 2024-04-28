@@ -21,7 +21,7 @@ Auto: ^znuqcMV6
 - probado (bool) ^2vvRBxGi
 
 + CalcularPrecioVenta()
-    ^c4u5DvIt
+ + MostrarInfo ^c4u5DvIt
 
 Cliente: ^BmDNqSe0
 
@@ -191,8 +191,8 @@ Proveedor: ^BlOrEYia
 		},
 		{
 			"type": "text",
-			"version": 820,
-			"versionNonce": 711724658,
+			"version": 846,
+			"versionNonce": 1112307852,
 			"isDeleted": false,
 			"id": "c4u5DvIt",
 			"fillStyle": "solid",
@@ -205,24 +205,24 @@ Proveedor: ^BlOrEYia
 			"y": -258.1051955620045,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 215.625,
-			"height": 38.4,
+			"width": 217.0989990234375,
+			"height": 38.68267080745343,
 			"seed": 1563320017,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1714038616495,
+			"updated": 1714207879421,
 			"link": null,
 			"locked": false,
-			"fontSize": 16,
+			"fontSize": 16.117779503105595,
 			"fontFamily": 3,
-			"text": "+ CalcularPrecioVenta()\n   ",
-			"rawText": "+ CalcularPrecioVenta()\n   ",
+			"text": "+ CalcularPrecioVenta()\n + MostrarInfo",
+			"rawText": "+ CalcularPrecioVenta()\n + MostrarInfo",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "+ CalcularPrecioVenta()\n   ",
+			"originalText": "+ CalcularPrecioVenta()\n + MostrarInfo",
 			"lineHeight": 1.2,
 			"baseline": 34
 		},
@@ -536,10 +536,10 @@ Proveedor: ^BlOrEYia
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 640.8252876444457,
-		"scrollY": 781.3767091862733,
+		"scrollX": 603.8702327079066,
+		"scrollY": 751.3927337297825,
 		"zoom": {
-			"value": 0.978810700930062
+			"value": 1.05
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
