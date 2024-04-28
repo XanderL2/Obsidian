@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efb88f20f5c4c17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,16 +23,23 @@
             "id": "e5bbe6b021021fe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/ModeloAAA.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "ce4d5eed72851a8b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/CifradoAsimetrico.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,44 +176,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efb88f20f5c4c17f",
+  "active": "6481d6ec4ac58cbd",
   "lastOpenFiles": [
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/4. Hashes y Tipos de Hashes.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/6. SSL y TLS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Algoritmos de Cifrado Simetrico.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
+    "Images/Pasted image 20240428172820.png",
+    "Images/Pasted Image 20240428172109_800.png",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Pasted image 20240428172820.png",
+    "Excalidraw/CifradoAsimetrico.excalidraw.md",
+    "Pasted Image 20240428172109_800.png",
+    "Excalidraw/autenticacion.excalidraw.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Images/Pasted image 20240428164655.png",
+    "Images/Pasted image 20240428134217.png",
+    "Images/Pasted image 20240428125629.png",
+    "Images/Pasted image 20240428123416.png",
+    "Pasted image 20240428164655.png",
     "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
     "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Pasted image 20240428125629.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+    "Pasted image 20240428134217.png",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
-    "Pasted image 20240428123416.png",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/6. Sockets (IP + Puerto).md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
-    "Images/Pasted image 20240428105533.png",
-    "Images/Pasted image 20240428103328.png",
-    "Images/Pasted image 20240427163645.png",
-    "Images/Pasted image 20240427162933.png",
-    "Images/Pasted image 20240427162055.png",
-    "Images/Pasted image 20240427161919.png",
-    "Pasted image 20240428105533.png",
-    "Pasted image 20240428103328.png",
     "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
     "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
     "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/3. Protocolos Web.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/1. Protocolos de Eleccion de Rutas (ICMP).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
-    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
-    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Excalidraw/Planification/6. Routes REST API.md",
-    "Excalidraw/Planification/4. faseDiseño.excalidraw.md",
-    "Excalidraw/Planification/3. autenticacion.excalidraw 1.md",
-    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
