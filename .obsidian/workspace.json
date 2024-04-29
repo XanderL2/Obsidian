@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
-                "mode": "source",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/2. Objetos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/2. Objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/2. Objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/2. Objetos.md"
               }
             }
           },
@@ -183,8 +183,14 @@
   },
   "active": "8cfa66c6eb93a463",
   "lastOpenFiles": [
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/1. Arrays.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/2. Objetos.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/2. Variables y Tipos de Datos/2. Operadores.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/1. Introduccion/Sin título",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
     "Images/Pasted image 20240429180419.png",
     "Images/Pasted image 20240429171039.png",
     "Images/Pasted image 20240429171021.png",
@@ -216,10 +222,6 @@
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion de Datos (Selects)/Recuperacion o Muestreo de Datos (Clausula Select).md",
     "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
@@ -227,8 +229,6 @@
     "Excalidraw/Planification/Sin título",
     "Excalidraw/Planification",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/8. Conexiones a Base de Datos",
-    "Desarrollo_web/Complementos/JavaScript/Backend/Sin título",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
