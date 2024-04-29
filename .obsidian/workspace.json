@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1.md",
-                "mode": "source",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md"
               }
             }
           },
@@ -188,7 +188,7 @@
     "Images/Pasted image 20240429171021.png",
     "Images/Pasted image 20240429165126.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/3. Lanzamiento de Excepciones (SIGNAL).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/1. ¿Que es la gestion de Errores?.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
