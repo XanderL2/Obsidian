@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,23 +23,28 @@
             "id": "e5bbe6b021021fe2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/ModeloAAA.excalidraw.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
           {
-            "id": "ce4d5eed72851a8b",
+            "id": "8cfa66c6eb93a463",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/CifradoAsimetrico.excalidraw.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md"
               }
             }
           },
@@ -176,44 +181,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6481d6ec4ac58cbd",
+  "active": "8cfa66c6eb93a463",
   "lastOpenFiles": [
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/2. ¿Que es un Servidor? Tipos de Servidores.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/1. ¿Que es una Red?.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/4. Hashes y Tipos de Hashes.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/6. SSL y TLS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Algoritmos de Cifrado Simetrico.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
+    "Pasted image 20240429171039.png",
+    "Pasted image 20240429171021.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/1. ¿Que es la gestion de Errores?.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
+    "Pasted image 20240429165126.png",
+    "Images/Pasted image 20240429164634.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/3. Lanzamiento de Excepciones.md",
+    "Pasted image 20240429164634.png",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/1. Triggers (Disparadores).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/10. Cursores (Bucle de Registros).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/9. Loop (Bucles).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/8. Repeat y Until (Bucles).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/7. While - Do (Bucles).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/1. ¿Que son los Stored Procedures? Sintaxis Basica.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/6. Case (Condicionales).md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/20. Procedimientos Almacenados/3. Gestion de Procedimientos.md",
+    "Desarrollo_web/BASE DATOS/MongoDB",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/15. Restricciones (Bloqueo de Inserciones)/Restricciones (Constraints).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Mascaras de Red y Rangos de IPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/3. Relacion, Creacion, Eliminacion y Modificacion de Tablas/Creacion, Eliminacion, Modificacion y Relacion de Tablas.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/4. Recuperacion de Datos (Selects)/Recuperacion o Muestreo de Datos (Clausula Select).md",
+    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/6. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
     "Images/Pasted image 20240428172820.png",
     "Images/Pasted Image 20240428172109_800.png",
-    "Excalidraw/ModeloAAA.excalidraw.md",
     "Pasted image 20240428172820.png",
-    "Excalidraw/CifradoAsimetrico.excalidraw.md",
     "Pasted Image 20240428172109_800.png",
-    "Excalidraw/autenticacion.excalidraw.md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
     "Images/Pasted image 20240428164655.png",
     "Images/Pasted image 20240428134217.png",
-    "Images/Pasted image 20240428125629.png",
-    "Images/Pasted image 20240428123416.png",
-    "Pasted image 20240428164655.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
-    "Pasted image 20240428134217.png",
-    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/4. Topologias de Red.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/6. Sockets (IP + Puerto).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/1. Modelo OSI.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/2. Modelo OSI y TCP/2. Modelo TCP.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
@@ -223,7 +229,6 @@
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/8. Conexiones a Base de Datos",
     "Desarrollo_web/Complementos/JavaScript/Backend/Sin título",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
