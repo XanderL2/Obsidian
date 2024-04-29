@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
-                "mode": "preview",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md"
+                "file": "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md"
               }
             }
           },
@@ -183,12 +183,13 @@
   },
   "active": "8cfa66c6eb93a463",
   "lastOpenFiles": [
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
+    "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario/1. Funciones Definidas por el Usuario.md",
     "Images/Pasted image 20240429180419.png",
     "Images/Pasted image 20240429171039.png",
     "Images/Pasted image 20240429171021.png",
     "Images/Pasted image 20240429165126.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/3. Lanzamiento de Excepciones (SIGNAL).md",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL/1. ¿Que son las inyecciones de Codigo?.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/2. Handlers (Manejo de Excepciones).md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/22. Gestion de Errores/1. ¿Que es la gestion de Errores?.md",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/21. Triggers (Eventos de Modificacion)/2. Sintaxis de Triggers.md",
@@ -219,7 +220,6 @@
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
     "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
-    "Images/Pasted image 20240428172820.png",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
