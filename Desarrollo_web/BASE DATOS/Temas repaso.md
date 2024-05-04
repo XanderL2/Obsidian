@@ -1,6 +1,5 @@
  ---
 ## Union
-|
 ## Group By y Having Siempre juntos:
 Si queremos filtrar lo dado por un GROUP BY usaremos el HAVING, asi que es algo a considerar.
 
