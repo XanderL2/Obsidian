@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+                "file": "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,11 +59,9 @@
             "id": "f5939ddcc0023f43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Planification/4. Autenticacion (JWT).md"
               }
             }
           }
@@ -118,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5026054382324
+    "width": 351.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
+                "file": "Excalidraw/Planification/4. Autenticacion (JWT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
+                "file": "Excalidraw/Planification/4. Autenticacion (JWT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md"
+                "file": "Excalidraw/Planification/4. Autenticacion (JWT).md"
               }
             }
           },
@@ -207,14 +206,21 @@
   },
   "active": "f5939ddcc0023f43",
   "lastOpenFiles": [
-    "Images/Pasted Image 20240506084651_966.png",
-    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "Images/Pasted image 20240506141552.png",
+    "Images/Pasted Image 20240506144119_811.png",
+    "Pasted Image 20240506144119_811.png",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/1. ¿Que son los JWT?.md",
+    "Pasted image 20240506141552.png",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/1. OnBoarding e Introduccion.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
+    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "Images/Pasted Image 20240506084651_966.png",
     "Excalidraw/Planification/4. Autenticacion (JWT).md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/6. SSL y TLS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
     "Excalidraw/Planification/Routes REST API.md",
     "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
     "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/1. Arrays.md",
@@ -232,18 +238,11 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
     "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
-    "Excalidraw/Planification/3. middleware.excalidraw.md",
     "Images/Pasted Image 20240504151034_592.png",
     "Images/Pasted Image 20240504150949_582.png",
     "Images/Pasted Image 20240504150815_577.png",
     "Images/Pasted Image 20240504145624_265.png",
     "Pasted Image 20240504151034_592.png",
-    "Pasted Image 20240504150949_582.png",
-    "Pasted Image 20240504150815_577.png",
-    "Pasted Image 20240504145624_265.png",
-    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Images/Pasted Image 20240504113158_971.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Express Sessions",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones",
