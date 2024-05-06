@@ -11,9 +11,11 @@
             "id": "8cfa66c6eb93a463",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Planification/4. Autenticacion.md"
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Planification/Routes REST API.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Planification/Routes REST API.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
                 "mode": "preview",
                 "source": false
               }
@@ -45,13 +47,28 @@
             "id": "6c6caf46c8d9de1b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md"
+                "file": "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5939ddcc0023f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5026054382324,
-    "collapsed": true
+    "width": 351.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -118,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Planification/4. Autenticacion.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Planification/4. Autenticacion.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Planification/4. Autenticacion.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md"
               }
             }
           },
@@ -189,8 +205,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cfa66c6eb93a463",
+  "active": "f5939ddcc0023f43",
   "lastOpenFiles": [
+    "Images/Pasted Image 20240506084651_966.png",
+    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
+    "Excalidraw/Planification/4. Autenticacion (JWT).md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/6. SSL y TLS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
+    "Excalidraw/Planification/Routes REST API.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
+    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/1. Arrays.md",
+    "Excalidraw/Planification/8. rutasWebApi.md",
+    "Pasted Image 20240506084651_966.png",
+    "Excalidraw/Express Sessions.md",
+    "Excalidraw/6. Estructura de Directorios del Proyecto.excalidraw 1.md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
+    "Excalidraw/Planification/7. faseDiseño.excalidraw.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/4..md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
+    "Desarrollo_web/Complementos/Testing con Jest JS/2. N.md",
+    "Desarrollo_web/Complementos/Testing con Jest JS/1. Instalacion e Introduccion a Jest JS.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
+    "Desarrollo_web/BIG DATA/Python/Python Basico/1. Variables, Constantes y Tipos de Datos.md",
+    "Excalidraw/Planification/3. middleware.excalidraw.md",
     "Images/Pasted Image 20240504151034_592.png",
     "Images/Pasted Image 20240504150949_582.png",
     "Images/Pasted Image 20240504150815_577.png",
@@ -200,43 +242,17 @@
     "Pasted Image 20240504150815_577.png",
     "Pasted Image 20240504145624_265.png",
     "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/Planification/3. middleware.excalidraw.md",
     "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Excalidraw/Planification/4. Autenticacion.md",
-    "Excalidraw/Planification/6. faseDiseño.excalidraw.md",
-    "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
-    "Excalidraw/Planification/Routes REST API.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/17. Sobrecarga de Funciones.md",
-    "Excalidraw/autenticacion.excalidraw.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/HTML/1. ¿Que es HTML? Estructura Basica.md",
     "Images/Pasted Image 20240504113158_971.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Autenticaciones/Express Sessions",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Autenticaciones/Json Web Tokens",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Autenticaciones",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos/1. Arrays.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/20. Pilas (Stacks).md",
-    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
-    "Excalidraw/Planification/6..md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/18. Paso por Valor y por Referencia.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Excepciones (Try - Catch).md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/15. Funciones.md",
-    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
-    "2024-W18.md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/16. Variables Globales.md",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/13. Matrices Escalonadas.md",
-    "Images/Pasted Image 20240430160722_271.png",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Express Sessions",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones",
     "Desarrollo_web/Complementos/Testing con Jest JS",
-    "Images/Pasted image 20240430124822.png",
     "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos",
     "Desarrollo_web/Complementos/JavaScript/Frontend/1. Introduccion/Sin título",
     "Desarrollo_web/BASE DATOS/MongoDB",
     "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/23. Inyecciones SQL",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
