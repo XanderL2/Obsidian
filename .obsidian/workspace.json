@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/1. ¿Que son los JWT?.md",
                 "mode": "preview",
                 "source": false
               }
@@ -47,9 +47,11 @@
             "id": "6c6caf46c8d9de1b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Planification/8. rutasWebApi.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -74,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md"
+                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md"
               }
             }
           },
@@ -211,14 +213,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff35ca506ef6521e",
+  "active": "6c6caf46c8d9de1b",
   "lastOpenFiles": [
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/1. ¿Que son los JWT?.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/2. Middleware Morgan.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
     "Excalidraw/Planification/8. rutasWebApi.md",
+    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
     "Excalidraw/Planification/4. Autenticacion (JWT).md",
     "Excalidraw/Planification/7. faseDiseño.excalidraw.md",
     "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
@@ -245,7 +248,6 @@
     "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
     "Images/Pasted Image 20240506084651_966.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/6. SSL y TLS.md",
     "Pasted Image 20240506084651_966.png",
     "Images/Pasted Image 20240504151034_592.png",
     "Images/Pasted Image 20240504150949_582.png",
