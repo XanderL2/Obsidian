@@ -4,79 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "956153045748e653",
+        "id": "ab3dc38e8f033050",
         "type": "tabs",
         "children": [
           {
-            "id": "8cfa66c6eb93a463",
+            "id": "25523ad6dc0a7ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos de Cifrado Asimetrico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4995bc1c435b22d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff35ca506ef6521e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/1. ¿Que son los JWT?.md",
+                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "6c6caf46c8d9de1b",
+            "id": "28e5564a9e05838d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
+                "file": "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f5939ddcc0023f43",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Planification/4. Autenticacion (JWT).md"
-              }
-            }
-          },
-          {
-            "id": "f60ff76ebf7c9016",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Planification/xd.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "status code",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
+                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
+                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md"
+                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md"
               }
             }
           },
@@ -213,54 +168,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c6caf46c8d9de1b",
+  "active": "25523ad6dc0a7ea7",
   "lastOpenFiles": [
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/1. ¿Que son los JWT?.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/3. JSONs Web Tokens en Node.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/6. MIddlewares/2. Middleware Morgan.md",
-    "Excalidraw/Planification/8. rutasWebApi.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens/2. Encriptado de Informacion en JS.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Conceptos Basicos de Criptografia.md",
-    "Excalidraw/Planification/4. Autenticacion (JWT).md",
-    "Excalidraw/Planification/7. faseDiseño.excalidraw.md",
-    "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
-    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Excalidraw/Planification/Routes REST API.md",
-    "Excalidraw/Planification/xd.excalidraw.md",
-    "Excalidraw/Planification/3. middleware.excalidraw.md",
-    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/OneLinners/1. OneLinners.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
+    "FOL/3. Medidas de Prevencion.md",
+    "FOL/2. Riegos en Empresa.md",
+    "FOL/4. Gestion y organizacion de la Prevencion.md",
+    "FOL/1. Trabajo y Salud.md",
+    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/23. Excepciones (Try - Catch).md",
+    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/5. Proxys y Servidores Proxys.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/4. VPNs.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/3. DNS (Domain Name System).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/5. Servicios de Red/2. NAT (Conversion de IP privada a Publica).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/1. Protocolos de Eleccion de Rutas (ICMP).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/2. Protocolos de Transmision de Datos.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/4. Protocolos de Manipulacion de Servidores.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/4. Protocolos de Comunicacion/5. Protocolo LDAP.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/4. Puertos (Estados de un puerto y los mas comunes).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/5. Gateway Predeterminado.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/6. Sockets (IP + Puerto).md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/3. Mascaras de Red y Rangos de IPS.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/2. Direcciones MAC.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/3. Direccionamiento en Red/1. Direcciones IP.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Editores de Texto/1. VIM Editor.md",
+    "FOL/4. Gestion y organizacion de la Prevencion.md~",
+    "Images/Pasted image 20240514164447.png",
+    "Images/Pasted image 20240513175905.png",
+    "Pasted image 20240514164447.png",
+    "Pasted image 20240513175905.png",
+    "FOL",
     "Desarrollo_web/Complementos/JavaScript/Frontend/OneLinners",
-    "Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/5. Certificados Digitales.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/3. Status Code Comunes.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/5. Objeto Request/4..md",
     "Images/Pasted image 20240506141552.png",
     "Images/Pasted Image 20240506144119_811.png",
     "Pasted Image 20240506144119_811.png",
     "Pasted image 20240506141552.png",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/1. Introduccion/1. OnBoarding e Introduccion.md",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
-    "Desarrollo_web/Complementos/Arquitecturas de Software/1. Arquitectura Monolitica.md",
     "Images/Pasted Image 20240506084651_966.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
     "Pasted Image 20240506084651_966.png",
-    "Images/Pasted Image 20240504151034_592.png",
-    "Images/Pasted Image 20240504150949_582.png",
-    "Images/Pasted Image 20240504150815_577.png",
-    "Images/Pasted Image 20240504145624_265.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Express Sessions",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones",
     "Desarrollo_web/Complementos/Testing con Jest JS",
     "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos",
     "Desarrollo_web/Complementos/JavaScript/Frontend/1. Introduccion/Sin título",
-    "Desarrollo_web/BASE DATOS/MongoDB",
-    "Desarrollo_web/BASE DATOS/Lenguaje SQL/24. Funciones Definidas por el Usuario",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
