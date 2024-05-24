@@ -11,16 +11,6 @@
             "id": "9af721b16fb469d1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/CifradoAsimetrico.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e818e881b6615fb1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
@@ -28,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c7d938c4230e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dossier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,48 +168,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e818e881b6615fb1",
+  "active": "9af721b16fb469d1",
   "lastOpenFiles": [
+    "Images/Pasted Image 20240523212451_978.png",
+    "Images/Pasted Image 20240523210148_939.png",
+    "Excalidraw/Planification/7. faseDiseño.excalidraw.md",
+    "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
+    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
+    "Excalidraw/Planification/3. middleware.excalidraw.md",
+    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
+    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
+    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
+    "Pasted Image 20240523210148_939.png",
+    "Excalidraw/Planification/4. Autenticacion (JWT).md",
+    "Excalidraw/Planification/9. Herramientas Principales.md",
+    "Excalidraw/Planification/10. Referencias y Propuestas de Mejora.md",
+    "Excalidraw/Planification/Ideas de funcionalidades.md",
+    "Excalidraw/Planification/8. rutasWebApi.md",
+    "Excalidraw/Planification/0. Proposito.md",
+    "Excalidraw/6. Estructura de Directorios del Proyecto.excalidraw 1.md",
+    "Excalidraw/ArquitecturaProyecto.excalidraw.md",
+    "Excalidraw/autenticacion.excalidraw.md",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Excalidraw/Planification/Routes REST API.md",
+    "Excalidraw/CifradoAsimetrico.excalidraw.md",
+    "Pasted Image 20240523212451_978.png",
+    "Desarrollo_web/SISTEMAS INFORMATICOS/1. Examen de Sistemas..md",
+    "Excalidraw/comidaCasoUso.excalidraw.md",
+    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "Excalidraw/Express Sessions.md",
+    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "Excalidraw/privilegiosRutina.excalidraw.md",
     "Images/Pasted Image 20240521052115_280.jpg",
     "Images/Pasted Image 20240521050545_497.jpg",
     "Images/Pasted Image 20240520220743_082.png",
-    "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
-    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/16. Uso del Height Mala practica.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/18. GRID.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/10. Positions (Todos).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/11. Floats (No sirve).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/9. Pseudoclases mas usadas (Eventos).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/8. Box Model.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/7. FONDOS (Backgrounds).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/6. Colores (Solidos, RGB, RGBA y Hexadecimales).md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/5. Unidades de Medidas en CSS.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/4. Jerarquia, Principio de Especificidad y Metodologia BEM.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/3. Tipos de Selectores.md",
-    "Desarrollo_web/LENGUAJES DE MARCAS/CSS/2. Vinculacion de HTML con CSS.md",
-    "Ciberseguridad/Hacking Etico/Herramientas/Herramientas de Footprinting y OSINT/Footpriting y Reconocimiento/1. N-map.md",
-    "Desarrollo_web/SISTEMAS INFORMATICOS/1. Examen de Sistemas..md",
-    "Excalidraw/Drawing 2024-05-22 11.47.22.excalidraw.md",
-    "Desarrollo_web/BIG DATA/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md",
-    "Desarrollo_web/BIG DATA/Pandas Cheatsheet.md",
-    "Ciberseguridad/SSH.md",
-    "Excalidraw/Planification/10. Referencias y Propuestas de Mejora.md",
-    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
-    "Excalidraw/Planification/Ideas de funcionalidades.md",
-    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
     "Pasted Image 20240521052115_280.jpg",
     "Pasted Image 20240521050545_497.jpg",
     "Pasted Image 20240520220743_082.png",
     "Desarrollo_web/PROGRAMACION/3. Csharp Web",
     "FOL/4. Gestion y organizacion de la Prevencion.md~",
     "Images/Pasted image 20240514164447.png",
-    "Images/Pasted image 20240513175905.png",
-    "Pasted image 20240514164447.png",
-    "Pasted image 20240513175905.png",
     "FOL",
     "Desarrollo_web/Complementos/JavaScript/Frontend/OneLinners",
-    "Images/Pasted image 20240506141552.png",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Express Sessions",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens",
