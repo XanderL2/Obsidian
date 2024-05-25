@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c7d938c4230e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desarrollo_web/PROGRAMACION/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md"
               }
             }
           },
@@ -170,44 +158,44 @@
   },
   "active": "9af721b16fb469d1",
   "lastOpenFiles": [
+    "Images/Pasted image 20240525203228.png",
+    "Images/Pasted image 20240525200352.png",
+    "Pasted image 20240525203228.png",
+    "Pasted image 20240525200352.png",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "Desarrollo_web/Complementos/Testing con Jest JS/1. Instalacion e Introduccion a Jest JS.md",
+    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
+    "Desarrollo_web/Complementos/Testing con Jest JS/2. N.md",
+    "Desarrollo_web/BIG DATA/Pandas Cheatsheet.md",
+    "Desarrollo_web/BIG DATA/Python CheatSheet.md",
+    "Desarrollo_web/BASE DATOS/Temas repaso.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
+    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
+    "Desarrollo_web/BASE DATOS/Introduccion/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
+    "Desarrollo_web/BASE DATOS/Introduccion/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
+    "Desarrollo_web/BASE DATOS/Introduccion/1. Introduccion a las Bases de Datos.md",
+    "Excalidraw/privilegiosRutina.excalidraw.md",
+    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "Excalidraw/ModeloAAA.excalidraw.md",
+    "Excalidraw/Express Sessions.md",
+    "Excalidraw/cuotasSQL.excalidraw.md",
     "Images/Pasted Image 20240523212451_978.png",
     "Images/Pasted Image 20240523210148_939.png",
-    "Excalidraw/Planification/7. faseDiseño.excalidraw.md",
-    "Excalidraw/Planification/6. Estructura de Directorios del Proyecto.excalidraw.md",
-    "Excalidraw/Planification/5. diagramaBD.excalidraw.md",
-    "Excalidraw/Planification/3. middleware.excalidraw.md",
-    "Excalidraw/Planification/2. ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/Planification/1. generalProyecto.excalidraw.md",
-    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
     "Pasted Image 20240523210148_939.png",
-    "Excalidraw/Planification/4. Autenticacion (JWT).md",
-    "Excalidraw/Planification/9. Herramientas Principales.md",
-    "Excalidraw/Planification/10. Referencias y Propuestas de Mejora.md",
-    "Excalidraw/Planification/Ideas de funcionalidades.md",
-    "Excalidraw/Planification/8. rutasWebApi.md",
-    "Excalidraw/Planification/0. Proposito.md",
-    "Excalidraw/6. Estructura de Directorios del Proyecto.excalidraw 1.md",
-    "Excalidraw/ArquitecturaProyecto.excalidraw.md",
-    "Excalidraw/autenticacion.excalidraw.md",
-    "Excalidraw/ModeloAAA.excalidraw.md",
-    "Excalidraw/Planification/Routes REST API.md",
-    "Excalidraw/CifradoAsimetrico.excalidraw.md",
     "Pasted Image 20240523212451_978.png",
-    "Desarrollo_web/SISTEMAS INFORMATICOS/1. Examen de Sistemas..md",
-    "Excalidraw/comidaCasoUso.excalidraw.md",
-    "Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Excalidraw/Express Sessions.md",
-    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "Excalidraw/privilegiosRutina.excalidraw.md",
     "Images/Pasted Image 20240521052115_280.jpg",
     "Images/Pasted Image 20240521050545_497.jpg",
     "Images/Pasted Image 20240520220743_082.png",
-    "Pasted Image 20240521052115_280.jpg",
-    "Pasted Image 20240521050545_497.jpg",
-    "Pasted Image 20240520220743_082.png",
     "Desarrollo_web/PROGRAMACION/3. Csharp Web",
     "FOL/4. Gestion y organizacion de la Prevencion.md~",
-    "Images/Pasted image 20240514164447.png",
     "FOL",
     "Desarrollo_web/Complementos/JavaScript/Frontend/OneLinners",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
