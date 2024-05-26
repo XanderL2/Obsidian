@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   },
   "active": "9af721b16fb469d1",
   "lastOpenFiles": [
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
@@ -167,7 +171,6 @@
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
     "Images/Pasted image 20240525203228.png",
     "Images/Pasted image 20240525200352.png",
     "Pasted image 20240525203228.png",
@@ -185,9 +188,6 @@
     "Desarrollo_web/BASE DATOS/Introduccion/1. Introduccion a las Bases de Datos.md",
     "Excalidraw/privilegiosRutina.excalidraw.md",
     "Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "Excalidraw/ModeloAAA.excalidraw.md",
-    "Excalidraw/Express Sessions.md",
-    "Excalidraw/cuotasSQL.excalidraw.md",
     "Images/Pasted Image 20240523212451_978.png",
     "Images/Pasted Image 20240523210148_939.png",
     "Pasted Image 20240523210148_939.png",
