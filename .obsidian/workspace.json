@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/3. Salida de Errores (Stderr).md",
-                "mode": "preview",
+                "file": "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
-                "mode": "source",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "/etc/passwd",
+                "query": "Gestion de usuarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/3. Salida de Errores (Stderr).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/3. Salida de Errores (Stderr).md",
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/3. Salida de Errores (Stderr).md"
+                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md"
               }
             }
           },
@@ -168,54 +169,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9af721b16fb469d1",
+  "active": "92d2d9a38b4f3989",
   "lastOpenFiles": [
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Desarrollo_web/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "Desarrollo_web/PROGRAMACION/JavaScript/Testing",
+    "Desarrollo_web/PROGRAMACION/JavaScript/Programacion",
+    "Desarrollo_web/PROGRAMACION/C-Sharp",
+    "Complementos/Ingles",
+    "Complementos",
+    "Ciberseguridad/Sistemas Operativos/Linux/11. Gestion de Particiones/1. Gestion de Particiones en Linux.md",
+    "2024-05-28.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
+    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos/2. Gestion de Grupos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos/1. Gestion de Usuarios.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/10. Permisos en Notacion Octal/1. Gestion de Permisos y Archivos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/4. Procesadores de Texto/1. Procesadores (Awk, Grep, Tr, Sed).md",
+    "Ciberseguridad/Sistemas Operativos/Linux/11. Gestion de Particiones",
+    "Ciberseguridad/Sistemas Operativos/Linux/10. Permisos en Notacion Octal",
+    "Images/2024-02-01-16-24-21.jpeg",
     "Images/Pasted image 20240528125710.png",
     "Images/Pasted image 20240528125707.png",
     "Images/Pasted image 20240528125505.png",
     "Pasted image 20240528125710.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/2. Salida de Datos (Stdout).md",
     "Pasted image 20240528125707.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/3. Salida de Errores (Stderr).md",
-    "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)/1. Entrada de Datos (Stdin).md",
     "Pasted image 20240528125505.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
     "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)",
-    "Ciberseguridad/Sistemas Operativos/Linux/2. Editores de Texto/1. VIM Editor.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Sin título",
+    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos",
     "Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido",
-    "Ciberseguridad/Sistemas Operativos/Linux/4. Procesadores de Texto/Procesadores (Awk, Grep, Tr, Sed).md",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/4. Procesadores de Texto",
-    "Ciberseguridad/Sistemas Operativos/Linux/Protocolos/1. SSH.md",
-    "Ciberseguridad/Sistemas Operativos/Windows/1. Gestion de Archivos en Windows.md",
-    "Ciberseguridad/SSH.md",
-    "Ciberseguridad/Hacking Etico/0. Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md",
-    "Ciberseguridad/Hacking Etico/2. Hacking Web",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/Protocolos",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/2. Comandos Basicos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/6. Redirecciones.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/8. Variables de Entorno.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
     "Pasted image 20240528095502.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/3. Fundamentos de Archivos/4. Permisos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/1. Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/1. Conceptos Basicos/2. GNU Linux.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/1. Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Bash",
-    "Ciberseguridad/Sistemas Operativos/Linux/Scripting en Bash",
     "Images/Pasted image 20240525203228.png",
     "Images/Pasted image 20240525200352.png",
-    "Pasted image 20240525203228.png",
-    "Pasted image 20240525200352.png",
-    "Desarrollo_web/PROGRAMACION/3. Csharp Web",
-    "FOL/4. Gestion y organizacion de la Prevencion.md~",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
