@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
-                "mode": "preview",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d2d9a38b4f3989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md"
+                "file": "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md"
               }
             }
           },
@@ -158,42 +170,44 @@
   },
   "active": "9af721b16fb469d1",
   "lastOpenFiles": [
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/0. Directorios mas Importantes para Ciberseguridad.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/3. Gestion de Ficheros avanzada y Tratamiento de Informacion.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/7. Gestion de Particiones en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Protocolos",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/1. Estructura de Directorios en Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/2. Comandos Basicos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/6. Redirecciones.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/8. Variables de Entorno.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "Pasted image 20240528095502.png",
+    "Ciberseguridad/Sistemas Operativos/Linux/Fundamentos de Archivos/4. Permisos.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/1. ¿Que es un Sistema Operativo?.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/2. GNU Linux.md",
+    "Ciberseguridad/Sistemas Operativos/Linux/Conceptos Basicos/3. Shells, Tipos de Shells y Terminal.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
     "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "Ciberseguridad/Programacion y Scripting/Bash/2..md",
+    "Ciberseguridad/Programacion y Scripting/Bash/1. Sheebang.md",
+    "Ciberseguridad/Programacion y Scripting/Bash",
+    "Ciberseguridad/Sistemas Operativos/Linux/Scripting en Bash",
+    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
     "Images/Pasted image 20240525203228.png",
     "Images/Pasted image 20240525200352.png",
     "Pasted image 20240525203228.png",
     "Pasted image 20240525200352.png",
-    "Desarrollo_web/Complementos/Testing con Jest JS/1. Instalacion e Introduccion a Jest JS.md",
-    "Desarrollo_web/PROGRAMACION/Temas de Programacion.md",
-    "Desarrollo_web/Complementos/Testing con Jest JS/2. N.md",
-    "Desarrollo_web/BIG DATA/Pandas Cheatsheet.md",
-    "Desarrollo_web/BIG DATA/Python CheatSheet.md",
-    "Desarrollo_web/BASE DATOS/Temas repaso.md",
-    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/2. Modelo Relacional y Normalizacion.md",
-    "Desarrollo_web/BASE DATOS/Modelo Entidad Relacion y Normalizacion/1. Modelo Entidad Relacion.md",
-    "Desarrollo_web/BASE DATOS/Introduccion/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
-    "Desarrollo_web/BASE DATOS/Introduccion/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
-    "Desarrollo_web/BASE DATOS/Introduccion/1. Introduccion a las Bases de Datos.md",
-    "Excalidraw/privilegiosRutina.excalidraw.md",
-    "Excalidraw/privilegiosBaseDatos.excalidraw.md",
     "Images/Pasted Image 20240523212451_978.png",
     "Images/Pasted Image 20240523210148_939.png",
     "Pasted Image 20240523210148_939.png",
     "Pasted Image 20240523212451_978.png",
     "Images/Pasted Image 20240521052115_280.jpg",
-    "Images/Pasted Image 20240521050545_497.jpg",
     "Desarrollo_web/PROGRAMACION/3. Csharp Web",
     "FOL/4. Gestion y organizacion de la Prevencion.md~",
     "FOL",
@@ -201,9 +215,6 @@
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/10. Variables de Entorno",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Express Sessions",
     "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones/Json Web Tokens",
-    "Desarrollo_web/Complementos/JavaScript/Backend/2. Exoress JS/11. Autenticaciones",
-    "Desarrollo_web/Complementos/Testing con Jest JS",
-    "Desarrollo_web/Complementos/JavaScript/Frontend/5. Datos Complejos",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
