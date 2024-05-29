@@ -1,0 +1,22 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "285yFLIEcTko_jy6B7Qsl",
+      "name": "Repaso",
+      "value": "#fffa66"
+    },
+    {
+      "id": "ngSjPwMU-3oOiw-fNbvmL",
+      "name": "Pendiente",
+      "value": "#9e5757"
+    },
+    {
+      "id": "_NF1Qksjab8kOD9ZOaIKm",
+      "name": "Terminado",
+      "value": "#2d7c32"
+    }
+  ],
+  "fileColors": []
+}

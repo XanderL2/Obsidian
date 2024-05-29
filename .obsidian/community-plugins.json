@@ -1,5 +1,10 @@
 [
   "obsidian-importer",
   "obsidian-excalidraw-plugin",
-  "calendar"
+  "calendar",
+  "obsidian-icon-folder",
+  "dataview",
+  "obsidian-file-color",
+  "obsidian-outliner",
+  "obsidian-kanban"
 ]

@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "3e391860fc7f7bb9",
+        "id": "104f4aacaef4dd03",
         "type": "tabs",
         "children": [
           {
-            "id": "9af721b16fb469d1",
+            "id": "bccd3b244ef06859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-                "mode": "source",
+                "file": "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "92d2d9a38b4f3989",
+            "id": "856f1118bf824615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,54 +169,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92d2d9a38b4f3989",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "Desarrollo_web/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "Desarrollo_web/PROGRAMACION/JavaScript/Testing",
-    "Desarrollo_web/PROGRAMACION/JavaScript/Programacion",
-    "Desarrollo_web/PROGRAMACION/C-Sharp",
-    "Complementos/Ingles",
-    "Complementos",
-    "Ciberseguridad/Sistemas Operativos/Linux/11. Gestion de Particiones/1. Gestion de Particiones en Linux.md",
-    "2024-05-28.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/9. Flujo comun de Trabajo en entornos Empresariales con GIT.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/8. Control de Versiones.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/7. Forks, Pull Requests e Issues (Github).md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/6. Ramas y Fusiones.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/5. Git Ignore y Readme.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/4. Comandos Basicos (Clone, Add, Commit, Pull, Push).md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/3. Vocabulario y Caracteristicas de GIT.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/2. Configuraciones Globales de GIT.md",
-    "Desarrollo_web/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/1. ¿Que es GIT? ¿Para que sirve?.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos/2. Gestion de Grupos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos/1. Gestion de Usuarios.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/10. Permisos en Notacion Octal/1. Gestion de Permisos y Archivos.md",
-    "Ciberseguridad/Sistemas Operativos/Linux/4. Procesadores de Texto/1. Procesadores (Awk, Grep, Tr, Sed).md",
-    "Ciberseguridad/Sistemas Operativos/Linux/11. Gestion de Particiones",
-    "Ciberseguridad/Sistemas Operativos/Linux/10. Permisos en Notacion Octal",
-    "Images/2024-02-01-16-24-21.jpeg",
-    "Images/Pasted image 20240528125710.png",
-    "Images/Pasted image 20240528125707.png",
-    "Images/Pasted image 20240528125505.png",
+    "3. Complementos/Organizacion/Kanban Principal.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/10. Utilidades",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/9. Defensa y Evasion",
+    "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/8. Analisis Forense",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/7. Ingeneria Social",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/6. Seguridad Inalambrica",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/5.Interceptores e Inyecciones",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "5. Excalidraw/Dossier/9. Herramientas Principales.md",
+    "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
+    "5. Excalidraw/Dossier/8. rutasWebApi.md",
+    "5. Excalidraw/Dossier/7. faseDiseño.excalidraw.md",
+    "5. Excalidraw/Dossier/6. Estructura de Directorios del Proyecto.excalidraw.md",
+    "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
+    "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
+    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
+    "5. Excalidraw/Dossier/1. Proposito.md",
+    "5. Excalidraw/generalProyecto.excalidraw.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
+    "3. Complementos/Organizacion",
+    "6. Images/2024-02-01-16-24-21.jpeg",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/2. OSINT",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes",
+    "6. Images/Pasted image 20240528125710.png",
+    "6. Images/Pasted image 20240528125707.png",
+    "6. Images/Pasted image 20240528125505.png",
     "Pasted image 20240528125710.png",
     "Pasted image 20240528125707.png",
     "Pasted image 20240528125505.png",
-    "Ciberseguridad/Sistemas Operativos/Linux/5. Flujos de Datos (Stdin, Stdout, Sterr)",
-    "Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos",
-    "Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido",
     "Pasted image 20240528095502.png",
-    "Images/Pasted image 20240525203228.png",
-    "Images/Pasted image 20240525200352.png",
+    "6. Images/Pasted image 20240525203228.png",
+    "6. Images/Pasted image 20240525200352.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"

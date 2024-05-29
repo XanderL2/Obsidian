@@ -1,0 +1,92 @@
+
+---
+## **Operadores Relacionales (De comparacion):**
+
+- **¿Que son?**
+    
+    Sirven para comparar valores en una condicion, en este caso en un Where, que vendria a ser como un IF.
+    
+- **¿Cuales son?**
+    
+    - Igual a:                              =
+        
+    - Diferente de:                     ≠
+        
+    - Menor que:                       <
+        
+    - Menor o igual que:            ≤
+        
+    - Mayor que:                        >
+        
+    - Mayor o igual que:             ≥
+        
+    - **Between (Entre):**
+        
+        Se usa para para realizar rangos, lo mismo que comparar 2 valores con and, pero este es mucho eficiente, cabe recalcar que tambien ambas pueden comparar textos. Ademas, el primer numero que queramos comparar debe ser el menor, y luego debemos compararlo con el mayor.
+        
+	```sql
+    //Le estamos diciendo que busque productos donde el precio este entre 20 y 40
+    WHERE Precio BEETWEEN 20 and 40; 
+```
+        
+    - **Like (Como):**
+        
+        Se usa para encontrar registros los cuales alberguen el texto que encontramos. se usa como un igual casi.
+        
+	    ```sql
+    WHERE Nombre like "%is"; //Nos devuelve el Registo de Luis
+        ```
+        
+        - Comodin (%):
+            
+            Se usa cuando no recordamos algo como tal, osea le decimos que pueden haber letras antes o despues, por lo que el se encargara de comparar buscar el dato que cumpla con esto. Por ejemplo:
+            
+            Estos nos sirven para verificar que la cadena texto termine por “Algo” y empiece por “Algo”.
+            
+	        ```sql
+	        WHERE Nombre like "%is"; //Nos devuelve el Registo de Luis
+	        WHERE Nombre like "Lu%"; //Nos devuelve el Registo de Luis
+            ```
+            
+            Otro caso de uso es cuando queremos buscar nombres que contengan esa letra o letras, en ese caso pondremos dos %, Por ejemplo:
+            
+            ```sql
+//Esta buscando en el campo nombre los registros que tengan la letra R
+            WHERE Nombre like "%r%" 
+            
+            WHERE Nombre Like "%ER%" //Esta buscando todos los nombres que tengan "ER"
+            ```
+            
+        - Comodin Guion bajo(_):
+            
+            Nos sirve para buscar un registro de tipo texto teniendo en cuenta el numero de letras que tiene. Por ejemplo;
+            
+	```sql
+WHERE Nombre Like "_ui_" 
+```
+            
+    - Is Null (Es nulo):
+        
+        Sirve para hacer referencia a los valores nulos, Por ejemplo:
+        
+    ```sql
+Select * from nombre tabla //Le estamos diciendo que devuelva todos los registros de la tabla
+Where nombre_campo  is null //donde nombre sea nulo
+        ```
+        
+    - Is Not Null (No es nulo):
+        
+        Sirve para hacer referencia a los no valores nulos, Por ejemplo:
+        
+        ```sql
+Select * from nombre tabla //Le estamos diciendo que devuelva todos los registros de la tabla
+
+Where nombre_campo  is not null //donde nombre no sea valor nulo
+```
+        
+    
+    Recordar que al ser operadores de comparacion se pueden mezclar con operadores logicos, es decir usar and, not, or.
+
+
+
+
