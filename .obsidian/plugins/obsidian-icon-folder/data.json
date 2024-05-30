@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaHydra",
       "SiWindows",
       "SiArtixlinux",
       "SiLinux",
-      "TiNetwork",
-      "SiGnubash"
+      "TiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "4. Atajos": "SiShortcut",
   "5. Excalidraw": "SiExcalidraw",
   "6. Images": "FiImage",
-  "2. DesarrolloWeb/BASE DATOS/SQL (Maria DB)": "SiMariadb"
+  "2. DesarrolloWeb/BASE DATOS/SQL (Maria DB)": "SiMariadb",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra": "RaHydra"
 }

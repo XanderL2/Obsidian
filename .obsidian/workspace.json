@@ -8,31 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bccd3b244ef06859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "856f1118bf824615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4196bc648b3f7047",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bccd3b244ef06859",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "3. Complementos/Organizacion/Kanban Principal.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md"
               }
             }
           },
@@ -169,18 +174,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "856f1118bf824615",
   "lastOpenFiles": [
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/1. Ataques a Paneles de Login.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/0. ¿Que es Hydra?.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/1. Footpriting y Reconocimiento/1. N-map.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/1. Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "3. Complementos/Organizacion/Kanban Principal.md",
+    "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
+    "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
+    "README.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/10. Utilidades",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/9. Defensa y Evasion",
-    "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/8. Analisis Forense",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/7. Ingeneria Social",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/6. Seguridad Inalambrica",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/5.Interceptores e Inyecciones",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "5. Excalidraw/Dossier/9. Herramientas Principales.md",
     "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
     "5. Excalidraw/Dossier/8. rutasWebApi.md",
@@ -196,17 +210,9 @@
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/2. Python N-map.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/1. Scapy (Manipulacion de Paquetes de Red).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/1. Libreria OS (Mas Facil y Util).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
     "3. Complementos/Organizacion",
     "6. Images/2024-02-01-16-24-21.jpeg",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/2. OSINT",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes",
     "6. Images/Pasted image 20240528125710.png",
     "6. Images/Pasted image 20240528125707.png",
     "6. Images/Pasted image 20240528125505.png",

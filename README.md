@@ -21,11 +21,9 @@ Hola, este es un Repositorio de Anotaciones de Programacion / Ciberseguridad e i
 		- CSS
 		- Bootstrap
 		- Lenguajes de Transmision de datos: XML, JSONs
-		
 	- **Programacion**
 		- C# Basico (Estructuras de control, datos complejos, etc)
 		- C# Orientado a Objetos
-		
 	- **Bases de Datos**
 		 -  SQL
 		 -  Modelados Graficos (Diagramas ER)
@@ -33,7 +31,6 @@ Hola, este es un Repositorio de Anotaciones de Programacion / Ciberseguridad e i
 		 - Big Data (Manejo Masivo de Datos con Pandas)
 		 - Flask (Backend Rapido)
 		 - Python Basico
-		 
 	- **Herramientas de Desarrollo**
 		- Sistema de Control de Versiones (GIT)
 		- Clean Code
