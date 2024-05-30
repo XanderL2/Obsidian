@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md"
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md"
               }
             }
           },
@@ -181,16 +181,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "bccd3b244ef06859",
   "lastOpenFiles": [
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/0. Default.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/1. Cupp.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/Sin título",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/4.",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/4. Ataques a FTP.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/3. Ataques a SSH.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/2. Protocolo SMB (Samba).md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
     "6. Images/Pasted image 20240530113028.png",
     "6. Images/Pasted image 20240530113005.png",
     "Pasted image 20240530113028.png",
@@ -213,7 +216,6 @@
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/9. Defensa y Evasion",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/8. Analisis Forense",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/7. Ingeneria Social",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/6. Seguridad Inalambrica",
     "5. Excalidraw/Dossier/9. Herramientas Principales.md",
     "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
     "5. Excalidraw/Dossier/8. rutasWebApi.md",
@@ -221,8 +223,6 @@
     "5. Excalidraw/Dossier/6. Estructura de Directorios del Proyecto.excalidraw.md",
     "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
-    "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
-    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
     "6. Images/2024-02-01-16-24-21.jpeg",
     "6. Images/Pasted image 20240528125710.png",
     "6. Images/Pasted image 20240528125707.png",
