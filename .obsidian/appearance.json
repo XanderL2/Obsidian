@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "baseFontSize": 16,
-  "cssTheme": "WY Console",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "nativeMenus": false,
-  "textFontFamily": "3270Medium Nerd Font,Hack Nerd Font Mono",
+  "textFontFamily": "",
   "baseFontSizeAction": true
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,21 +23,28 @@
             "id": "4196bc648b3f7047",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "bccd3b244ef06859",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "3. Complementos/Organizacion/Kanban Principal.md"
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md"
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md"
               }
             }
           },
@@ -174,17 +181,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "856f1118bf824615",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/1. Ataques a Paneles de Login.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/2..md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra/0. ¿Que es Hydra?.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra",
+    "6. Images/Pasted image 20240530113028.png",
+    "6. Images/Pasted image 20240530113005.png",
+    "Pasted image 20240530113028.png",
+    "Pasted image 20240530113005.png",
+    "4. Atajos/Virtual Hosting.md",
+    "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+    "3. Complementos/Organizacion/Kanban Principal.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/2..md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Sin título/Sin título",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/1. Ataques a Paneles de Login.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/0. ¿Que es Hydra?.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/1. Footpriting y Reconocimiento/1. N-map.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/1. Footpriting y Reconocimiento/2. Buscar Equipos con ARP - Scan y ver en base al TTL el SO.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "3. Complementos/Organizacion/Kanban Principal.md",
-    "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
     "1. Ciberseguridad/Hacking Etico/2. Hacking Web/1. Inyecciones SQL/1. ¿Que son las SQL Injections?.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/Temas.md",
     "README.md",
@@ -207,21 +222,13 @@
     "5. Excalidraw/Dossier/1. Proposito.md",
     "5. Excalidraw/generalProyecto.excalidraw.md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/5. Impacket (Herramientas de Protocolos de Red).md",
-    "3. Complementos/Organizacion",
     "6. Images/2024-02-01-16-24-21.jpeg",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento/2. OSINT",
     "6. Images/Pasted image 20240528125710.png",
     "6. Images/Pasted image 20240528125707.png",
     "6. Images/Pasted image 20240528125505.png",
     "Pasted image 20240528125710.png",
     "Pasted image 20240528125707.png",
     "Pasted image 20240528125505.png",
-    "Pasted image 20240528095502.png",
-    "6. Images/Pasted image 20240525203228.png",
-    "6. Images/Pasted image 20240525200352.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"

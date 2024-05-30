@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaHydraShot",
+      "TiEye",
+      "SiWordpress",
       "RaHydra",
-      "SiWindows",
-      "SiArtixlinux",
-      "SiLinux",
-      "TiNetwork"
+      "SiWindows"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,8 @@
   "5. Excalidraw": "SiExcalidraw",
   "6. Images": "FiImage",
   "2. DesarrolloWeb/BASE DATOS/SQL (Maria DB)": "SiMariadb",
-  "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Hydra": "RaHydra"
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra": "RaHydraShot",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress": "SiWordpress",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/1. Escaneo de Redes y Reconocimiento": "TiEye",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta": "RaHydra"
 }
