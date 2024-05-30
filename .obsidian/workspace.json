@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md"
+                "file": "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md"
               }
             }
           },
@@ -183,16 +183,22 @@
   },
   "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/Sin título",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/4.",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/4. Ataques a FTP.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/5. Mysql.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/3. Ataques a SSH.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/2. Protocolo SMB (Samba).md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
     "6. Images/Pasted image 20240530113028.png",
     "6. Images/Pasted image 20240530113005.png",
     "Pasted image 20240530113028.png",
     "Pasted image 20240530113005.png",
     "4. Atajos/Virtual Hosting.md",
     "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress/1. Ataques de diccionario a paneles de Wordpress.md",
     "3. Complementos/Organizacion/Kanban Principal.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/2..md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/Sin título/Sin título",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra/1. Ataques a Paneles de Login.md",
@@ -208,8 +214,6 @@
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/8. Analisis Forense",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/7. Ingeneria Social",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/6. Seguridad Inalambrica",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/5.Interceptores e Inyecciones",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia",
     "5. Excalidraw/Dossier/9. Herramientas Principales.md",
     "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
     "5. Excalidraw/Dossier/8. rutasWebApi.md",
@@ -219,16 +223,12 @@
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
     "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
     "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
-    "5. Excalidraw/Dossier/1. Proposito.md",
-    "5. Excalidraw/generalProyecto.excalidraw.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
     "6. Images/2024-02-01-16-24-21.jpeg",
     "6. Images/Pasted image 20240528125710.png",
     "6. Images/Pasted image 20240528125707.png",
     "6. Images/Pasted image 20240528125505.png",
     "Pasted image 20240528125710.png",
     "Pasted image 20240528125707.png",
-    "Pasted image 20240528125505.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
