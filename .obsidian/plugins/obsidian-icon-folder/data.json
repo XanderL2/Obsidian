@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasHatCowboy",
-      "TiServer",
-      "FiChrome",
-      "FabChrome",
-      "LiBook"
+      "SiFrontendmentor",
+      "LiServer",
+      "SiJest",
+      "FasComputer",
+      "FabNode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,22 @@
   "1. Ciberseguridad/Hacking Etico/0. Introduccion al Hacking": "LiBook",
   "1. Ciberseguridad/Hacking Etico/2. Hacking Web": "FiChrome",
   "1. Ciberseguridad/Hacking Etico/3. Hacking  a Sistemas": "TiServer",
-  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia": "FasHatCowboy"
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia": "FasHatCowboy",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes": "SiLetsencrypt",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes": "FiUnlock",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes/WireShark": "RaShark",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes": "SiWireshark",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/6. Seguridad Inalambrica": "RaWifi",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/7. Ingeneria Social": "TiSocial",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/9. Defensa y Evasion": "SiCyberdefenders",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/10. Utilidades": "FabPython",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/Hashcat": "LiCat",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/John the Ripper": "FabRedhat",
+  "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/3. Cifrados y Descifrados": "RiSecurePaymentFill",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/2. Exoress JS": "SiExpress",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/1. Node JS": "FabNode",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion": "FasComputer",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Testing": "SiJest",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend": "LiServer",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Frontend": "SiFrontendmentor"
 }
