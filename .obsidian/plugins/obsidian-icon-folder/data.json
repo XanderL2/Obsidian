@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiFrontendmentor",
-      "LiServer",
-      "SiJest",
-      "FasComputer",
-      "FabNode"
+      "CoCode",
+      "SiUml",
+      "FabGithub",
+      "RiSpectrumLine",
+      "SiSpectrum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,11 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion": "FasComputer",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Testing": "SiJest",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend": "LiServer",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Frontend": "SiFrontendmentor"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Frontend": "SiFrontendmentor",
+  "3. Complementos/Work": "CoCode",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/TESTING": "SiTestin",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES": "RiSpectrumLine",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB": "FabGithub",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML": "SiUml",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE": "CoCode"
 }
