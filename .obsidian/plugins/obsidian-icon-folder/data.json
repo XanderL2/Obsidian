@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "CoCode",
-      "SiUml",
-      "FabGithub",
-      "RiSpectrumLine",
-      "SiSpectrum"
+      "FabPython",
+      "IbGames",
+      "SiFlask",
+      "SiPandas",
+      "TiRobot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -89,10 +89,16 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Testing": "SiJest",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend": "LiServer",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Frontend": "SiFrontendmentor",
-  "3. Complementos/Work": "CoCode",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/TESTING": "SiTestin",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES": "RiSpectrumLine",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB": "FabGithub",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML": "SiUml",
-  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE": "CoCode"
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE": "CoCode",
+  "3. Complementos/Organizacion/Work": "CoCode",
+  "3. Complementos/Organizacion/Personal": "FiUser",
+  "3. Complementos/GPT": "TiRobot",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Big Data con Python": "SiPandas",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Flask": "SiFlask",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Pygame": "IbGames",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python": "FabPython"
 }

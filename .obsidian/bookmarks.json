@@ -38,18 +38,31 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1717007180847,
-          "path": "3. Complementos/Organizacion/Kanban Principal.md",
-          "title": "1. Dia"
+          "ctime": 1718018430182,
+          "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+          "title": "1. Kanbam Temporal"
+        },
+        {
+          "type": "file",
+          "ctime": 1717660374931,
+          "path": "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
+          "title": "2. Ayesa Kanbam"
         }
       ],
       "title": "Dia"
     },
     {
-      "type": "file",
-      "ctime": 1717660374931,
-      "path": "3. Complementos/Organizacion/Trabajo/Kanbam Ayesa.md",
-      "title": "Ayesa Kanbam"
+      "type": "group",
+      "ctime": 1718021166380,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1718021195064,
+          "path": "3. Complementos/Ingles/1. Words.md",
+          "title": "1. Words"
+        }
+      ],
+      "title": "Extra"
     }
   ]
 }
