@@ -17,6 +17,7 @@ class nombreClase:
         self.atributo2 = atributo2;
 		
 ```
+
 ## Creacion de Clases:
 - *Self* hace referencia a la instancia de la propia clase.
 

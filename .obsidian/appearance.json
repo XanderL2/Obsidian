@@ -1,9 +1,10 @@
 {
   "accentColor": "",
   "baseFontSize": 16,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "Dark Moss",
   "theme": "obsidian",
   "nativeMenus": false,
-  "textFontFamily": "",
-  "baseFontSizeAction": true
+  "textFontFamily": "Noto Sans",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": ""
 }

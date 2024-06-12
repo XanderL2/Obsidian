@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabPython",
-      "IbGames",
-      "SiFlask",
-      "SiPandas",
-      "TiRobot"
+      "RaPlayerDespair",
+      "LiNetwork",
+      "SiHackaday",
+      "FasChild",
+      "FabPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -100,5 +100,8 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Big Data con Python": "SiPandas",
   "2. DesarrolloWeb/PROGRAMACION/Python/Flask": "SiFlask",
   "2. DesarrolloWeb/PROGRAMACION/Python/Pygame": "IbGames",
-  "2. DesarrolloWeb/PROGRAMACION/Python/Python": "FabPython"
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python": "FabPython",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Basico": "FasChild",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos": "LiNetwork",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente": "RaPlayerDespair"
 }
