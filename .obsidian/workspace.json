@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diccionarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md"
               }
             }
           },
@@ -181,14 +181,17 @@
   },
   "active": "5caec6ab40cc1052",
   "lastOpenFiles": [
+    "4. Atajos/Virtual Hosting.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/1. Cupp.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
     "6. Images/Pasted image 20240612111412.png",
     "6. Images/Pasted image 20240612104039.png",
     "Pasted image 20240612111412.png",
     "5. Excalidraw/Herencia.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "3. Complementos/Ingles/1. Words.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
     "Pasted image 20240612104039.png",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados",
@@ -212,8 +215,6 @@
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/9. Bucle FOR.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/8. Bucle Do - While.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/7. Bucle While.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/6. Switch - Case.md",
     "3. Complementos/GPT",
     "3. Complementos/Organizacion/Personal",
     "6. Images/Pasted image 20240610124911.png",
@@ -227,7 +228,6 @@
     "6. Images/Pasted Image 20240606111854_513.png",
     "3. Complementos/Organizacion/Work",
     "5. Excalidraw/Sin título.canvas",
-    "6. Images/Pasted image 20240531171858.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"

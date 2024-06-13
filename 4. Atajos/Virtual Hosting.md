@@ -20,3 +20,10 @@ ff02::2 ip6-allrouters
 
 <ip>    nombreDominio
 ```
+
+
+Escanear todas las redes:
+```
+airodump-ng --band a wlan0mon
+```
+
