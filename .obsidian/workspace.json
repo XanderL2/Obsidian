@@ -23,9 +23,11 @@
             "id": "19cf0296d83e8947",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -35,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md"
               }
             }
           },
@@ -179,54 +181,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5caec6ab40cc1052",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
-    "4. Atajos/Virtual Hosting.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/1. Cupp.md",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/3. Creacion de Diccionarios/2. Crunch.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/2. Herencia Multiple.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia/1. Herencia Simple - Metodo Super().md",
+    "6. Images/Pasted image 20240613113239.png",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
+    "Pasted image 20240613113239.png",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
+    "5. Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "3. Complementos/Ingles/1. Words.md",
+    "5. Excalidraw/ModeloAAA.excalidraw.md",
+    "5. Excalidraw/Herencia.md",
+    "5. Excalidraw/Express Sessions.md",
+    "5. Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "5. Excalidraw/CifradoAsimetrico.excalidraw.md",
+    "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
+    "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
+    "5. Excalidraw/Dossier/7. faseDiseño.excalidraw.md",
+    "5. Excalidraw/Dossier/9. Herramientas Principales.md",
+    "5. Excalidraw/Dossier/8. rutasWebApi.md",
+    "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
+    "5. Excalidraw/autenticacion.excalidraw.md",
+    "5. Excalidraw/Dossier/Funcionalidades Ofensivas.md",
+    "5. Excalidraw/Dossier/1. Proposito.md",
+    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
     "6. Images/Pasted image 20240612111412.png",
     "6. Images/Pasted image 20240612104039.png",
     "Pasted image 20240612111412.png",
-    "5. Excalidraw/Herencia.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "3. Complementos/Ingles/1. Words.md",
     "Pasted image 20240612104039.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Herencia",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos",
-    "5. Excalidraw/pwnhash.md",
-    "5. Excalidraw/privilegiosRutina.excalidraw.md",
-    "5. Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "5. Excalidraw/ModeloAAA.excalidraw.md",
-    "5. Excalidraw/generalProyecto.excalidraw.md",
-    "5. Excalidraw/Express Sessions.md",
-    "5. Excalidraw/Estructura de Directorios del Proyecto.excalidraw 1.md",
-    "5. Excalidraw/cuotasSQL.excalidraw.md",
-    "5. Excalidraw/comidaCasoUso.excalidraw.md",
-    "5. Excalidraw/CifradoAsimetrico.excalidraw.md",
-    "5. Excalidraw/ayesa.excalidraw.md",
-    "5. Excalidraw/autenticacion.excalidraw.md",
-    "5. Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-12 10.03.44.excalidraw.md",
     "Excalidraw",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/9. Bucle FOR.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/8. Bucle Do - While.md",
     "3. Complementos/GPT",
     "3. Complementos/Organizacion/Personal",
     "6. Images/Pasted image 20240610124911.png",
     "Pasted image 20240610124911.png",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/Sin título/Sin título",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES",
     "ayesa.excalidraw.png",
     "Pasted Image 20240606111854_513.png",
     "6. Images/ayesa.excalidraw.png",
-    "6. Images/Pasted Image 20240606111854_513.png",
-    "3. Complementos/Organizacion/Work",
     "5. Excalidraw/Sin título.canvas",
     "Sin título.canvas",
     "Sin título 1.canvas",
