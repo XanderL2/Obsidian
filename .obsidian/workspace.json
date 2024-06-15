@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md"
               }
             }
           },
@@ -196,8 +196,15 @@
   },
   "active": "19cf0296d83e8947",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
+    "Pasted image 20240615175608.png",
+    "Pasted image 20240615174810.png",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/Sin título.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Metodos Especiales",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
@@ -220,12 +227,9 @@
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/3. Conceptos  y Funcionamiento Basico.md",
     "4. Atajos/Virtual Hosting.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
     "6. Images/Pasted image 20240613113239.png",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
     "Pasted image 20240613113239.png",
     "6. Images/Pasted image 20240612111412.png",
     "6. Images/Pasted image 20240612104039.png",
@@ -235,13 +239,9 @@
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos",
     "Excalidraw",
-    "3. Complementos/GPT",
-    "3. Complementos/Organizacion/Personal",
     "6. Images/Pasted image 20240610124911.png",
     "Pasted image 20240610124911.png",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/Sin título/Sin título",
     "ayesa.excalidraw.png",
-    "Pasted Image 20240606111854_513.png",
     "5. Excalidraw/Sin título.canvas",
     "Sin título.canvas",
     "Sin título 1.canvas",

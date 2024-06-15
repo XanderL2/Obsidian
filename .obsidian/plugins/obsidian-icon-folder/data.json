@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSolid",
+      "SiSpectrum",
       "FasPersonMilitaryToPerson",
       "BoBxsLockOpenAlt",
-      "SiBytedance",
-      "FasBaby",
-      "LiBaby"
+      "SiBytedance"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -109,5 +109,6 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia": "FasBaby",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo": "SiBytedance",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento": "BoBxsLockOpenAlt",
-  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson"
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID": "SiSolid"
 }
