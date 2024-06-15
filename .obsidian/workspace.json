@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md"
               }
             }
           },
@@ -194,20 +194,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5caec6ab40cc1052",
+  "active": "19cf0296d83e8947",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
     "3. Complementos/Ingles/1. Words.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/3. Decoradores.md",
     "4. Atajos/Markdown Sintax.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Encapsulamiento.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/2. Roles en SCRUM.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/1. ¿Que es SCRUM?.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/3. Conceptos  y Funcionamiento Basico.md",
@@ -215,17 +222,11 @@
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
     "6. Images/Pasted image 20240613113239.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
     "Pasted image 20240613113239.png",
-    "5. Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "5. Excalidraw/ModeloAAA.excalidraw.md",
     "6. Images/Pasted image 20240612111412.png",
     "6. Images/Pasted image 20240612104039.png",
     "Pasted image 20240612111412.png",
@@ -239,7 +240,6 @@
     "6. Images/Pasted image 20240610124911.png",
     "Pasted image 20240610124911.png",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/Sin título/Sin título",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM",
     "ayesa.excalidraw.png",
     "Pasted Image 20240606111854_513.png",
     "5. Excalidraw/Sin título.canvas",
