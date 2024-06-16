@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md"
               }
             }
           },
@@ -194,6 +194,10 @@
   },
   "active": "19cf0296d83e8947",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Princoio.md",
+    "Pasted image 20240616151835.png",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
     "6. Images/Pasted image 20240616145933.png",
     "Pasted image 20240616145933.png",
@@ -202,7 +206,6 @@
     "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
     "Excalidraw/Drawing 2024-06-16 13.49.06.excalidraw.md",
     "Excalidraw",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP",
@@ -234,11 +237,9 @@
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Encapsulamiento.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/2. Roles en SCRUM.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/1. ¿Que es SCRUM?.md",
     "6. Images/Pasted image 20240613113239.png",
     "Pasted image 20240613113239.png",
     "6. Images/Pasted image 20240612111412.png",
-    "6. Images/Pasted image 20240612104039.png",
     "5. Excalidraw/Sin título.canvas",
     "Sin título.canvas",
     "Sin título 1.canvas",
