@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiSolid",
-      "SiSpectrum",
-      "FasPersonMilitaryToPerson",
-      "BoBxsLockOpenAlt",
-      "SiBytedance"
+      "FasObjectUngroup",
+      "OcPackageDependencies16",
+      "TiStatusChange",
+      "TiDoor",
+      "TiPrescription"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,5 +110,10 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo": "SiBytedance",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento": "BoBxsLockOpenAlt",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson",
-  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID": "SiSolid"
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID": "SiSolid",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP": "TiPrescription",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP": "TiDoor",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/4. LSP": "TiStatusChange",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/5. ISP": "OcPackageDependencies16",
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP": "FasObjectUngroup"
 }
