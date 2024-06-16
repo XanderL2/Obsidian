@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md"
               }
             }
           },
@@ -195,12 +194,12 @@
   },
   "active": "19cf0296d83e8947",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
     "6. Images/Pasted image 20240616145933.png",
     "Pasted image 20240616145933.png",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
     "3. Complementos/Ingles/1. Words.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
@@ -240,7 +239,6 @@
     "Pasted image 20240613113239.png",
     "6. Images/Pasted image 20240612111412.png",
     "6. Images/Pasted image 20240612104039.png",
-    "Pasted image 20240612111412.png",
     "5. Excalidraw/Sin título.canvas",
     "Sin título.canvas",
     "Sin título 1.canvas",
