@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiObsidian",
+      "OcProject16",
       "FasObjectUngroup",
       "OcPackageDependencies16",
-      "TiStatusChange",
-      "TiDoor",
-      "TiPrescription"
+      "TiStatusChange"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -115,5 +115,7 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP": "TiDoor",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/4. LSP": "TiStatusChange",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/5. ISP": "OcPackageDependencies16",
-  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP": "FasObjectUngroup"
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP": "FasObjectUngroup",
+  "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/Estructurar Proyectos": "OcProject16",
+  "3. Complementos/Temas": "SiObsidian"
 }

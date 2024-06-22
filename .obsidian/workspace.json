@@ -8,41 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83570032ebbaf4fd",
+            "id": "fd1f07e3a8f55693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Complementos/Ingles/1. Words.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5caec6ab40cc1052",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-              }
-            }
-          },
-          {
-            "id": "19cf0296d83e8947",
+            "id": "8bbbb930624e5fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83570032ebbaf4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diccionarios",
+                "query": "clausulas de guarda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5026054382324
+    "width": 342.5086555480957
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md"
               }
             }
           },
@@ -171,9 +172,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "7b932836e38f523c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -189,59 +198,61 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "19cf0296d83e8947",
+  "active": "fd1f07e3a8f55693",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/3. Decoradores.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
+    "3. Complementos/Ingles/1. Words.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Basico/14. Funciones definidas por el Usuario.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/1. One Liners (Codigo Acortado de Python).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/Hashcat/1. Reconstruccion de Hashes con Hashcat.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+    "4. Atajos/MindMapSintax.md",
+    "4. Atajos/Virtual Hosting.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes/1. Hash Identifier - Hashid.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/5. ISP/1. Principios de Segregacion de Interfaces.md",
+    "3. Complementos/Organizacion/Personal/Horario.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
-    "6. Images/Pasted image 20240616151835.png",
-    "5. Excalidraw/Liskov.md",
-    "5. Excalidraw/Herencia.md",
-    "Pasted image 20240616151835.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/2. Interfaces y Clases Abstractas.md",
-    "6. Images/Pasted image 20240616145933.png",
-    "Pasted image 20240616145933.png",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
-    "3. Complementos/Ingles/1. Words.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
-    "Excalidraw/Drawing 2024-06-16 13.49.06.excalidraw.md",
+    "3. Complementos/Organizacion/Personal/Kanban Principal.md",
+    "6. Images/Pasted Image 20240619103052_305.png",
+    "6. Images/Pasted Image 20240619102916_271.png",
+    "6. Images/Pasted Image 20240619102454_219.png",
+    "6. Images/Pasted Image 20240619101809_771.png",
+    "6. Images/Pasted Image 20240619101738_750.png",
+    "6. Images/Pasted Image 20240619101107_734.png",
+    "6. Images/Pasted Image 20240619100936_714.png",
+    "6. Images/Pasted Image 20240619100834_709.png",
+    "6. Images/Pasted Image 20240619100734_691.png",
+    "Pasted Image 20240619103052_305.png",
     "Excalidraw",
+    "3. Complementos/Temas",
+    "Sin título.canvas",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/Estructurar Proyectos",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/6. DIP",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/Sin título",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/5. ISP",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/4. LSP",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/3. OCP",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/2. SRP",
-    "6. Images/Pasted image 20240615175608.png",
-    "6. Images/Pasted image 20240615174810.png",
-    "Pasted image 20240615175608.png",
-    "Pasted image 20240615174810.png",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/1. Introduccion",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/Sin título.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/Metodos Especiales",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
-    "6. Images/Pasted image 20240613113239.png",
-    "Pasted image 20240613113239.png",
     "5. Excalidraw/Sin título.canvas",
-    "Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
   ]

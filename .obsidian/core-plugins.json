@@ -15,7 +15,9 @@
   "command-palette",
   "editor-status",
   "bookmarks",
+  "markdown-importer",
   "outline",
   "word-count",
+  "slides",
   "file-recovery"
 ]

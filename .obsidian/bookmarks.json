@@ -6,15 +6,15 @@
       "items": [
         {
           "type": "file",
-          "ctime": 1717061213795,
-          "path": "4. Atajos/Virtual Hosting.md",
-          "title": "2. /etc/hosts"
-        },
-        {
-          "type": "file",
           "ctime": 1716904649231,
           "path": "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
           "title": "1. Directorios Importantes"
+        },
+        {
+          "type": "file",
+          "ctime": 1717061213795,
+          "path": "4. Atajos/Virtual Hosting.md",
+          "title": "2. /etc/hosts"
         }
       ],
       "title": "Hacking"
@@ -28,6 +28,12 @@
           "ctime": 1716897018362,
           "path": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
           "title": "1. Notacion de Commits"
+        },
+        {
+          "type": "file",
+          "ctime": 1718815268507,
+          "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+          "title": "2. SOLID RESUMEN"
         }
       ],
       "title": "Programacion"
@@ -47,6 +53,12 @@
           "ctime": 1717660374931,
           "path": "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
           "title": "2. Ayesa Kanbam"
+        },
+        {
+          "type": "file",
+          "ctime": 1718731774556,
+          "path": "3. Complementos/Organizacion/Personal/Horario.md",
+          "title": "3. Horario"
         }
       ],
       "title": "Dia"
