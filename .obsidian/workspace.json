@@ -37,8 +37,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b6fa67ff8a9122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md"
               }
             }
           },
@@ -206,8 +218,10 @@
   },
   "active": "83570032ebbaf4fd",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+    "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/3. Conversion a .exe",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales",
@@ -215,8 +229,6 @@
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/Estructurar Proyectos/1. Screaming Architecture.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
-    "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
