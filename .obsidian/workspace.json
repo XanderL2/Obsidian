@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
                 "mode": "preview",
                 "source": false
               }
@@ -35,9 +35,11 @@
             "id": "b5b6fa67ff8a9122",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -54,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md"
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md"
               }
             }
           },
@@ -214,24 +216,26 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "8bbbb930624e5fe7",
+  "active": "b5b6fa67ff8a9122",
   "lastOpenFiles": [
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
     "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/1. ¿Que es SCRUM?.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/3. Conceptos  y Funcionamiento Basico.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/2. Roles en SCRUM.md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales/1. ¿Porque crear un entorno virtual?.md",
@@ -244,8 +248,6 @@
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/CLEAN CODE/Refactoring/2. Patrones de Refactoring.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/2. Atributos y Metodos.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/3. Decoradores.md",
     "6. Images/Pasted Image 20240619103052_305.png",
     "6. Images/Pasted Image 20240619102916_271.png",
     "6. Images/Pasted Image 20240619102454_219.png",
