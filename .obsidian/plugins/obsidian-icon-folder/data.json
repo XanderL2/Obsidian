@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiLetsencrypt",
       "FabJava",
       "OcPackageDependents24",
       "SiObsidian",
-      "OcProject16",
-      "FasObjectUngroup"
+      "OcProject16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -119,5 +119,6 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento": "BoBxsLockOpenAlt",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra": "OcPackageDependents24",
-  "2. DesarrolloWeb/PROGRAMACION/Java": "FabJava"
+  "2. DesarrolloWeb/PROGRAMACION/Java": "FabJava",
+  "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos": "SiLetsencrypt"
 }

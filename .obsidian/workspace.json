@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
-                "mode": "preview",
+                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "criptografia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md",
+                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md",
+                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md"
+                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md"
               }
             }
           },
@@ -216,37 +216,41 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "83570032ebbaf4fd",
+  "active": "8bbbb930624e5fe7",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md",
+    "6. Images/Pasted image 20240628160717.png",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/5. ¿Que es un SALT?.md",
+    "Pasted image 20240628160717.png",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/7. AES.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/2. SSL y TLS.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/1. Certificados Digitales.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/1. Conceptos Basicos de Criptografia.md",
+    "3. Complementos/Ingles/1. Words.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/Sin título.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/7. Switch.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/4. Entrada y Salida de Datos.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/4. Operadores en C-Sharp.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/5. Condicionales (If - Else).md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/3. Variables, Constantes y Tipos de Datos.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/2. Sintaxis general (Printar, concatenar, etc).md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/4. Operadores en C-Sharp.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/1. Introduccion.md",
-    "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico",
     "2. DesarrolloWeb/PROGRAMACION/Java",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
-    "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
-    "3. Complementos/Organizacion/Personal/Horario.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/1. ¿Que es SCRUM?.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/3. Conceptos  y Funcionamiento Basico.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES/SCRUM/2. Roles en SCRUM.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/3. Conversion a .exe",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales",
@@ -260,11 +264,7 @@
     "6. Images/Pasted Image 20240619100936_714.png",
     "6. Images/Pasted Image 20240619100834_709.png",
     "6. Images/Pasted Image 20240619100734_691.png",
-    "Pasted Image 20240619103052_305.png",
-    "Excalidraw",
-    "3. Complementos/Temas",
     "Sin título.canvas",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/Estructurar Proyectos",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
     "Untitled.canvas"
