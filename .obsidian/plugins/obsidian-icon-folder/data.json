@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJava",
       "OcPackageDependents24",
       "SiObsidian",
       "OcProject16",
-      "FasObjectUngroup",
-      "OcPackageDependencies16"
+      "FasObjectUngroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -118,5 +118,6 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo": "SiBytedance",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento": "BoBxsLockOpenAlt",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson",
-  "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra": "OcPackageDependents24"
+  "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra": "OcPackageDependents24",
+  "2. DesarrolloWeb/PROGRAMACION/Java": "FabJava"
 }
