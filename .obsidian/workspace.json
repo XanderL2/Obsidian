@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
-                "mode": "source",
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md"
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md"
               }
             }
           },
@@ -218,11 +218,11 @@
   },
   "active": "8bbbb930624e5fe7",
   "lastOpenFiles": [
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/2. IV (Vector de Inicializacion).md",
     "6. Images/Pasted image 20240628160717.png",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/5. ¿Que es un SALT?.md",
     "Pasted image 20240628160717.png",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/6. IV (Vector de Inicializacion).md",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/7. AES.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/1. AES.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/2. SSL y TLS.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web",
@@ -263,7 +263,6 @@
     "6. Images/Pasted Image 20240619101107_734.png",
     "6. Images/Pasted Image 20240619100936_714.png",
     "6. Images/Pasted Image 20240619100834_709.png",
-    "6. Images/Pasted Image 20240619100734_691.png",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
