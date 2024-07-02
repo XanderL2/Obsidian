@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md"
+                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md"
               }
             }
           },
@@ -216,8 +216,14 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "8bbbb930624e5fe7",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "4. Atajos/Virtual Hosting.md",
+    "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
+    "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
+    "3. Complementos/Organizacion/Personal/Horario.md",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes/1. Hash Identifier - Hashid.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/2. IV (Vector de Inicializacion).md",
     "6. Images/Pasted image 20240628160717.png",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/5. ¿Que es un SALT?.md",
@@ -243,14 +249,9 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/5. Condicionales (If - Else).md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/3. Variables, Constantes y Tipos de Datos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/2. Sintaxis general (Printar, concatenar, etc).md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/4. Operadores en C-Sharp.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/1. Introduccion.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico",
     "2. DesarrolloWeb/PROGRAMACION/Java",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias/1. Gestion de Dependencias.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/3. Conversion a .exe",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales",
