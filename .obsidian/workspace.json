@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md"
               }
             }
           },
@@ -218,8 +218,17 @@
   },
   "active": "83570032ebbaf4fd",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/2. Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+    "Pasted image 20240703185242.png",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
+    "Pasted image 20240703183447.png",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/4. Polimorfismo",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/5. Abstraccion",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
@@ -230,7 +239,6 @@
     "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/3. Herencia",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion",
     "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
@@ -249,21 +257,13 @@
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/1. Certificados Digitales.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/1. Conceptos Basicos de Criptografia.md",
-    "3. Complementos/Ingles/1. Words.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico",
-    "2. DesarrolloWeb/PROGRAMACION/Java",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/3. Conversion a .exe",
     "6. Images/Pasted Image 20240619103052_305.png",
     "6. Images/Pasted Image 20240619102916_271.png",
     "6. Images/Pasted Image 20240619102454_219.png",
     "6. Images/Pasted Image 20240619101809_771.png",
     "6. Images/Pasted Image 20240619101738_750.png",
     "6. Images/Pasted Image 20240619101107_734.png",
-    "6. Images/Pasted Image 20240619100936_714.png",
-    "6. Images/Pasted Image 20240619100834_709.png",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
