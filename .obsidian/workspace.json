@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbbb930624e5fe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Complementos/Temas/Temas.md",
-                "mode": "source",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/5. ISP/1. Principios de Segregacion de Interfaces.md",
                 "mode": "preview",
                 "source": false
               }
@@ -50,13 +38,12 @@
               "type": "markdown",
               "state": {
                 "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,10 +203,21 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "83570032ebbaf4fd",
+  "active": "fd1f07e3a8f55693",
   "lastOpenFiles": [
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/2. Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "6. Images/Pasted image 20240703185242.png",
+    "6. Images/Pasted image 20240703183447.png",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/5. ISP/1. Principios de Segregacion de Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/6. DIP/1. Principio de Inversion de Dependencias.md",
+    "3. Complementos/Temas/Temas.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "Pasted image 20240703185242.png",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
     "Pasted image 20240703183447.png",
@@ -228,13 +226,9 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/4. Polimorfismo",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/5. Abstraccion",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
-    "3. Complementos/Temas/Temas.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/0. Estandarizaciones en Java.md",
     "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
@@ -247,23 +241,16 @@
     "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes/1. Hash Identifier - Hashid.md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/2. IV (Vector de Inicializacion).md",
     "6. Images/Pasted image 20240628160717.png",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/5. ¿Que es un SALT?.md",
     "Pasted image 20240628160717.png",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos/1. AES.md",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/2. SSL y TLS.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web/1. Certificados Digitales.md",
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
     "6. Images/Pasted Image 20240619103052_305.png",
     "6. Images/Pasted Image 20240619102916_271.png",
     "6. Images/Pasted Image 20240619102454_219.png",
     "6. Images/Pasted Image 20240619101809_771.png",
-    "6. Images/Pasted Image 20240619101738_750.png",
-    "6. Images/Pasted Image 20240619101107_734.png",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
