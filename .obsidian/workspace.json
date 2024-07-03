@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
-                "mode": "preview",
+                "file": "3. Complementos/Temas/Temas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
-                "mode": "source",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md"
               }
             }
           },
@@ -216,17 +216,19 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "8bbbb930624e5fe7",
+  "active": "83570032ebbaf4fd",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/0. Estandarizaciones en Java.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Modificadores de Acceso.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
+    "3. Complementos/Temas/Temas.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/0. Estandarizaciones en Java.md",
     "3. Complementos/Organizacion/Work/Kanbam Ayesa.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento/1. Getters y Setters.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/3. Herencia",
@@ -250,8 +252,6 @@
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/1. Conceptos Basicos de Criptografia.md",
     "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico",
     "2. DesarrolloWeb/PROGRAMACION/Java",
