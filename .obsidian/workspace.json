@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md"
               }
             }
           },
@@ -216,10 +216,17 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "8bbbb930624e5fe7",
   "lastOpenFiles": [
-    "4. Atajos/Virtual Hosting.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/0. Estandarizaciones en Java.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Herencia",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion",
     "1. Ciberseguridad/Hacking Etico/Roadmap Personalizado.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/Sin título.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
+    "4. Atajos/Virtual Hosting.md",
     "1. Ciberseguridad/Sistemas Operativos/Linux/0. Acceso Rapido/0. Directorios mas Importantes para Ciberseguridad.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes/1. Hash Identifier - Hashid.md",
@@ -237,25 +244,18 @@
     "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/1. Introduccion/1. Conceptos Basicos de Criptografia.md",
     "3. Complementos/Ingles/1. Words.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/12. Diccionarios (Objetos).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Resumen SOLID.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/Sin título.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/6. Condicionales (If - Else).md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/7. Switch.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/4. Entrada y Salida de Datos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/1. Fundamentos Basicos de Csharp/5. Condicionales (If - Else).md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/3. Variables, Constantes y Tipos de Datos.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico",
     "2. DesarrolloWeb/PROGRAMACION/Java",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/3. Conversion a .exe",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/2. Gestion de Dependencias",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra/1. Entornos Virtuales",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra",
     "6. Images/Pasted Image 20240619103052_305.png",
     "6. Images/Pasted Image 20240619102916_271.png",
     "6. Images/Pasted Image 20240619102454_219.png",
