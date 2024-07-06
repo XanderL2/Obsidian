@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md"
               }
             }
           },
@@ -203,6 +203,10 @@
   },
   "active": "83570032ebbaf4fd",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Clases e Instancias.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "6. Images/Pasted image 20240706212149.png",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
@@ -211,7 +215,6 @@
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
     "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/6. ¿Porque necesitamos Getters y Setters si el metodo es publico?.md",
@@ -222,7 +225,6 @@
     "5. Excalidraw/Diagramas de Clases/Chess Delinux",
     "3. Complementos/Ingles/1. Words.md",
     "4. Atajos/Markdown Sintax.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
     "6. Images/Pasted image 20240704185811.png",
@@ -233,7 +235,6 @@
     "6. Images/Pasted image 20240704183752.png",
     "6. Images/Pasted image 20240704182906.png",
     "Pasted image 20240704185811.png",
-    "Pasted image 20240704185421.png",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/2. Arquitectura REST.md",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
     "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
@@ -242,7 +243,6 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
     "5. Excalidraw/Diagramas de Clases",
     "Excalidraw",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
