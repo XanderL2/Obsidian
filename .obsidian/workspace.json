@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -23,11 +23,9 @@
             "id": "e5f3c8e0726d99fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
-                "mode": "preview",
-                "source": false
+                "file": "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md"
               }
             }
           },
@@ -35,9 +33,11 @@
             "id": "28b8341e84b1d189",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5. Excalidraw/UML/cheatsheet.excalidraw.md"
+                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metodos",
+                "query": "diagramas de clases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
               }
             }
           },
@@ -203,6 +203,28 @@
   },
   "active": "83570032ebbaf4fd",
   "lastOpenFiles": [
+    "6. Images/Pasted image 20240706212149.png",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
+    "Pasted image 20240706212149.png",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+    "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/6. ¿Porque necesitamos Getters y Setters si el metodo es publico?.md",
+    "2. DesarrolloWeb/BASE DATOS/SQL (Maria DB)/Principal/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
+    "5. Excalidraw/Diagramas de Clases/cheatsheet.excalidraw.md",
+    "5. Excalidraw/Diagramas de Clases/Sin nombre",
+    "5. Excalidraw/Diagramas de Clases/Chess Delinux",
+    "3. Complementos/Ingles/1. Words.md",
+    "4. Atajos/Markdown Sintax.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
+    "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
     "6. Images/Pasted image 20240704185811.png",
     "6. Images/Pasted image 20240704185421.png",
     "6. Images/Pasted image 20240704184645.png",
@@ -212,14 +234,8 @@
     "6. Images/Pasted image 20240704182906.png",
     "Pasted image 20240704185811.png",
     "Pasted image 20240704185421.png",
-    "5. Excalidraw/UML/cheatsheet.excalidraw.md",
-    "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-    "Pasted image 20240704184645.png",
-    "Pasted image 20240704184246.png",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/2. Arquitectura REST.md",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
     "2. DesarrolloWeb/BASE DATOS/Introduccion/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
     "2. DesarrolloWeb/BASE DATOS/Introduccion/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
@@ -227,29 +243,13 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/3. Diagramas de Comportamiento/Diagramas de Secuencia.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/5. ISP/1. Principios de Segregacion de Interfaces.md",
-    "5. Excalidraw/ayesa.excalidraw.md",
-    "5. Excalidraw/autenticacion.excalidraw.md",
-    "5. Excalidraw/Dossier/1. Proposito.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md",
-    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
-    "5. Excalidraw/UML/Sin título.md",
-    "Excalidraw/Drawing 2024-07-03 19.58.51.excalidraw.md",
-    "5. Excalidraw/UML",
+    "5. Excalidraw/Diagramas de Clases",
     "Excalidraw",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/2. Interfaces.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/2. SRP/1. Principio de Responsabilidad Unica.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/3. OCP/1. Principio de Abierto y Cerrado.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/4. Polimorfismo",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/5. Abstraccion",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/3. Herencia",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/3. Algoritmos",
-    "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos/2. Web",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",

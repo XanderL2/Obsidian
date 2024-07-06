@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiSecurePaymentFill",
+      "LiBaby",
       "SiLetsencrypt",
       "FabJava",
-      "OcPackageDependents24",
-      "SiObsidian",
-      "OcProject16"
+      "OcPackageDependents24"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -120,5 +120,7 @@
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion": "FasPersonMilitaryToPerson",
   "2. DesarrolloWeb/PROGRAMACION/Python/Python/4. Extra": "OcPackageDependents24",
   "2. DesarrolloWeb/PROGRAMACION/Java": "FabJava",
-  "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos": "SiLetsencrypt"
+  "1. Ciberseguridad/Redes Para Ciberseguridad/7. Criptografia y Algoritmos": "SiLetsencrypt",
+  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion": "LiBaby",
+  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento": "RiSecurePaymentFill"
 }
