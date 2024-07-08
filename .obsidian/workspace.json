@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "5. Excalidraw/Dossier/4. Autenticacion (JWT).md"
+                "file": "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md"
               }
             }
           },
@@ -21,9 +21,11 @@
             "id": "28b8341e84b1d189",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5. Excalidraw/Scrum.excalidraw.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -33,8 +35,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85c02011dd76202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5086555480957
+    "width": 342.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md"
               }
             }
           },
@@ -202,9 +217,35 @@
   },
   "active": "d37be6db9948c3b1",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
-    "5. Excalidraw/Scrum.excalidraw.md",
+    "6. Images/Pasted image 20240708170814.png",
+    "6. Images/Pasted image 20240708170807.png",
+    "6. Images/Pasted image 20240708170631.png",
+    "6. Images/Pasted image 20240708164556.png",
+    "Pasted image 20240708170814.png",
+    "Pasted image 20240708170807.png",
+    "Pasted image 20240708170631.png",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
+    "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+    "5. Excalidraw/Diagramas de Clases/cheatsheet.excalidraw.md",
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
+    "Pasted image 20240708164556.png",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/3. Decoradores.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
+    "5. Excalidraw/Scrum.excalidraw.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2..md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).png",
     "5. Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
     "3. Complementos/Ingles/1. Words.md",
@@ -212,32 +253,8 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/1. ¿Que son los JWT?.md",
     "5. Excalidraw/comidaCasoUso.excalidraw.md",
     "5. Excalidraw/CifradoAsimetrico.excalidraw.md",
-    "5. Excalidraw/ayesa.excalidraw.md",
-    "5. Excalidraw/autenticacion.excalidraw.md",
     "6. Images/Pasted Image 20240708132953_582.png",
     "6. Images/Pasted Image 20240708132853_562.png",
-    "6. Images/Pasted Image 20240708132631_354.png",
-    "6. Images/Pasted Image 20240708132452_546.png",
-    "6. Images/Pasted Image 20240708131752_514.png",
-    "6. Images/Pasted Image 20240708131537_498.png",
-    "6. Images/Pasted Image 20240708131437_496.png",
-    "6. Images/Pasted Image 20240708131336_483.png",
-    "6. Images/Pasted Image 20240708131104_466.png",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
-    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
-    "5. Excalidraw/pwnhash.md",
-    "5. Excalidraw/privilegiosRutina.excalidraw.md",
-    "5. Excalidraw/privilegiosBaseDatos.excalidraw.md",
-    "5. Excalidraw/ModeloAAA.excalidraw.md",
-    "5. Excalidraw/Liskov.md",
-    "5. Excalidraw/Herencia.md",
-    "5. Excalidraw/generalProyecto.excalidraw.md",
-    "5. Excalidraw/Express Sessions.md",
-    "5. Excalidraw/Estructura de Directorios del Proyecto.excalidraw 1.md",
-    "5. Excalidraw/Dossier/7. faseDiseño.excalidraw.md",
-    "5. Excalidraw/Dossier/6. Estructura de Directorios del Proyecto.excalidraw.md",
-    "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
-    "5. Excalidraw/Dossier/1. Proposito.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion",
@@ -247,8 +264,6 @@
     "Excalidraw",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/4. Polimorfismo",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/5. Abstraccion",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
