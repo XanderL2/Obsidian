@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83570032ebbaf4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5f3c8e0726d99fc",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md"
+                "file": "5. Excalidraw/Dossier/4. Autenticacion (JWT).md"
               }
             }
           },
@@ -33,15 +21,26 @@
             "id": "28b8341e84b1d189",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5. Excalidraw/Scrum.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d37be6db9948c3b1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md"
               }
             }
           },
@@ -201,55 +200,55 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "83570032ebbaf4fd",
+  "active": "d37be6db9948c3b1",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Clases e Instancias.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "6. Images/Pasted image 20240706212149.png",
-    "Pasted image 20240706212149.png",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-    "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
+    "5. Excalidraw/Scrum.excalidraw.md",
+    "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Dossier/4. Autenticacion (JWT).png",
+    "5. Excalidraw/diagramaSecuencialEjemplo.excalidraw.md",
+    "3. Complementos/Ingles/1. Words.md",
+    "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/1. ¿Que son los JWT?.md",
+    "5. Excalidraw/comidaCasoUso.excalidraw.md",
+    "5. Excalidraw/CifradoAsimetrico.excalidraw.md",
+    "5. Excalidraw/ayesa.excalidraw.md",
+    "5. Excalidraw/autenticacion.excalidraw.md",
+    "6. Images/Pasted Image 20240708132953_582.png",
+    "6. Images/Pasted Image 20240708132853_562.png",
+    "6. Images/Pasted Image 20240708132631_354.png",
+    "6. Images/Pasted Image 20240708132452_546.png",
+    "6. Images/Pasted Image 20240708131752_514.png",
+    "6. Images/Pasted Image 20240708131537_498.png",
+    "6. Images/Pasted Image 20240708131437_496.png",
+    "6. Images/Pasted Image 20240708131336_483.png",
+    "6. Images/Pasted Image 20240708131104_466.png",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
+    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
+    "5. Excalidraw/pwnhash.md",
+    "5. Excalidraw/privilegiosRutina.excalidraw.md",
+    "5. Excalidraw/privilegiosBaseDatos.excalidraw.md",
+    "5. Excalidraw/ModeloAAA.excalidraw.md",
+    "5. Excalidraw/Liskov.md",
+    "5. Excalidraw/Herencia.md",
+    "5. Excalidraw/generalProyecto.excalidraw.md",
+    "5. Excalidraw/Express Sessions.md",
+    "5. Excalidraw/Estructura de Directorios del Proyecto.excalidraw 1.md",
+    "5. Excalidraw/Dossier/7. faseDiseño.excalidraw.md",
+    "5. Excalidraw/Dossier/6. Estructura de Directorios del Proyecto.excalidraw.md",
+    "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
+    "5. Excalidraw/Dossier/1. Proposito.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/6. ¿Porque necesitamos Getters y Setters si el metodo es publico?.md",
-    "2. DesarrolloWeb/BASE DATOS/SQL (Maria DB)/Principal/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
-    "5. Excalidraw/Diagramas de Clases/cheatsheet.excalidraw.md",
     "5. Excalidraw/Diagramas de Clases/Sin nombre",
     "5. Excalidraw/Diagramas de Clases/Chess Delinux",
-    "3. Complementos/Ingles/1. Words.md",
-    "4. Atajos/Markdown Sintax.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
-    "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
-    "6. Images/Pasted image 20240704185811.png",
-    "6. Images/Pasted image 20240704185421.png",
-    "6. Images/Pasted image 20240704184645.png",
-    "6. Images/Pasted image 20240704184246.png",
-    "6. Images/Pasted image 20240704183944.png",
-    "6. Images/Pasted image 20240704183752.png",
-    "6. Images/Pasted image 20240704182906.png",
-    "Pasted image 20240704185811.png",
-    "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/2. Arquitectura REST.md",
-    "2. DesarrolloWeb/LENGUAJES DE MARCAS/Servicios Web/1. Protocolo HTTP y HTTPS.md",
-    "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "2. DesarrolloWeb/BASE DATOS/Introduccion/3. Gestores de Bases de Datos y Tipos de Usuarios.md",
-    "2. DesarrolloWeb/BASE DATOS/Introduccion/2. Cosas a tener en cuenta en la Creacion de Bases de datos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/1. Creacion de clases.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/1. Introduccion/3. Constructores.md",
     "5. Excalidraw/Diagramas de Clases",
     "Excalidraw",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/4. Polimorfismo",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/5. Abstraccion",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/2. Encapsulamiento",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
