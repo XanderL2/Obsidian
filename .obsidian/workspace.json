@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/5. Principio de Sustitucion de Liskov.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Principio de Sustitucion de Liskov.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Sobrescritura de metodos - Virtual y Override.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Sobrescritura de metodos - Virtual y Override.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Sobrescritura de metodos - Virtual y Override.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Sobrescritura de metodos - Virtual y Override.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md"
               }
             }
           },
@@ -218,9 +218,11 @@
   },
   "active": "d37be6db9948c3b1",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/5. Principio de Sustitucion de Liskov.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Super - Herencia.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Sobrescritura de metodos - Virtual y Override.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Principio de Sustitucion de Liskov.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/3. Sobrescritura de metodos - Virtual y Override.md",
     "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
@@ -253,8 +255,6 @@
     "5. Excalidraw/Scrum.excalidraw.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).png",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento",
