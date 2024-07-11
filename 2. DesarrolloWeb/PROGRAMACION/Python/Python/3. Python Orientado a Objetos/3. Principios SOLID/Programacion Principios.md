@@ -47,7 +47,7 @@
 	 <br>
 - **LSP:** Las clases hijas deben poder reemplazar a las clases padre, es decir la clase hija debe implementar todos sus metodos y atributos de la clase padre, esto agregado lo propio de la clase hija. En otras palabras:
 	- **Las clases hijas deben implementar correctamente todos los atributos y metodos de su clase padre. Si existen metodos o atributos que no se pueden implementar, abstraer y crear otra interfaz o clase mas concreta.** 
-	- **Ejemplo:** Tienes una clase `Animal` con un método `hacerSonido()`. Si creas una subclase `Pato` que sobreescribe `hacerSonido()` para hacer "cuac", y otra subclase `Pez` que hace "burbuja", pero `Pez` no puede realmente hacer sonidos, entonces el código que espera un `Animal` podría fallar o comportarse de manera inesperada.
+	- **Ejemplo:** Tienes una clase `Animal` con un método `hacerSonido()`. Si creas una subclase `Pato` que sobreescribe `hacerSonido()` para hacer "cuac", y otra subclase `Pez` , pero `Pez` no puede realmente hacer sonidos, entonces el código que espera un `Animal` podría fallar o comportarse de manera inesperada.
 	 <br>
 
 - **ISP:** Las interfaces no deben depender de metodos que no utilizan y deben ser interfaces pequeñas y especificas, no grandes y genericas. Para aplicarla nos podemos preguntar:

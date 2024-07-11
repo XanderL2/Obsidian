@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiSortDescendingShapes",
       "LiNetwork",
       "BoBxObjectsVerticalTop",
       "TiHttpGet",
-      "FasObjectUngroup",
-      "OcTag16"
+      "FasObjectUngroup"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -128,5 +128,6 @@
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos": "FasObjectUngroup",
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/3. Csharp Web": "TiHttpGet",
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo": "BoBxObjectsVerticalTop",
-  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion": "LiNetwork"
+  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion": "LiNetwork",
+  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño": "TiSortDescendingShapes"
 }

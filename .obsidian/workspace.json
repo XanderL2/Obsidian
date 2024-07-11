@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md"
               }
             }
           },
@@ -204,10 +203,16 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "1744611d2db44d43",
+  "active": "e5f3c8e0726d99fc",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/3. Csharp Web/1. MVC (Modelo Vista Controlador).md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "6. Images/Pasted image 20240711172154.png",
+    "6. Images/Pasted image 20240711171736.png",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/2. Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/2. Interfaces.md",
@@ -216,7 +221,6 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Clases e iinstancias.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
@@ -232,16 +236,12 @@
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/2. Sintaxis general (Printar, concatenar, etc).md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Big Data con Python/Anotaciones.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/3. Csharp Web/1. MVC (Modelo Vista Controlador).md",
     "Pasted image 20240708172850.png",
     "6. Images/Pasted image 20240708170814.png",
     "6. Images/Pasted image 20240708170807.png",
     "6. Images/Pasted image 20240708170631.png",
     "6. Images/Pasted image 20240708164556.png",
     "Pasted image 20240708170814.png",
-    "Pasted image 20240708170807.png",
-    "Pasted image 20240708170631.png",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia",
@@ -251,7 +251,6 @@
     "5. Excalidraw/Diagramas de Clases/Chess Delinux",
     "5. Excalidraw/Diagramas de Clases",
     "Excalidraw",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
