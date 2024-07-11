@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md"
               }
             }
           },
@@ -206,14 +206,14 @@
   },
   "active": "0dae963ab75e6329",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/2. Clases Abstractas.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/2. Interfaces.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",

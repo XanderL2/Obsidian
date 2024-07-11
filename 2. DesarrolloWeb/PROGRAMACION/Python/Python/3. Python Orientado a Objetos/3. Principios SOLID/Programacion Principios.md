@@ -26,12 +26,13 @@
 	- Por otro lado **las interfaces las usaremos para definir un contrato completo,** es decir que las clases que usen esta interfaz deberan implementar todo de la interfaz.
 	- Debido a esto las interfaces deben ser cortas y muy especificas y las clases abstractas mas generales
 	
-	| **Caracteristica** | **Clase abstracta**                                                                                                  | **Interface**                                                                                      |
-	| ------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-	| `Contrato`         | Contrato parcial, es decir puede tener codigo ya implementado                                                        | Contrato completo, es decir obligara a implentar todos los elementos                               |
-	| `Uso`              | Se usaran como base con implementacion de la cual heredaran otras clases.                                            | Se usaran para obligar a una clase a que implemente un metodo o propiedad                          |
-	| `Recomendaciones`  | Actuara como una Superclase por eso deben ser mas generales. *Ejemplo:* Figura es superclase de Circulo, y cuadrado. | Deben ser especificas y muy cortas. *Ejemplo:* Volador (Obligara a implementar el metodo de volar) |
-	
+
+| **Caracteristica** | **Clase abstracta**                                                                                                  | **Interface**                                                                                      |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| `Contrato`         | Contrato parcial, es decir puede tener codigo ya implementado                                                        | Contrato completo, es decir obligara a implentar todos los elementos                               |
+| `Uso`              | Se usaran como base con implementacion de la cual heredaran otras clases.                                            | Se usaran para obligar a una clase a que implemente un metodo o propiedad                          |
+| `Recomendaciones`  | Actuara como una Superclase por eso deben ser mas generales. _Ejemplo:_ Figura es superclase de Circulo, y cuadrado. | Deben ser especificas y muy cortas. _Ejemplo:_ Volador (Obligara a implementar el metodo de volar) |
+| `Herencia`         | Se pueden heredar una sola clase abstracta                                                                           | Se pueden heredar multiples interfaces.                                                            |
 	
 
 <br>
