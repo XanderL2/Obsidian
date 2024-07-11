@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diagramas de clases",
+                "query": "abstraccion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md"
               }
             }
           },
@@ -218,27 +218,33 @@
   },
   "active": "d37be6db9948c3b1",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
+    "Pasted image 20240711171736.png",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/4. Clases vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/1. Introduccion.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/1. Conceptos Teoricos de la Programacion Orientada a Objetos.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/1. Clases Abstractas.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/1. Introduccion/1. ¿Que son los Principios SOLID?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/1. ¿Abstraccion y Clases Abstractas?.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/6, Clases Abstractas e Inferfaces/3. Clases vs Interfaces.md",
+    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/2. Sintaxis general (Printar, concatenar, etc).md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Big Data con Python/Anotaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/Abstraccion/2. Clases Abstractas.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Principio de Sustitucion de Liskov.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/2. Clases Abstractas.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/3. Csharp Web/1. MVC (Modelo Vista Controlador).md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/2. Polimorfismo/1. ¿Que es el Polimorfismo?.md",
+    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/3. Sobrescritura de metodos - Virtual y Override.md",
     "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/4. LSP/1. Principio de Sustitucion de Liskov.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-    "5. Excalidraw/Diagramas de Clases/cheatsheet.excalidraw.md",
-    "3. Complementos/Temas/Temas.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/4. MRO (Method Resolution Order).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/4. Decorador @Property (Getters y Setters V2).md",
-    "3. Complementos/Organizacion/Personal/Horario.md",
     "Pasted image 20240708172850.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/1. Herencia Simple - Metodo Super().md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/3. Metodos de Verificacion.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/3. Decoradores.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/2. Getters y Setters.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/1. ¿Que es el Encapsulamiento?.md",
     "6. Images/Pasted image 20240708170814.png",
     "6. Images/Pasted image 20240708170807.png",
     "6. Images/Pasted image 20240708170631.png",
@@ -246,13 +252,7 @@
     "Pasted image 20240708170814.png",
     "Pasted image 20240708170807.png",
     "Pasted image 20240708170631.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/1. Herencia/2. Herencia Multiple.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md",
-    "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
     "Pasted image 20240708164556.png",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/2. Conceptos Avanzados/3. Encapsulamiento/5. Static Methods.md",
-    "5. Excalidraw/Scrum.excalidraw.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo",
     "5. Excalidraw/Dossier/4. Autenticacion (JWT).png",
