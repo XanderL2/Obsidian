@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiInteractiondesignfoundation",
-      "TiHealthRecognition",
-      "BoBxsObjectsHorizontalCenter",
-      "BoBxCollapseVertical",
-      "CoStar"
+      "BoBxInjection",
+      "TiJson",
+      "FiGitPullRequest",
+      "TiHttpPost",
+      "SiCssmodules"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -136,5 +136,11 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos": "BoBxsObjectsHorizontalCenter",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)": "TiHealthRecognition",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. One Linners": "CoStar",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion": "SiInteractiondesignfoundation"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion": "SiInteractiondesignfoundation",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos": "TiHttpGet",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules": "SiCssmodules",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers": "TiHttpPost",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Objeto Request": "FiGitPullRequest",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Objeto Response": "TiJson",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)": "BoBxInjection"
 }
