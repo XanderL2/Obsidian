@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md"
               }
             }
           },
@@ -205,11 +205,12 @@
   },
   "active": "e5f3c8e0726d99fc",
   "lastOpenFiles": [
-    "6. Images/Pasted image 20240717185640.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. Comandos de Creacion Rapida.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "6. Images/Pasted image 20240717185640.png",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3..md",
     "Pasted image 20240717185640.png",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion",
@@ -250,7 +251,6 @@
     "6. Images/Pasted image 20240708170814.png",
     "6. Images/Pasted image 20240708170807.png",
     "6. Images/Pasted image 20240708170631.png",
-    "6. Images/Pasted image 20240708164556.png",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
