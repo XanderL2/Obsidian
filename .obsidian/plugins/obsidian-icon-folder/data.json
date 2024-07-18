@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiSortDescendingShapes",
-      "LiNetwork",
-      "BoBxObjectsVerticalTop",
-      "TiHttpGet",
-      "FasObjectUngroup"
+      "SiInteractiondesignfoundation",
+      "TiHealthRecognition",
+      "BoBxsObjectsHorizontalCenter",
+      "BoBxCollapseVertical",
+      "CoStar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -83,12 +83,8 @@
   "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/Hashcat": "LiCat",
   "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/John the Ripper": "FabRedhat",
   "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/3. Cifrados y Descifrados": "RiSecurePaymentFill",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/2. Exoress JS": "SiExpress",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend/1. Node JS": "FabNode",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion": "FasComputer",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Testing": "SiJest",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Backend": "LiServer",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/Frontend": "SiFrontendmentor",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/TESTING": "SiTestin",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/METODOLOGIAS AGILES": "RiSpectrumLine",
   "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB": "FabGithub",
@@ -129,5 +125,16 @@
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/3. Csharp Web": "TiHttpGet",
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo": "BoBxObjectsVerticalTop",
   "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion": "LiNetwork",
-  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño": "TiSortDescendingShapes"
+  "2. DesarrolloWeb/PROGRAMACION/C-Sharp/4. Patrones de Diseño": "TiSortDescendingShapes",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend": "SiFrontendmentor",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend": "LiServer",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS": "FabNode",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS": "SiExpress",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS": "SiNestjs",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript": "SiTypescript",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico": "BoBxCollapseVertical",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos": "BoBxsObjectsHorizontalCenter",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)": "TiHealthRecognition",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. One Linners": "CoStar",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion": "SiInteractiondesignfoundation"
 }
