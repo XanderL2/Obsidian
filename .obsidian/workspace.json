@@ -23,11 +23,9 @@
             "id": "0dae963ab75e6329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
-                "mode": "source",
-                "source": false
+                "file": "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md"
               }
             }
           },
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
+                "file": "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
+                "file": "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md"
+                "file": "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md"
               }
             }
           },
@@ -206,22 +204,32 @@
   },
   "active": "0dae963ab75e6329",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "5. Excalidraw/Dossier/3. middleware.excalidraw.md",
+    "5. Excalidraw/Dossier/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Dossier/5. diagramaBD.excalidraw.md",
+    "5. Excalidraw/Dossier/7. faseDiseño.excalidraw.md",
+    "5. Excalidraw/Dossier/8. rutasWebApi.md",
+    "5. Excalidraw/Dossier/9. Herramientas Principales.md",
+    "5. Excalidraw/Dossier/10. Referencias y Propuestas de Mejora.md",
+    "5. Excalidraw/Dossier/Funcionalidades Ofensivas.md",
+    "5. Excalidraw/Dossier/6. Estructura de Directorios del Proyecto.excalidraw.md",
+    "5. Excalidraw/Dossier/2. ArquitecturaProyecto.excalidraw.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules/1. Modulos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Controllers.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Controllers.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Objeto Response",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Objeto Request",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/Sin nombre",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
     "6. Images/Pasted image 20240717185640.png",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3..md",
     "Pasted image 20240717185640.png",
@@ -232,18 +240,8 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/2. For In.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/5. Abstraccion/4. Clases abstractas vs Interfaces.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/5. Abstraccion/3. Interfaces.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/5. Abstraccion/2. Clases Abstractas.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/5. Abstraccion",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/4. Polimorfismo",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/3. Herrencia/4. Principio de Sustitucion de Liskov.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/3. Herrencia/3. Sobrescritura de metodos - Virtual y Override.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/3. Herrencia/1. Concepto.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md",
     "6. Images/Pasted image 20240711172154.png",
     "6. Images/Pasted image 20240711171736.png",
     "Pasted image 20240711172154.png",
