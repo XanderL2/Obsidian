@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiLayoutAlignMiddle",
+      "SiAdguard",
       "SiPiped",
       "SiPrisma",
-      "SiEjs",
-      "SiDatocms",
-      "TiHttpPut"
+      "SiEjs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -141,8 +141,10 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules": "SiCssmodules",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers": "TiHttpPost",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)": "BoBxInjection",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. DTO (Data Transfer Object)": "SiDatocms",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/4. EJS": "SiEjs",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM": "SiPrisma",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Pipes": "SiPiped"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)": "SiDatocms",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes": "SiPiped",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards": "SiAdguard",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares": "TiLayoutAlignMiddle"
 }
