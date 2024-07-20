@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiDatocms",
       "TiHttpPut",
       "BoBxInjection",
       "TiJson",
-      "FiGitPullRequest",
-      "TiHttpPost"
+      "FiGitPullRequest"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -140,5 +140,6 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos": "TiHttpGet",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules": "SiCssmodules",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers": "TiHttpPost",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)": "BoBxInjection"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)": "BoBxInjection",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. DTO (Data Transfer Object)": "SiDatocms"
 }
