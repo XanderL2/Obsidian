@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-                "mode": "source",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2..md"
               }
             }
           },
@@ -203,11 +204,17 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "e5f3c8e0726d99fc",
+  "active": "1744611d2db44d43",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. ¿Que es Prisma?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2..md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "3. Complementos/Organizacion/Personal/Horario.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/8 .Swagger (Documentacion)",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares",
@@ -216,7 +223,6 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md",
     "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes",
@@ -232,17 +238,12 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/4. Archivos.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/3. Redireccion.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/1. Json.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/2. DTO Validations.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/1. ¿Que es un DTO?.md",
     "Pasted image 20240719170511.png",
     "Pasted image 20240719170335.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/4. Headers.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request/Sin nombre",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest",
     "6. Images/Pasted image 20240717185640.png",
     "Pasted image 20240717185640.png",
     "6. Images/Pasted image 20240711172154.png",
