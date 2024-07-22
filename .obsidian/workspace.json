@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. C.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. C.md"
               }
             }
           },
@@ -204,18 +204,30 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "1744611d2db44d43",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/1. Configurar Prisma para consultas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. C.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/Sin nombre",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/1..md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/3. Relacion de Tablas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/2. Restricciones (Constraints).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/Sin nombre",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/8 .Swagger (Documentacion)",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8 .Swagger (Documentacion)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
@@ -230,20 +242,8 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes",
     "README.md",
     "DOCKER 1.md",
-    "DOCKER.md",
-    "TAILWIND CSS.md",
-    "Prisma ORM.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion/1. Controllers.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/4. EJS",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/5. Vistas (EJS).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/4. Archivos.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/3. Redireccion.md",
     "Pasted image 20240719170511.png",
     "Pasted image 20240719170335.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request/Sin nombre",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion",
     "6. Images/Pasted image 20240717185640.png",
     "Pasted image 20240717185640.png",
     "6. Images/Pasted image 20240711172154.png",
