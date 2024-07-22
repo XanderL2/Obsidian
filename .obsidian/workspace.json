@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4..md",
-                "mode": "source",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4..md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4..md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4..md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md"
               }
             }
           },
@@ -207,7 +207,7 @@
   "active": "8c93ca6e8e649c0b",
   "lastOpenFiles": [
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/3. Where.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4..md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. Seleccionar todo.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/2. Tipos de Datos.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
