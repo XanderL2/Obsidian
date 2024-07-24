@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/0. Hacer Consultas SQL Nativas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "490aa0aed24ecc2a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
               }
             }
           }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md"
               }
             }
           },
@@ -206,12 +216,19 @@
   },
   "active": "8c93ca6e8e649c0b",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/3. Where.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/0. Hacer Consultas SQL Nativas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/1. Configurar Prisma para consultas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/8. Joins.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/7. Like, Beetween, In.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/6. Distinct.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/3. Where.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. Seleccionar todo.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/2. Tipos de Datos.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/1. Configurar Prisma para consultas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
@@ -221,7 +238,6 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/Sin nombre",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/1..md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/2. Restricciones (Constraints).md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
@@ -230,17 +246,11 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/Sin nombre",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8 .Swagger (Documentacion)",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes",
     "Pasted image 20240719170511.png",
     "Pasted image 20240719170335.png",
