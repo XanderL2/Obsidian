@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/2. Restricciones (Constraints).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
                 "mode": "preview",
                 "source": false
               }
@@ -23,9 +23,11 @@
             "id": "130cf56b0e90db13",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+                "file": "3. Complementos/Proyectos/Nextlify/1. Usuarios.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/2. Documentacion de Controllers/3. Docuementacion de Params y Queries.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "382733fb371bf1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abstraccion",
+                "query": "studio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md"
               }
             }
           },
@@ -202,54 +216,54 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "77bb5d369d74f743",
+  "active": "382733fb371bf1ad",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/2. Restricciones (Constraints).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/2. DTO Validations.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/1. ¿Que es un DTO?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/1. ¿Que son los JWT?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/4. Delete.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/2. Documentacion de Controllers/4. Body y Headers.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/2. Documentacion de Controllers/3. Docuementacion de Params y Queries.md",
+    "3. Complementos/Proyectos/Nextlify/1. Usuarios.md",
+    "3. Complementos/Proyectos/Nextlify",
+    "3. Complementos/Proyectos",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/2. Documentacion de Controllers/2. Api Operations y Api Response.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/2. Documentacion de Controllers/1. Tags.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/2. Configuracion de  Swagger Principal.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/Sin nombre",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/2. DTO Validations.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/1. ¿Que es un DTO?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion/1. Controllers.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md",
     "6. Images/Pasted Image 20240724175901_447.png",
     "Pasted Image 20240724175901_447.png",
-    "5. Excalidraw/Proyectos/Hack Cat Labs/1. Proposito.md",
-    "5. Excalidraw/Proyectos/Hack Cat Labs/2. ArquitecturaProyecto.excalidraw.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "Prisma ORM.md",
-    "5. Excalidraw/Diagramas Academicos/UML/Diagramas de Clases/cheatsheet.excalidraw.md",
-    "5. Excalidraw/Proyectos/Social Pipe/1.md",
-    "5. Excalidraw/Diagramas de Clases/Chess Delinux/cheatsheet.excalidraw 1.md",
-    "5. Excalidraw/Diagramas Academicos/SQL/privilegiosBaseDatos.excalidraw.md",
     "5. Excalidraw/Diagramas Academicos",
     "5. Excalidraw/Proyectos",
     "5. Excalidraw/Diagramas Academicos/Agiles",
-    "5. Excalidraw/Diagramas Academicos/Agiles/ayesa.excalidraw.md",
-    "5. Excalidraw/Diagramas Academicos/Programacion/Herencia.md",
     "5. Excalidraw/Diagramas Academicos/Programacion",
-    "5. Excalidraw/generalProyecto.excalidraw.md",
     "5. Excalidraw/Diagramas Academicos/UML",
     "5. Excalidraw/Diagramas Academicos/SQL",
     "5. Excalidraw/Diagramas Academicos/Autenticacion",
-    "5. Excalidraw/Proyectos/Social Pipe",
     "Pasted image 20240724170949.png",
     "6. Images/Pasted image 20240724170949.png",
     "6. Images/Pasted image 20240724164934.png",
     "6. Images/Pasted image 20240724164934 1.png",
     "Pasted image 20240724164934 1.png",
     "Pasted image 20240724164934.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4.",
     "6. Images/Pasted image 20240724154559.png",
     "6. Images/Pasted image 20240724152638.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
