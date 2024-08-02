@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiJsonwebtokens",
       "OcProject16",
       "RiCoreosLine",
       "SiSwagger",
-      "TiLayoutAlignMiddle",
-      "SiAdguard"
+      "TiLayoutAlignMiddle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -149,5 +149,6 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares": "TiLayoutAlignMiddle",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)": "SiSwagger",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS": "RiCoreosLine",
-  "3. Complementos/Proyectos": "OcProject16"
+  "3. Complementos/Proyectos": "OcProject16",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS": "SiJsonwebtokens"
 }
