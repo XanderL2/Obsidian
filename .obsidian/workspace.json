@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md",
-                "mode": "source",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,16 +35,14 @@
             "id": "382733fb371bf1ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md",
-                "mode": "source",
-                "source": false
+                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md",
+                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md",
+                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md"
+                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
               }
             }
           },
@@ -204,22 +202,34 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "130cf56b0e90db13",
+  "active": "382733fb371bf1ad",
   "lastOpenFiles": [
-    "6. Images/Pasted image 20240802103006.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/3. Instalacion y Configuracion de JWT en Nest.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Flujo de Autenticacion y partes de un Token.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. ¿Que son los Json Web Tokens?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/4. Implementacion de Autenticacion en Nest JS.md",
-    "5. Excalidraw/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/0. Recomendaciones.md",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
+    "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
+    "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/4. Implementacion de Autenticacion en Nest JS.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/0. Recomendaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. Register/1. Crear un Register.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. Register",
+    "6. Images/Pasted image 20240802103006.png",
+    "5. Excalidraw/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/1. ¿Que son los JWT?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/3. JSONs Web Tokens en Node.md",
     "Pasted image 20240802103006.png",
-    "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
     "5. Excalidraw/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md",
     "5. Excalidraw/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
     "5. Excalidraw/Diagramas Academicos/Autenticacion/Express Sessions.md",
@@ -227,31 +237,20 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/4. Headers.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/1. Body.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/2. Query.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS",
     "3. Complementos/Proyectos/Nextlify",
     "3. Complementos/Proyectos",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/Sin nombre",
     "6. Images/Pasted Image 20240724175901_447.png",
     "Pasted Image 20240724175901_447.png",
     "5. Excalidraw/Diagramas Academicos",
     "5. Excalidraw/Proyectos",
     "5. Excalidraw/Diagramas Academicos/Agiles",
-    "5. Excalidraw/Diagramas Academicos/Programacion",
-    "5. Excalidraw/Diagramas Academicos/UML",
-    "5. Excalidraw/Diagramas Academicos/SQL",
     "Pasted image 20240724170949.png",
     "6. Images/Pasted image 20240724170949.png",
     "6. Images/Pasted image 20240724164934.png",
     "6. Images/Pasted image 20240724164934 1.png",
     "Pasted image 20240724164934 1.png",
     "Pasted image 20240724164934.png",
-    "6. Images/Pasted image 20240724154559.png",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoMail",
       "SiJsonwebtokens",
       "OcProject16",
       "RiCoreosLine",
-      "SiSwagger",
-      "TiLayoutAlignMiddle"
+      "SiSwagger"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -150,5 +150,6 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)": "SiSwagger",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS": "RiCoreosLine",
   "3. Complementos/Proyectos": "OcProject16",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS": "SiJsonwebtokens"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS": "SiJsonwebtokens",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails": "CoMail"
 }
