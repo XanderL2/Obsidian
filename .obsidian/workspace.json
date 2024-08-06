@@ -35,14 +35,16 @@
             "id": "382733fb371bf1ad",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md"
               }
             }
           },
@@ -202,8 +204,10 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "382733fb371bf1ad",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md",
     "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
     "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
@@ -212,7 +216,7 @@
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/4. Implementacion de Autenticacion en Nest JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
@@ -235,8 +239,6 @@
     "5. Excalidraw/Diagramas Academicos/Autenticacion/Express Sessions.md",
     "5. Excalidraw/Diagramas Academicos/Autenticacion/pwnhash.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/4. Headers.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS",
     "3. Complementos/Proyectos/Nextlify",
     "3. Complementos/Proyectos",
