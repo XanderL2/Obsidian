@@ -4,47 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0a7f91ec7a233662",
+        "id": "62ce19d5eacf1ebc",
         "type": "tabs",
         "children": [
           {
-            "id": "1d61046091390cfe",
+            "id": "7049bbf2a042af3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-                "mode": "preview",
-                "source": false
+                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
               }
             }
           },
           {
-            "id": "130cf56b0e90db13",
+            "id": "4d707525455b09a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "382733fb371bf1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5086555480957
+    "width": 487.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -110,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md"
+                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
               }
             }
           },
@@ -204,55 +190,55 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "ba6262b5ef0e65b3",
+  "active": "7049bbf2a042af3c",
   "lastOpenFiles": [
+    "6. Images/Pasted Image 20240809132000_868.png",
+    "6. Images/Pasted Image 20240809131915_865.png",
+    "6. Images/Pasted Image 20240809131859_849.png",
+    "6. Images/Pasted Image 20240809130733_811.png",
+    "6. Images/Pasted Image 20240809130603_791.png",
+    "6. Images/Pasted Image 20240809130034_770.png",
+    "6. Images/Pasted Image 20240809125949_768.png",
+    "6. Images/Pasted Image 20240809125918_751.png",
+    "6. Images/Pasted Image 20240809125627_733.png",
+    "6. Images/Pasted Image 20240809125557_718.png",
+    "Pasted Image 20240809132000_868.png",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
+    "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
+    "5. Excalidraw/Diagramas Academicos/Programacion/ModeloAAA.excalidraw.md",
+    "5. Excalidraw/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
+    "5. Excalidraw/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
+    "5. Excalidraw/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md",
+    "5. Excalidraw/Diagramas Academicos/Protocolos/Sin título.md",
+    "5. Excalidraw/Diagramas Academicos/Protocolos",
+    "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/5.  XPATH.md",
+    "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
+    "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/7. XQUERY.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
+    "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
+    "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md",
+    "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md",
-    "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
-    "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/4. Implementacion de Autenticacion en Nest JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/0. Recomendaciones.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. Register/1. Crear un Register.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. Register",
-    "6. Images/Pasted image 20240802103006.png",
-    "5. Excalidraw/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/1. ¿Que son los JWT?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/2. Encriptado de Informacion en JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/11. Autenticacion/Json Web Tokens/3. JSONs Web Tokens en Node.md",
-    "Pasted image 20240802103006.png",
-    "5. Excalidraw/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md",
-    "5. Excalidraw/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
-    "5. Excalidraw/Diagramas Academicos/Autenticacion/Express Sessions.md",
-    "5. Excalidraw/Diagramas Academicos/Autenticacion/pwnhash.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/10. Variables de Entorno/1. ¿Que son las Variables de Entorno?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS",
     "3. Complementos/Proyectos/Nextlify",
     "3. Complementos/Proyectos",
-    "6. Images/Pasted Image 20240724175901_447.png",
-    "Pasted Image 20240724175901_447.png",
     "5. Excalidraw/Diagramas Academicos",
-    "5. Excalidraw/Proyectos",
-    "5. Excalidraw/Diagramas Academicos/Agiles",
-    "Pasted image 20240724170949.png",
-    "6. Images/Pasted image 20240724170949.png",
-    "6. Images/Pasted image 20240724164934.png",
-    "6. Images/Pasted image 20240724164934 1.png",
-    "Pasted image 20240724164934 1.png",
-    "Pasted image 20240724164934.png",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
