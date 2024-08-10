@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHttpGet",
       "TiBrandSocketIo",
       "CoMail",
       "SiJsonwebtokens",
-      "OcProject16",
-      "RiCoreosLine"
+      "OcProject16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -150,7 +150,8 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)": "SiSwagger",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS": "RiCoreosLine",
   "3. Complementos/Proyectos": "OcProject16",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS": "SiJsonwebtokens",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)": "CoMail",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets": "TiBrandSocketIo"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets": "TiBrandSocketIo",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS": "SiJsonwebtokens",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)": "CoMail",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP": "TiHttpGet"
 }
