@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62ce19d5eacf1ebc",
+        "id": "5b94d671502eff7b",
         "type": "tabs",
         "children": [
           {
-            "id": "7049bbf2a042af3c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
-              }
-            }
-          },
-          {
-            "id": "4d707525455b09a7",
+            "id": "969dc4f1151f9bbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "studio",
+                "query": "balanceadores",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 487.5086555480957,
-    "collapsed": true
+    "width": 487.5086555480957
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md"
               }
             }
           },
@@ -190,8 +179,21 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "7049bbf2a042af3c",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/2. Restricciones (Constraints).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos relacionales.md",
+    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "1. Ciberseguridad/Redes Para Ciberseguridad/1. Fundamentos Basicos/3. Dispositivos de Red (Routers, Gateways, Firewalls, Etc).md",
+    "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
     "6. Images/Pasted Image 20240809132000_868.png",
     "6. Images/Pasted Image 20240809131915_865.png",
     "6. Images/Pasted Image 20240809131859_849.png",
@@ -202,9 +204,6 @@
     "6. Images/Pasted Image 20240809125918_751.png",
     "6. Images/Pasted Image 20240809125627_733.png",
     "6. Images/Pasted Image 20240809125557_718.png",
-    "Pasted Image 20240809132000_868.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
-    "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md",
     "5. Excalidraw/Diagramas Academicos/Programacion/ModeloAAA.excalidraw.md",
     "5. Excalidraw/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
     "5. Excalidraw/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
@@ -216,23 +215,13 @@
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
     "2. DesarrolloWeb/LENGUAJES DE MARCAS/XML/7. XQUERY.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
     "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
     "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
     "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/2. Arquitectura de Microservicios.md",
-    "2. DesarrolloWeb/CONCEPTOS/Arquitecturas de Software/1. Arquitectura Monolitica.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/4. Implementacion de Autenticacion en Nest JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Envio de Mails (Nodemailer)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/2. Login",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS/1. Register",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Autenticacion en Nest JS",

@@ -293,7 +293,7 @@
             "containerId": null,
             "originalText": "Class",
             "lineHeight": 1.2,
-            "baseline": 23
+            "baseline": 22
           },
           {
             "type": "line",
@@ -374,7 +374,7 @@
             "containerId": null,
             "originalText": "- privateAtribute: String <== ✅ \n# protectedAtribute: String\n+ publicAtribute: String \n~ packageAtribute: String",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           },
           {
             "type": "text",
@@ -411,7 +411,7 @@
             "containerId": null,
             "originalText": "- privateMethod()     \n# protectedMethod() \n+ publicMethod()\n~ package()",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           }
         ],
         "created": 1720109080840
@@ -528,7 +528,7 @@
             "containerId": null,
             "originalText": "<<Abstract>>",
             "lineHeight": 1.2,
-            "baseline": 23
+            "baseline": 22
           },
           {
             "type": "line",
@@ -609,7 +609,7 @@
             "containerId": null,
             "originalText": "# protectedAtribute: String\n# protectedAtribute: String\n# protectedAtribute: String\n# protectedAtribute: String",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           },
           {
             "type": "text",
@@ -646,7 +646,7 @@
             "containerId": null,
             "originalText": "- privateMethod() \n- protectedMethod()\n+ publicMethod()\n+ publicMethod()",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           }
         ],
         "created": 1720108918698
@@ -763,7 +763,7 @@
             "containerId": null,
             "originalText": "<<Interface>>",
             "lineHeight": 1.2,
-            "baseline": 23
+            "baseline": 22
           },
           {
             "type": "line",
@@ -844,7 +844,7 @@
             "containerId": null,
             "originalText": "+ Public const\n+ Public const\n+ Public const\n+ Public const",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           },
           {
             "type": "text",
@@ -881,7 +881,7 @@
             "containerId": null,
             "originalText": "+ void Method() \n+ void Method()\n+ void Method()\n+ void Method()",
             "lineHeight": 1.2,
-            "baseline": 50
+            "baseline": 49
           }
         ],
         "created": 1720108915133
@@ -926,7 +926,7 @@
             "containerId": null,
             "originalText": "0 .. 1",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "D0iWGJGLKHgQ7xuym-WSn",
@@ -972,7 +972,7 @@
             "containerId": null,
             "originalText": "1 .. n",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "xl7sxdOolx7xCtDgwSINu",
@@ -1018,7 +1018,7 @@
             "containerId": null,
             "originalText": "n .. m",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           }
         ],
         "id": "fumbwg6qdMVeIklDs6d4p",
@@ -23064,7 +23064,7 @@
             "containerId": null,
             "originalText": "PHP",
             "lineHeight": 1.2507509623648332,
-            "baseline": 18
+            "baseline": 19
           },
           {
             "type": "text",
@@ -23105,7 +23105,7 @@
             "containerId": null,
             "originalText": "PHP",
             "lineHeight": 1.2499999999999987,
-            "baseline": 18
+            "baseline": 19
           }
         ],
         "created": 1641657667284,
@@ -29671,7 +29671,7 @@
             "containerId": null,
             "originalText": "TypeScript",
             "lineHeight": 1.25,
-            "baseline": 14
+            "baseline": 13
           },
           {
             "type": "text",
