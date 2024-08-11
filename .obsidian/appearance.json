@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#6600ff",
   "baseFontSize": 15,
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "Obsidianite",
   "theme": "obsidian",
   "nativeMenus": false,
   "textFontFamily": "Noto Sans",

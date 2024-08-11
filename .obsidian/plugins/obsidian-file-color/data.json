@@ -1,22 +1,67 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": true,
   "palette": [
     {
       "id": "285yFLIEcTko_jy6B7Qsl",
-      "name": "Repaso",
-      "value": "#fffa66"
+      "name": "Ciberseguridad",
+      "value": "#ff0000"
     },
     {
       "id": "ngSjPwMU-3oOiw-fNbvmL",
-      "name": "Pendiente",
-      "value": "#9e5757"
+      "name": "Desarrollo",
+      "value": "#fff700"
     },
     {
       "id": "_NF1Qksjab8kOD9ZOaIKm",
-      "name": "Terminado",
-      "value": "#2d7c32"
+      "name": "Excalidraw",
+      "value": "#9900ff"
+    },
+    {
+      "id": "8RAJtPWpUxtcQVb26C5vp",
+      "name": "Complementos",
+      "value": "#002aff"
+    },
+    {
+      "id": "mzbAkg1KSfLSOzC40H-_o",
+      "name": "Excalidraw",
+      "value": "#00ffbf"
+    },
+    {
+      "id": "db9mbAsJwtuXEMimacS3N",
+      "name": "Images",
+      "value": "#c800ff"
+    },
+    {
+      "id": "IUvR5VTFixWUvqKd-eHCe",
+      "name": "atajos",
+      "value": "#ff0095"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "1. Ciberseguridad",
+      "color": "285yFLIEcTko_jy6B7Qsl"
+    },
+    {
+      "path": "2. DesarrolloWeb",
+      "color": "ngSjPwMU-3oOiw-fNbvmL"
+    },
+    {
+      "path": "3. Complementos",
+      "color": "8RAJtPWpUxtcQVb26C5vp"
+    },
+    {
+      "path": "5. Excalidraw",
+      "color": "mzbAkg1KSfLSOzC40H-_o"
+    },
+    {
+      "path": "6. Images",
+      "color": "db9mbAsJwtuXEMimacS3N"
+    },
+    {
+      "path": "4. Atajos",
+      "color": "IUvR5VTFixWUvqKd-eHCe"
+    }
+  ]
 }

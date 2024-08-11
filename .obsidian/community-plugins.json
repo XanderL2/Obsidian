@@ -1,7 +1,6 @@
 [
   "obsidian-importer",
   "obsidian-excalidraw-plugin",
-  "calendar",
   "obsidian-icon-folder",
   "dataview",
   "obsidian-file-color",
@@ -11,5 +10,13 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-html-tags-autocomplete",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "calendar",
+  "recent-files-obsidian",
+  "obsidian-quiet-outline",
+  "obsidian-day-planner",
+  "settings-search",
+  "obsidian-style-settings",
+  "code-styler",
+  "execute-code"
 ]
