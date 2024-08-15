@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "8. Metodos de Manejo de Strings para validacion de Datos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md"
+      "basename": "6. Obligar a un usuario a pasar por un evento",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
     },
     {
-      "basename": "0. Shebang (Interprete de Comandos)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md"
+      "basename": "5. Consumir API de tipo WebSockets",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md"
+    },
+    {
+      "basename": "4. Manejo de Errores y validaciones en WebSockets",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md"
+    },
+    {
+      "basename": "3. Web Sockets en Nest JS",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md"
+    },
+    {
+      "basename": "2. Configuracion e instalacion",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md"
+    },
+    {
+      "basename": "1. Que son los web sockets?",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md"
+    },
+    {
+      "basename": "Temas",
+      "path": "3. Complementos/Temas/Temas.md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
     },
     {
       "basename": "7. Bucle For",
       "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/7. Bucle For.md"
     },
     {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+      "basename": "2. Entrada y Salida de Datos por Consola",
+      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md"
+    },
+    {
+      "basename": "0. Shebang (Interprete de Comandos)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md"
+    },
+    {
+      "basename": "1. Peticion GET",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/3. Metodos HTTP en Express/1. Peticion GET.md"
+    },
+    {
+      "basename": "1. ¿",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/12. Settings/1. ¿.md"
+    },
+    {
+      "basename": "8. Metodos de Manejo de Strings para validacion de Datos",
+      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md"
     },
     {
       "basename": "5. Bucle While",
@@ -23,10 +63,6 @@
     {
       "basename": "3. Operadores en Python",
       "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/3. Operadores en Python.md"
-    },
-    {
-      "basename": "2. Entrada y Salida de Datos por Consola",
-      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md"
     },
     {
       "basename": "1. Creacion de Rutas",
@@ -51,10 +87,6 @@
     {
       "basename": "1. DTO (Data transfer Object)",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md"
-    },
-    {
-      "basename": "4. Manejo de Errores en WebSockets",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores en WebSockets.md"
     },
     {
       "basename": "4. Delete",

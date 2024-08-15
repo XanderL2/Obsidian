@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "01d562e12f0fc39d",
+        "id": "f6d8348ad2bf39cb",
         "type": "tabs",
         "children": [
           {
-            "id": "e2a0d555374d84ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-              }
-            }
-          },
-          {
-            "id": "b23a42e33fdea761",
+            "id": "0492888600617f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5004348754883
+    "width": 350.5004348754883
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
               }
             }
           },
@@ -183,9 +172,17 @@
               "type": "quiet-outline",
               "state": {}
             }
+          },
+          {
+            "id": "6a64dc5cd783f552",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "21ad219e1d43d5d9",
@@ -221,34 +218,34 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b23a42e33fdea761",
+  "active": "0492888600617f21",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/7. Bucle For.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
+    "3. Complementos/Temas/Temas.md",
     "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/7. Bucle For.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/3. Metodos HTTP en Express/1. Peticion GET.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/12. Settings/1. ¿.md",
+    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/5. Bucle While.md",
     "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/3. Operadores en Python.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/2. Routing (Enrutado)/1. Creacion de Rutas.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores en WebSockets.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/4. Delete.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
-    "Prisma ORM.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/1. Introduccion/2. Dependencias y Configuraciones.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/1. Introduccion/3. Status Code Comunes.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/1. Introduccion/1. Creacion, Instalacion del Proyecto (Dependencias Principales).md",
-    "2. DesarrolloWeb/PROGRAMACION/C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/2. Sintaxis general (Printar, concatenar, etc).md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/1. Introduccion.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/7. Switch.md",
-    "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md",
     "Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP",
     "6. Images/Pasted Image 20240810132807_795.png",
