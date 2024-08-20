@@ -74,7 +74,7 @@
 		3. Simplemente no usar un `try-catch` dentro de la funcion.
 	
 	- Si un error puede ser tratado de forma sencilla dentro de la funcion y sin ocupar muchas lineas podemos controlarlo directamente dentro de ella.
-		```csharp
+		```java
 		public void processInput(String input) {
 		    try {
 		        validateInput(input);
@@ -93,7 +93,7 @@
 
 	![[Pasted image 20240711172154.png]]
 	- El manejo de errores debe ir de mas especifico a mas general, es mala practica hacerlo de forma solo general
-		```csharp
+		```java
 		try {
 		    // Código que puede lanzar varias excepciones
 		} catch (FileNotFoundException e) {

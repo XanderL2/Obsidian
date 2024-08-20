@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "x. SubModulos",
+      "path": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md"
+    },
+    {
+      "basename": "10. Estandarizaciones",
+      "path": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
+    },
+    {
+      "basename": "2. Node Fetch",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
+    },
+    {
+      "basename": "1. Axios",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/1. Axios.md"
+    },
+    {
+      "basename": "1. ¿Que son los CORS del navegador?",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md"
+    },
+    {
+      "basename": "Programacion Principios",
+      "path": "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+    },
+    {
+      "basename": "2. Configuracion de  Swagger Principal",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/2. Configuracion de  Swagger Principal.md"
+    },
+    {
+      "basename": "1. ¿Que es Swagger? - Instalacion",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md"
+    },
+    {
+      "basename": "Kanban Temporal",
+      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+    },
+    {
+      "basename": "Horario",
+      "path": "3. Complementos/Organizacion/Personal/Horario.md"
+    },
+    {
+      "basename": "7. Estructura de Proyectos recomendada",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md"
+    },
+    {
+      "basename": "1. Que son los web sockets?",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md"
+    },
+    {
+      "basename": "3. Web Sockets en Nest JS",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md"
+    },
+    {
+      "basename": "7. Sockets Activos",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md"
+    },
+    {
+      "basename": "4. Order By - Limit y Offset",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md"
+    },
+    {
+      "basename": "3. Where",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/3. Where.md"
+    },
+    {
+      "basename": "2. Read (Select)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md"
+    },
+    {
+      "basename": "2. Configuracion e instalacion",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md"
+    },
+    {
       "basename": "6. Obligar a un usuario a pasar por un evento",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
     },
@@ -13,24 +93,8 @@
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md"
     },
     {
-      "basename": "3. Web Sockets en Nest JS",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md"
-    },
-    {
-      "basename": "2. Configuracion e instalacion",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md"
-    },
-    {
-      "basename": "1. Que son los web sockets?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md"
-    },
-    {
       "basename": "Temas",
       "path": "3. Complementos/Temas/Temas.md"
-    },
-    {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
     },
     {
       "basename": "7. Bucle For",
@@ -93,10 +157,6 @@
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/4. Delete.md"
     },
     {
-      "basename": "2. Read (Select)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md"
-    },
-    {
       "basename": "1. Tipos de Respuestas (Archivos, imagenes, etc)",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md"
     },
@@ -139,18 +199,6 @@
     {
       "basename": "5. Operadores",
       "path": "2. DesarrolloWeb/PROGRAMACION/Java/Java Basico/5. Operadores.md"
-    },
-    {
-      "basename": "3. Tipos de datos en las estructuras",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md"
-    },
-    {
-      "basename": "2. Tipos de Datos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/3. TypeScript/2. Tipos de Datos.md"
-    },
-    {
-      "basename": "3. Conexiones a bases de datos no relacionales",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md"
     }
   ],
   "omittedPaths": []
