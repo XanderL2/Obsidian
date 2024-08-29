@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Event Handlers (Manejadores de Eventos)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md"
+      "basename": "3. Spread Operator (Operador 3 puntos)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
+    },
+    {
+      "basename": "1. Arrays",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md"
+    },
+    {
+      "basename": "2. Funciones Anonimas y Arrow Functions",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md"
+    },
+    {
+      "basename": "1. Funciones Declaradas (Normales)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md"
+    },
+    {
+      "basename": "2. Objetos",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md"
+    },
+    {
+      "basename": "1. Tipos de Datos y Variables",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md"
+    },
+    {
+      "basename": "2. Operadores",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md"
+    },
+    {
+      "basename": "3. Operadores Ternarios y One Linners",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md"
     },
     {
       "basename": "1. DOM (Document Object Model)",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md"
     },
     {
-      "basename": "1. Funciones Declaradas (Normales)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md"
+      "basename": "2. Event Handlers (Manejadores de Eventos)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md"
     },
     {
       "basename": "Horario",
@@ -21,28 +49,12 @@
       "path": "3. Complementos/Organizacion/Personal/Kanban Principal.md"
     },
     {
-      "basename": "2. Objetos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md"
-    },
-    {
-      "basename": "1. Arrays",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md"
-    },
-    {
       "basename": "1. If - Else",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md"
     },
     {
       "basename": "2. Switch - Case",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md"
-    },
-    {
-      "basename": "3. Operadores Ternarios y One Linners",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md"
-    },
-    {
-      "basename": "2. Operadores",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md"
     },
     {
       "basename": "1. Que es React?",
@@ -187,18 +199,6 @@
     {
       "basename": "2. Usar Objeto Request de Express y Response desde Express",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion/2. Usar Objeto Request de Express y Response desde Express.md"
-    },
-    {
-      "basename": "1. Controllers",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion/1. Controllers.md"
-    },
-    {
-      "basename": "1. Modulos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules/1. Modulos.md"
-    },
-    {
-      "basename": "3. Estructura de Modulos en Nest JS",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md"
     }
   ],
   "omittedPaths": []

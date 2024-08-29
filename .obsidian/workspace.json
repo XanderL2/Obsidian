@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
                 "mode": "preview",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
               }
             }
           },
@@ -251,19 +251,23 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2384d413ba082ca2",
+  "active": "ba6262b5ef0e65b3",
   "lastOpenFiles": [
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
     "3. Complementos/Organizacion/Personal/Horario.md",
     "3. Complementos/Organizacion/Personal/Kanban Principal.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/Sin título.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
@@ -278,10 +282,6 @@
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/1. Register/1. Crear un Register.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/0. Recomendaciones.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
     "6. Images/Pasted Image 20240825212231_057.png",
     "6. Images/Pasted Image 20240825212200_056.png",
     "6. Images/Pasted Image 20240825212058_053.png",
