@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiReact",
       "TiLogs",
       "TiHttpGet",
       "TiBrandSocketIo",
-      "CoMail",
-      "SiJsonwebtokens"
+      "CoMail"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -135,7 +135,6 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico": "BoBxCollapseVertical",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos": "BoBxsObjectsHorizontalCenter",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)": "TiHealthRecognition",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. One Linners": "CoStar",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion": "SiInteractiondesignfoundation",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos": "TiHttpGet",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/1. Modules": "SiCssmodules",
@@ -154,5 +153,7 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS": "SiJsonwebtokens",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)": "CoMail",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP": "TiHttpGet",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin": "TiLogs"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin": "TiLogs",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners": "CoStar",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React": "SiReact"
 }

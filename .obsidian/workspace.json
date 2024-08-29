@@ -35,9 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md",
-                "mode": "preview",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "db4593ed70749b0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md"
               }
             }
           }
@@ -71,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "balanceadores",
+                "query": "variables de entorno",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md",
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md"
+                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md"
               }
             }
           },
@@ -205,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "21ad219e1d43d5d9",
@@ -223,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 568.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -243,54 +253,54 @@
   },
   "active": "2384d413ba082ca2",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "2. DesarrolloWeb/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/x. SubModulos.md",
-    "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/1. Axios.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin/1. Configuracion del Logger.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/2. Configuracion de  Swagger Principal.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
     "3. Complementos/Organizacion/Personal/Horario.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/4. Order By - Limit y Offset.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/3. Where.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md",
-    "3. Complementos/Temas/Temas.md",
-    "2. DesarrolloWeb/PROGRAMACION/Python/Python/1. Python Basico/7. Bucle For.md",
+    "3. Complementos/Organizacion/Personal/Kanban Principal.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/Sin título.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/2. DTO Validations.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/1. Register/1. Crear un Register.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/0. Recomendaciones.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
+    "6. Images/Pasted Image 20240825212231_057.png",
+    "6. Images/Pasted Image 20240825212200_056.png",
+    "6. Images/Pasted Image 20240825212058_053.png",
+    "6. Images/Pasted Image 20240825211419_030.png",
+    "6. Images/Pasted Image 20240825211303_027.png",
+    "6. Images/Pasted Image 20240825210504_049.png",
+    "Pasted Image 20240825212231_057.png",
+    "Pasted Image 20240825212200_056.png",
+    "Pasted Image 20240825212058_053.png",
+    "Pasted Image 20240825211419_030.png",
+    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin",
     "Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP",
-    "6. Images/Pasted Image 20240810132807_795.png",
-    "Pasted Image 20240810132807_795.png",
-    "6. Images/Pasted Image 20240809132000_868.png",
-    "6. Images/Pasted Image 20240809131915_865.png",
-    "6. Images/Pasted Image 20240809131859_849.png",
-    "6. Images/Pasted Image 20240809130733_811.png",
-    "6. Images/Pasted Image 20240809130603_791.png",
-    "6. Images/Pasted Image 20240809130034_770.png",
-    "6. Images/Pasted Image 20240809125949_768.png",
-    "6. Images/Pasted Image 20240809125918_751.png",
     "5. Excalidraw/Diagramas Academicos/Protocolos",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/1. Register",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS",
-    "3. Complementos/Proyectos/Nextlify",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
     "Sin título 1.canvas",
