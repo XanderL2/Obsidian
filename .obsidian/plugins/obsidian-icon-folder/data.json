@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiVite",
       "SiReact",
       "TiLogs",
       "TiHttpGet",
-      "TiBrandSocketIo",
-      "CoMail"
+      "TiBrandSocketIo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -155,5 +155,6 @@
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP": "TiHttpGet",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin": "TiLogs",
   "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners": "CoStar",
-  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React": "SiReact"
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React": "SiReact",
+  "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md": "SiVite"
 }

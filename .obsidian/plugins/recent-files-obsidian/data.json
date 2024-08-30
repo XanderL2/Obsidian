@@ -1,8 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Crear Componentes",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
+    },
+    {
+      "basename": "1. Que es un Componente?",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
+    },
+    {
+      "basename": "4. Donde se generara nuestro codigo de React",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md"
+    },
+    {
+      "basename": "3. Vite JS + React",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
+    },
+    {
+      "basename": "2. Create React APP",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/2. Create React APP.md"
+    },
+    {
+      "basename": "x. Dependencias comunes",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+    },
+    {
+      "basename": "1. Que es React?",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md"
+    },
+    {
+      "basename": "1. OneLinners",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
+    },
+    {
+      "basename": "3. Async - Await (Priorizar Uso) 1",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
+    },
+    {
+      "basename": "1. Promesas",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Promesas.md"
+    },
+    {
+      "basename": "3. Async - Await (Priorizar Uso)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/3. Async - Await (Priorizar Uso).md"
+    },
+    {
+      "basename": "2. Promesas",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md"
+    },
+    {
+      "basename": "1. Callbacks (Llamar cuando regreses)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
+    },
+    {
+      "basename": "2. Solicitudes Http con Nest JS",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md"
+    },
+    {
+      "basename": "1. Node JS",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md"
+    },
+    {
       "basename": "3. Spread Operator (Operador 3 puntos)",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
+    },
+    {
+      "basename": "2. Objetos",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md"
     },
     {
       "basename": "1. Arrays",
@@ -15,10 +79,6 @@
     {
       "basename": "1. Funciones Declaradas (Normales)",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md"
-    },
-    {
-      "basename": "2. Objetos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md"
     },
     {
       "basename": "1. Tipos de Datos y Variables",
@@ -55,18 +115,6 @@
     {
       "basename": "2. Switch - Case",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md"
-    },
-    {
-      "basename": "1. Que es React?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/Sin título.md"
-    },
-    {
-      "basename": "1. OneLinners",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
     },
     {
       "basename": "1. ¿Que son los CORS del navegador?",
@@ -151,54 +199,6 @@
     {
       "basename": "1. WebSockets",
       "path": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
-    },
-    {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-    },
-    {
-      "basename": "privilegiosBaseDatos.excalidraw",
-      "path": "5. Excalidraw/Diagramas Academicos/SQL/privilegiosBaseDatos.excalidraw.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
-    },
-    {
-      "basename": "1. Middlewares",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md"
-    },
-    {
-      "basename": "1. ¿Que son los Guards?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md"
-    },
-    {
-      "basename": "1. ¿Que son los Pipes?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md"
-    },
-    {
-      "basename": "1. ¿Que son los servicios?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/3. Services (Injectables)/1. ¿Que son los servicios?.md"
-    },
-    {
-      "basename": "4. Archivos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/4. Archivos.md"
-    },
-    {
-      "basename": "3. Redireccion",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/3. Redireccion.md"
-    },
-    {
-      "basename": "2. Status Code",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md"
-    },
-    {
-      "basename": "1. Json",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/1. Json.md"
-    },
-    {
-      "basename": "2. Usar Objeto Request de Express y Response desde Express",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/1. Introduccion/2. Usar Objeto Request de Express y Response desde Express.md"
     }
   ],
   "omittedPaths": []
