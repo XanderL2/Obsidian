@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Props (Parametros de Componentes)",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md"
+    },
+    {
       "basename": "2. Crear Componentes",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
     },
     {
       "basename": "1. Que es un Componente?",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
+    },
+    {
+      "basename": "3. JSX Sintax",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md"
+    },
+    {
+      "basename": "2. Node Fetch",
+      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
     },
     {
       "basename": "4. Donde se generara nuestro codigo de React",
@@ -187,18 +199,6 @@
     {
       "basename": "3. Params",
       "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md"
-    },
-    {
-      "basename": "2. Envio de Mensajes",
-      "path": "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md"
-    },
-    {
-      "basename": "2. Node Fetch",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
-    },
-    {
-      "basename": "1. WebSockets",
-      "path": "5. Excalidraw/Diagramas Academicos/Protocolos/1. WebSockets.md"
     }
   ],
   "omittedPaths": []
