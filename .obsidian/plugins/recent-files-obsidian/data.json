@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
+      "basename": "5. Estilos en Componentes",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md"
+    },
+    {
       "basename": "4. Props (Parametros de Componentes)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+    },
+    {
+      "basename": "4. Manejo de Errores y validaciones en WebSockets",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md"
+    },
+    {
+      "basename": "5. Consumir API de tipo WebSockets",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md"
+    },
+    {
+      "basename": "3. Web Sockets en Nest JS",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md"
+    },
+    {
+      "basename": "2. Envio de Mensajes",
+      "path": "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md"
+    },
+    {
+      "basename": "1. Middlewares",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md"
+    },
+    {
+      "basename": "2. SELECT",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. SELECT.md"
+    },
+    {
+      "basename": "11. Obtener Informacion del Sistema",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md"
+    },
+    {
+      "basename": "8. PyAutogui (Teclado, Mouse y Eventos)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md"
+    },
+    {
+      "basename": "9. Librerias de Estilos para Scripting",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md"
+    },
+    {
+      "basename": "6. Libreria JSON (Manejo de JSONS en Python)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md"
+    },
+    {
+      "basename": "3. Libreria Shutil (Manejo de Archivos)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md"
+    },
+    {
+      "basename": "5. Requests HTTP (Enviar Solicitudes request)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md"
+    },
+    {
+      "basename": "10. ArgParse (Parametros a traves de Terminal)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md"
+    },
+    {
+      "basename": "7. Sys (Recibir Parametros por Consola)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md"
+    },
+    {
+      "basename": "4. Libreria Re (Expresiones Regulares)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md"
+    },
+    {
+      "basename": "12. Codificacion Base64",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md"
+    },
+    {
+      "basename": "9. Paramiko",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md"
+    },
+    {
+      "basename": "8. SQLMap",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md"
+    },
+    {
+      "basename": "7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md"
+    },
+    {
+      "basename": "6. FTPLib (Interaccion con servidores FTP)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md"
+    },
+    {
+      "basename": "4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md"
+    },
+    {
+      "basename": "3. Socket (Comunicacion Cliente servidor en Python)",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md"
+    },
+    {
+      "basename": "19. Excepciones",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/19. Excepciones.md"
+    },
+    {
+      "basename": "18.  Manejo de Archivos TXT",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/18.  Manejo de Archivos TXT.md"
+    },
+    {
+      "basename": "17. Paquetes",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/17. Paquetes.md"
+    },
+    {
+      "basename": "16. Modulos y Enrutado de Modulos",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/16. Modulos y Enrutado de Modulos.md"
+    },
+    {
+      "basename": "15. Funciones Lambda",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/15. Funciones Lambda.md"
+    },
+    {
+      "basename": "5. Bucle While",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/5. Bucle While.md"
+    },
+    {
+      "basename": "0. Shebang (Interprete de Comandos)",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md"
+    },
+    {
+      "basename": "2. Entrada y Salida de Datos por Consola",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md"
+    },
+    {
+      "basename": "1. Variables, Constantes y Tipos de Datos",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/1. Variables, Constantes y Tipos de Datos.md"
+    },
+    {
+      "basename": "1. Instalacion y configuracion de NodeMailer",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md"
     },
     {
       "basename": "2. Crear Componentes",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
     },
     {
       "basename": "1. Que es un Componente?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
     },
     {
       "basename": "3. JSX Sintax",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md"
     },
     {
       "basename": "2. Node Fetch",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
     },
     {
       "basename": "4. Donde se generara nuestro codigo de React",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md"
     },
     {
       "basename": "3. Vite JS + React",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
     },
     {
       "basename": "2. Create React APP",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/2. Create React APP.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/2. Create React APP.md"
     },
     {
       "basename": "x. Dependencias comunes",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
     },
     {
       "basename": "1. Que es React?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md"
     },
     {
       "basename": "1. OneLinners",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
     },
     {
       "basename": "3. Async - Await (Priorizar Uso) 1",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
     },
     {
       "basename": "1. Promesas",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Promesas.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Promesas.md"
     },
     {
       "basename": "3. Async - Await (Priorizar Uso)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/3. Async - Await (Priorizar Uso).md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/3. Async - Await (Priorizar Uso).md"
     },
     {
       "basename": "2. Promesas",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md"
     },
     {
       "basename": "1. Callbacks (Llamar cuando regreses)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
-    },
-    {
-      "basename": "2. Solicitudes Http con Nest JS",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md"
-    },
-    {
-      "basename": "1. Node JS",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md"
-    },
-    {
-      "basename": "3. Spread Operator (Operador 3 puntos)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
-    },
-    {
-      "basename": "2. Objetos",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md"
-    },
-    {
-      "basename": "1. Arrays",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md"
-    },
-    {
-      "basename": "2. Funciones Anonimas y Arrow Functions",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md"
-    },
-    {
-      "basename": "1. Funciones Declaradas (Normales)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md"
-    },
-    {
-      "basename": "1. Tipos de Datos y Variables",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md"
-    },
-    {
-      "basename": "2. Operadores",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md"
-    },
-    {
-      "basename": "3. Operadores Ternarios y One Linners",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores Ternarios y One Linners.md"
-    },
-    {
-      "basename": "1. DOM (Document Object Model)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md"
-    },
-    {
-      "basename": "2. Event Handlers (Manejadores de Eventos)",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/2. Event Handlers (Manejadores de Eventos).md"
-    },
-    {
-      "basename": "Horario",
-      "path": "3. Complementos/Organizacion/Personal/Horario.md"
-    },
-    {
-      "basename": "Kanban Principal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Principal.md"
-    },
-    {
-      "basename": "1. If - Else",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md"
-    },
-    {
-      "basename": "2. Switch - Case",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md"
-    },
-    {
-      "basename": "1. ¿Que son los CORS del navegador?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md"
-    },
-    {
-      "basename": "6. Dependencias",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md"
-    },
-    {
-      "basename": "5. Comandos de Creacion Rapida",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md"
-    },
-    {
-      "basename": "1. Creacion del Proyecto",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md"
-    },
-    {
-      "basename": "2. DTO Validations",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/4. DTO (Data Transfer Object)/2. DTO Validations.md"
-    },
-    {
-      "basename": "1. Crear un Register",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/1. Register/1. Crear un Register.md"
-    },
-    {
-      "basename": "3. Instalacion y Configuracion de JWT en Nest",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/3. Instalacion y Configuracion de JWT en Nest.md"
-    },
-    {
-      "basename": "2. Flujo de Autenticacion y partes de un Token",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/2. Flujo de Autenticacion y partes de un Token.md"
-    },
-    {
-      "basename": "1. ¿Que son los Json Web Tokens?",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md"
-    },
-    {
-      "basename": "0. Recomendaciones",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/0. Recomendaciones.md"
-    },
-    {
-      "basename": "1. Documentar rutas Protegidas",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md"
-    },
-    {
-      "basename": "1. ¿Que es Swagger? - Instalacion",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md"
-    },
-    {
-      "basename": "2. Configuracion de  Swagger Principal",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/1. Intrroduccion/2. Configuracion de  Swagger Principal.md"
-    },
-    {
-      "basename": "4. EsLint Rules",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md"
-    },
-    {
-      "basename": "7. Estructura de Proyectos recomendada",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md"
-    },
-    {
-      "basename": "4. Headers",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/4. Headers.md"
-    },
-    {
-      "basename": "2. Query",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/2. Query.md"
-    },
-    {
-      "basename": "3. Params",
-      "path": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/3. Objeto Request - Nest/3. Params.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
     }
   ],
   "omittedPaths": []

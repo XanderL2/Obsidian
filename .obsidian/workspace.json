@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "049241b0f5ec048f",
+        "id": "a21e09c94b03ca5d",
         "type": "tabs",
         "children": [
           {
-            "id": "91648cca7c7e8fcd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-              }
-            }
-          },
-          {
-            "id": "bca8bc88ae1e72f7",
+            "id": "c9681cae91d06ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
-                "mode": "source",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "db4593ed70749b0c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5004348754883
+    "width": 322.5004348754883
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -114,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md"
               }
             }
           },
@@ -221,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
+    "width": 250.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,13 +218,35 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bca8bc88ae1e72f7",
+  "active": "c9681cae91d06ea8",
   "lastOpenFiles": [
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
+    "1. Ciberseguridad/Criptografia",
+    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
+    "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. SELECT.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/9. Paramiko.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/8. SQLMap.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/7. SQLAlchemy (Biblioteca para interactuar con bases de datos SQL).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/6. FTPLib (Interaccion con servidores FTP).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/4. PyCrypto (Encriptar y Desencriptar Datos con algoritmos de Cifrado).md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Hacking/3. Socket (Comunicacion Cliente servidor en Python).md",
+    "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/19. Excepciones.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX",
     "6. Images/Pasted image 20240830115831.png",
     "6. Images/Pasted image 20240830115655.png",
@@ -257,37 +258,15 @@
     "6. Images/Pasted image 20240829124225.png",
     "Pasted image 20240830115831.png",
     "Pasted image 20240830115655.png",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/2. Create React APP.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Promesas.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/3. Async - Await (Priorizar Uso).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Async - Await.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/2. Objetos.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/Loggin",
     "Sin título.canvas",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP",
     "5. Excalidraw/Diagramas Academicos/Protocolos",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
