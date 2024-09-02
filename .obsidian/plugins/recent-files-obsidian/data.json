@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Arrays",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md"
+    },
+    {
+      "basename": "3. Spread Operator (Operador 3 puntos)",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
+    },
+    {
+      "basename": "1. Arrays",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md"
+    },
+    {
+      "basename": "7. Switch",
+      "path": "2. Desarrollo/PROGRAMACION/Java/Java Basico/7. Switch.md"
+    },
+    {
+      "basename": "6. XSLT (Transformacion de Documentos)",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md"
+    },
+    {
       "basename": "2. React Icons",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "1. Instalacion y configuracion de NodeMailer",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md"
-    },
-    {
-      "basename": "2. Crear Componentes",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
-    },
-    {
-      "basename": "1. Que es un Componente?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
-    },
-    {
-      "basename": "3. JSX Sintax",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md"
-    },
-    {
-      "basename": "4. Donde se generara nuestro codigo de React",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md"
-    },
-    {
-      "basename": "3. Vite JS + React",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
     }
   ],
   "omittedPaths": []
