@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "3.",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md"
+    },
+    {
+      "basename": "2. Use State Hook",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State Hook.md"
+    },
+    {
+      "basename": "1. Que son los Hooks",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md"
+    },
+    {
       "basename": "1. Arrays",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "0. Shebang (Interprete de Comandos)",
       "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/0. Shebang (Interprete de Comandos).md"
-    },
-    {
-      "basename": "2. Entrada y Salida de Datos por Consola",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md"
-    },
-    {
-      "basename": "1. Variables, Constantes y Tipos de Datos",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/1. Variables, Constantes y Tipos de Datos.md"
-    },
-    {
-      "basename": "1. Instalacion y configuracion de NodeMailer",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/4. Envio de Mails (Nodemailer)/1. Instalacion y configuracion de NodeMailer.md"
     }
   ],
   "omittedPaths": []

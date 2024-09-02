@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
-                "mode": "preview",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md"
               }
             }
           },
@@ -220,9 +220,13 @@
   },
   "active": "c9681cae91d06ea8",
   "lastOpenFiles": [
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State Hook.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks",
     "6. Images/Pasted image 20240902125303.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion",
     "2. Desarrollo/PROGRAMACION/Java/Java Basico/7. Switch.md",
@@ -249,8 +253,6 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
     "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/3. Consultas/2. SELECT.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/11. Obtener Informacion del Sistema.md",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX",
     "6. Images/Pasted image 20240830115831.png",
     "6. Images/Pasted image 20240830115655.png",
@@ -260,12 +262,10 @@
     "6. Images/Pasted image 20240830112959.png",
     "6. Images/Pasted image 20240830111003.png",
     "6. Images/Pasted image 20240829124225.png",
-    "Pasted image 20240830115831.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia",
     "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React",
     "Sin título.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
