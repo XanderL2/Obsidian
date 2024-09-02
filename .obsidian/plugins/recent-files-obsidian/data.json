@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "6. Event Handlers",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md"
+    },
+    {
+      "basename": "7. Etiquetas Semanticas (Span, Div, Etc)",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md"
+    },
+    {
+      "basename": "6. Formularios",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/6. Formularios.md"
+    },
+    {
+      "basename": "4.  Entradas (Inputs y tipos de Inputs)",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md"
+    },
+    {
       "basename": "5. Estilos en Componentes",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "3. Async - Await (Priorizar Uso) 1",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
-    },
-    {
-      "basename": "1. Promesas",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/1. Promesas.md"
-    },
-    {
-      "basename": "3. Async - Await (Priorizar Uso)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/3. Async - Await (Priorizar Uso).md"
-    },
-    {
-      "basename": "2. Promesas",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md"
-    },
-    {
-      "basename": "1. Callbacks (Llamar cuando regreses)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
     }
   ],
   "omittedPaths": []
