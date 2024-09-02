@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2. React Icons",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md"
+    },
+    {
+      "basename": "1. Que son los Third Party Components",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/1. Que son los Third Party Components.md"
+    },
+    {
+      "basename": "1. FetchAPI",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/3. Fetch API/1. FetchAPI.md"
+    },
+    {
+      "basename": "2. Node Fetch",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
+    },
+    {
+      "basename": "6. Obligar a un usuario a pasar por un evento",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
+    },
+    {
+      "basename": "7. Sockets Activos",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md"
+    },
+    {
       "basename": "6. Event Handlers",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md"
     },
@@ -169,36 +193,12 @@
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md"
     },
     {
-      "basename": "2. Node Fetch",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
-    },
-    {
       "basename": "4. Donde se generara nuestro codigo de React",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md"
     },
     {
       "basename": "3. Vite JS + React",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
-    },
-    {
-      "basename": "2. Create React APP",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/2. Create React APP.md"
-    },
-    {
-      "basename": "x. Dependencias comunes",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
-    },
-    {
-      "basename": "1. Que es React?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/1. Que es React?.md"
-    },
-    {
-      "basename": "1. OneLinners",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
-    },
-    {
-      "basename": "3. Async - Await (Priorizar Uso) 1",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
     }
   ],
   "omittedPaths": []
