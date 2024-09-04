@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a21e09c94b03ca5d",
+        "id": "b4f04ddb3f77c0b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c9681cae91d06ea8",
+            "id": "aa8e8f636b8255d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
-                "mode": "source",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+                "mode": "preview",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "5701a9fdf02d4daa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
               }
             }
           }
@@ -77,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5004348754883
+    "width": 350.5004348754883
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
               }
             }
           },
@@ -200,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
+    "width": 316.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -218,54 +228,54 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c9681cae91d06ea8",
+  "active": "aa8e8f636b8255d9",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State Hook.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3..md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md",
+    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+    "Excalidraw/1. UI Components Tree 2024-09-04 10.57.28.excalidraw.md",
+    "TAILWIND CSS.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind",
+    "Excalidraw/1. UI Components Tree 2024-09-03 20.15.28.excalidraw.md",
+    "DOCKER 1.md",
+    "Prisma ORM.md",
+    "README.md",
+    "DOCKER.md",
+    "Excalidraw/1. UI Components Tree 2024-09-03 18.20.55.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "Sin título.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/2. Tipos de Datos.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
+    "2. Desarrollo/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
+    "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
+    "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md",
+    "Excalidraw",
+    "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
+    "6. Images/Pasted image 20240902231328.png",
+    "5. Diagramas/Diagramas Academicos/React",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree",
+    "Pasted image 20240902231328.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks",
     "6. Images/Pasted image 20240902125303.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion",
-    "2. Desarrollo/PROGRAMACION/Java/Java Basico/7. Switch.md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md",
     "Pasted image 20240902125303.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/1. Que son los Third Party Components.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/3. Fetch API/1. FetchAPI.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/3. Fetch API",
-    "2. Desarrollo/LENGUAJES DE MARCAS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/HTML/6. Formularios.md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/HTML/4.  Entradas (Inputs y tipos de Inputs).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
     "1. Ciberseguridad/Criptografia",
-    "5. Excalidraw/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/5. Consumir API de tipo WebSockets.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md",
-    "5. Excalidraw/Proyectos/Social Pipe/2. Envio de Mensajes.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares/1. Middlewares.md",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX",
     "6. Images/Pasted image 20240830115831.png",
     "6. Images/Pasted image 20240830115655.png",
     "6. Images/Pasted image 20240830115228.png",
     "6. Images/Pasted image 20240830115042.png",
     "6. Images/Pasted image 20240830115042 1.png",
     "6. Images/Pasted image 20240830112959.png",
-    "6. Images/Pasted image 20240830111003.png",
-    "6. Images/Pasted image 20240829124225.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Asincronia",
-    "2. DesarrolloWeb/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion",
     "Sin título.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",

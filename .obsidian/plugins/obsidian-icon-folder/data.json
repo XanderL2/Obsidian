@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiTailwindcss",
+      "FasPaintbrush",
+      "SiExcalidraw",
       "SiCryptpad",
-      "SiPython",
-      "SiGnubash",
-      "SiVite",
-      "SiReact"
+      "SiPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,6 @@
   "3. Complementos/Ingles": "TiLanguage",
   "3. Complementos/Organizacion": "SiAwsorganizations",
   "4. Atajos": "SiShortcut",
-  "5. Excalidraw": "SiExcalidraw",
   "6. Images": "FiImage",
   "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/1. Hydra": "RaHydraShot",
   "1. Ciberseguridad/Hacking Etico/1. Herramientas/2. Fuerza Bruta/2. Ataques a Wordpress": "SiWordpress",
@@ -159,5 +158,8 @@
   "2. Desarrollo/ARQUITECTURAS DE SOFTWARE": "RiMeteorFill",
   "1. Ciberseguridad/Programacion y Scripting/Bash": "SiGnubash",
   "1. Ciberseguridad/Programacion y Scripting/Python": "SiPython",
-  "1. Ciberseguridad/Criptografia": "SiCryptpad"
+  "1. Ciberseguridad/Criptografia": "SiCryptpad",
+  "Excalidraw": "SiExcalidraw",
+  "5. Diagramas": "FasPaintbrush",
+  "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind": "SiTailwindcss"
 }

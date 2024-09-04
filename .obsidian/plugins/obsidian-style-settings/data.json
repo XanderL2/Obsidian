@@ -1,0 +1,22 @@
+{
+  "obsidian-execute-code@@use-custom-output-color": true,
+  "obsidian-execute-code@@use-custom-error-color": false,
+  "Appearance@@bg_highlight@@dark": "#59007E",
+  "Appearance@@bg_highlight_dark@@dark": "#171B26",
+  "Editor@@bold-color@@light": "#3000E8",
+  "Appearance@@accent@@light": "#49BDFF",
+  "Editor@@h1-color@@light": "#FF0000",
+  "Editor@@bold-color@@dark": "#F200FF",
+  "Editor@@table-border-width": 2,
+  "Editor@@table-border-color@@dark": "#499DA6",
+  "Editor@@code-comment@@dark": "#00A5BF",
+  "Editor@@embed-border-radius": "10",
+  "Editor@@blockquote-color@@dark": "#C800FF",
+  "Editor@@blockquote-background-color@@dark": "#C800FF",
+  "Editor@@blockquote-border-color@@dark": "#C800FF",
+  "Editor@@blockquote-border-thickness": 5,
+  "Appearance@@bg@@dark": "#14161D",
+  "Appearance@@bg_dark@@dark": "#171721",
+  "Appearance@@bg_dark2@@dark": "#280038",
+  "Editor@@embed-padding": "5"
+}

@@ -36,6 +36,11 @@
       "id": "IUvR5VTFixWUvqKd-eHCe",
       "name": "atajos",
       "value": "#ff0095"
+    },
+    {
+      "id": "9m8m_shtIV4m2_tNJcUBV",
+      "name": "diagramas",
+      "value": "#ffae00"
     }
   ],
   "fileColors": [
@@ -52,7 +57,7 @@
       "color": "8RAJtPWpUxtcQVb26C5vp"
     },
     {
-      "path": "5. Excalidraw",
+      "path": "5. Diagramas",
       "color": "mzbAkg1KSfLSOzC40H-_o"
     },
     {
@@ -62,6 +67,10 @@
     {
       "path": "4. Atajos",
       "color": "IUvR5VTFixWUvqKd-eHCe"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "9m8m_shtIV4m2_tNJcUBV"
     }
   ]
 }
