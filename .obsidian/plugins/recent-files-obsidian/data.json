@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "x. Dependencias comunes",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+    },
+    {
+      "basename": "5. Estructura del Proyecto React",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md"
+    },
+    {
       "basename": "1. UI Components Tree",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "7. Etiquetas Semanticas (Span, Div, Etc)",
       "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md"
-    },
-    {
-      "basename": "6. Formularios",
-      "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/6. Formularios.md"
     }
   ],
   "omittedPaths": []

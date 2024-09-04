@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
               }
             }
           },
@@ -230,11 +230,12 @@
   },
   "active": "aa8e8f636b8255d9",
   "lastOpenFiles": [
-    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
     "Excalidraw/1. UI Components Tree 2024-09-04 10.57.28.excalidraw.md",
     "TAILWIND CSS.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
     "Excalidraw/1. UI Components Tree 2024-09-03 20.15.28.excalidraw.md",
     "DOCKER 1.md",
     "Prisma ORM.md",
@@ -256,7 +257,6 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
     "2. Desarrollo/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
     "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
-    "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/2. Entrada y Salida de Datos por Consola.md",
     "Excalidraw",
     "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
     "6. Images/Pasted image 20240902231328.png",
