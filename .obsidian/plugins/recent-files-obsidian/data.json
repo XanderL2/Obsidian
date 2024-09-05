@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Instalacion de Tailwind en nuestro Proyecto de Vite",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md"
+    },
+    {
       "basename": "1. Que es un Contexto - Create Context - UseContext",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2. Node Fetch",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
-    },
-    {
-      "basename": "6. Obligar a un usuario a pasar por un evento",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
     }
   ],
   "omittedPaths": []
