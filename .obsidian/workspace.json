@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
-                "mode": "preview",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5701a9fdf02d4daa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
               }
             }
           }
@@ -103,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md"
               }
             }
           },
@@ -230,9 +220,15 @@
   },
   "active": "aa8e8f636b8255d9",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/3. Use Effect.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios",
+    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
     "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
     "Excalidraw/1. UI Components Tree 2024-09-04 10.57.28.excalidraw.md",
     "TAILWIND CSS.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
@@ -247,29 +243,23 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
     "Sin título.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/2. Use State.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/1. Que son los Hooks.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/2. Tipos de Datos.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/2. Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
-    "2. Desarrollo/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md",
-    "2. Desarrollo/PROGRAMACION/Python/Python/1. Python Basico/8. Metodos de Manejo de Strings para validacion de Datos.md",
     "Excalidraw",
     "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
     "6. Images/Pasted image 20240902231328.png",
     "5. Diagramas/Diagramas Academicos/React",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree",
     "Pasted image 20240902231328.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos",
     "6. Images/Pasted image 20240902125303.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion",
     "Pasted image 20240902125303.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/3. Fetch API",
-    "1. Ciberseguridad/Criptografia",
     "6. Images/Pasted image 20240830115831.png",
     "6. Images/Pasted image 20240830115655.png",
     "6. Images/Pasted image 20240830115228.png",

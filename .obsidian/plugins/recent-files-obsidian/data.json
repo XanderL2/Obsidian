@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "x. Dependencias comunes",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+      "basename": "1. Que es un Contexto - Create Context - UseContext",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md"
     },
     {
-      "basename": "5. Estructura del Proyecto React",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md"
+      "basename": "3. Use Effect",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/3. Use Effect.md"
+    },
+    {
+      "basename": "4. UseContext 2024-09-05 11.26.06.excalidraw",
+      "path": "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md"
+    },
+    {
+      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
+      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
     },
     {
       "basename": "1. UI Components Tree",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
     },
     {
-      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
-      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
+      "basename": "1. Arrays",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md"
+    },
+    {
+      "basename": "x. Dependencias comunes",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md"
+    },
+    {
+      "basename": "5. Estructura del Proyecto React",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md"
     },
     {
       "basename": "TAILWIND CSS",
@@ -49,10 +65,6 @@
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md"
     },
     {
-      "basename": "1. Arrays",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md"
-    },
-    {
       "basename": "1. DOM (Document Object Model)",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md"
     },
@@ -62,11 +74,11 @@
     },
     {
       "basename": "2. Use State",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/2. Use State.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/2. Use State.md"
     },
     {
       "basename": "1. Que son los Hooks",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/1. Que son los Hooks.md"
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/1. Que son los Hooks.md"
     },
     {
       "basename": "1. ¿Que son los CORS del navegador?",
@@ -115,10 +127,6 @@
     {
       "basename": "1. Inyeccion de Dependencias (DI)",
       "path": "2. Desarrollo/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md"
-    },
-    {
-      "basename": "3. Use Effect",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks/3. Use Effect.md"
     },
     {
       "basename": "Temas",
@@ -191,14 +199,6 @@
     {
       "basename": "6. Obligar a un usuario a pasar por un evento",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
-    },
-    {
-      "basename": "7. Sockets Activos",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md"
-    },
-    {
-      "basename": "7. Etiquetas Semanticas (Span, Div, Etc)",
-      "path": "2. Desarrollo/LENGUAJES DE MARCAS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md"
     }
   ],
   "omittedPaths": []
