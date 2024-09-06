@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "3. C",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. C.md"
+    },
+    {
+      "basename": "2. Sistema de Espaciado (Padding, Margin)",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/2. Sistema de Espaciado (Padding, Margin).md"
+    },
+    {
       "basename": "1. Tamaños",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md"
     },
     {
       "basename": "Kanban Temporal",
       "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-    },
-    {
-      "basename": "2. Sistema de Espaciado (Padding, Margin)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/2. Sistema de Espaciado (Padding, Margin).md"
     },
     {
       "basename": "8. Box Model",
@@ -195,10 +199,6 @@
     {
       "basename": "1. Que son los Third Party Components",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/1. Que son los Third Party Components.md"
-    },
-    {
-      "basename": "3. Vite JS + React",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
     }
   ],
   "omittedPaths": []
