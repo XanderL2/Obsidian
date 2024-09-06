@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md"
               }
             }
           },
@@ -230,9 +231,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "aa8e8f636b8255d9",
+  "active": "0c2039b678ab6f8e",
   "lastOpenFiles": [
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
+    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/18. GRID.md",
     "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
+    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/11. Floats (No sirve).md",
+    "2. Desarrollo/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
+    "TAILWIND CSS.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/6. Bordes.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
@@ -250,7 +257,6 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion",
-    "TAILWIND CSS.md",
     "README.md",
     "Prisma ORM.md",
     "DOCKER 1.md",
@@ -260,12 +266,7 @@
     "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
-    "Excalidraw/1. UI Components Tree 2024-09-04 10.57.28.excalidraw.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
-    "Excalidraw/1. UI Components Tree 2024-09-03 20.15.28.excalidraw.md",
-    "DOCKER.md",
     "Excalidraw",
     "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
     "6. Images/Pasted image 20240902231328.png",
