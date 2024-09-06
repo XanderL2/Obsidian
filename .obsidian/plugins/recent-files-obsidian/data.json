@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Instalacion de Tailwind en nuestro Proyecto de Vite",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md"
+      "basename": "1. Tamaños",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md"
+    },
+    {
+      "basename": "Kanban Temporal",
+      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+    },
+    {
+      "basename": "2. Sistema de Espaciado (Padding, Margin)",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/2. Sistema de Espaciado (Padding, Margin).md"
+    },
+    {
+      "basename": "8. Box Model",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/CSS/8. Box Model.md"
+    },
+    {
+      "basename": "2. Tailwind vs CSS Puro",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/2. Tailwind vs CSS Puro.md"
     },
     {
       "basename": "1. Que es un Contexto - Create Context - UseContext",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md"
+    },
+    {
+      "basename": "1. Instalacion de Tailwind en nuestro Proyecto de Vite",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md"
+    },
+    {
+      "basename": "TAILWIND CSS",
+      "path": "TAILWIND CSS.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Prisma ORM",
+      "path": "Prisma ORM.md"
+    },
+    {
+      "basename": "DOCKER 1",
+      "path": "DOCKER 1.md"
     },
     {
       "basename": "3. Use Effect",
@@ -37,22 +73,6 @@
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md"
     },
     {
-      "basename": "TAILWIND CSS",
-      "path": "TAILWIND CSS.md"
-    },
-    {
-      "basename": "DOCKER 1",
-      "path": "DOCKER 1.md"
-    },
-    {
-      "basename": "Prisma ORM",
-      "path": "Prisma ORM.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "3. Spread Operator (Operador 3 puntos)",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md"
     },
@@ -71,10 +91,6 @@
     {
       "basename": "1. DOM (Document Object Model)",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/3. DOM (Document Object Model)/1. DOM (Document Object Model).md"
-    },
-    {
-      "basename": "Kanban Temporal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
     },
     {
       "basename": "2. Use State",
@@ -183,22 +199,6 @@
     {
       "basename": "3. Vite JS + React",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md"
-    },
-    {
-      "basename": "1. Arrays",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/1. Arrays.md"
-    },
-    {
-      "basename": "7. Switch",
-      "path": "2. Desarrollo/PROGRAMACION/Java/Java Basico/7. Switch.md"
-    },
-    {
-      "basename": "6. XSLT (Transformacion de Documentos)",
-      "path": "2. Desarrollo/LENGUAJES DE MARCAS/XML/6. XSLT (Transformacion de Documentos).md"
-    },
-    {
-      "basename": "2. Node Fetch",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
     }
   ],
   "omittedPaths": []
