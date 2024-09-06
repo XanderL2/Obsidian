@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Flex",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md"
+    },
+    {
+      "basename": "17. FLEXBOX (Responsive Web Design)",
+      "path": "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md"
+    },
+    {
+      "basename": "6. Bordes",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/6. Bordes.md"
+    },
+    {
       "basename": "5. Tipografias",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "5. Estilos en Componentes",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/5. Estilos en Componentes.md"
-    },
-    {
-      "basename": "2. Crear Componentes",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md"
-    },
-    {
-      "basename": "1. Que es un Componente?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/1. Que es un Componente?.md"
-    },
-    {
-      "basename": "2. React Icons",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md"
     }
   ],
   "omittedPaths": []

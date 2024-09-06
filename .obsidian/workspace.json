@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c2039b678ab6f8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md"
               }
             }
           },
@@ -220,8 +232,12 @@
   },
   "active": "aa8e8f636b8255d9",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. Colores.md",
+    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/6. Bordes.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. Colores.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/2. Sistema de Espaciado (Padding, Margin).md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md",
     "6. Images/Pasted image 20240905170044.png",
@@ -250,16 +266,12 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
     "Excalidraw/1. UI Components Tree 2024-09-03 20.15.28.excalidraw.md",
     "DOCKER.md",
-    "Excalidraw/1. UI Components Tree 2024-09-03 18.20.55.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md",
     "Excalidraw",
     "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
     "6. Images/Pasted image 20240902231328.png",
     "5. Diagramas/Diagramas Academicos/React",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree",
     "Pasted image 20240902231328.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos",
     "6. Images/Pasted image 20240902125303.png",
     "Pasted image 20240902125303.png",
     "6. Images/Pasted image 20240830115831.png",
