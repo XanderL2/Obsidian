@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "3. C",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. C.md"
+      "basename": "5. Tipografias",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md"
+    },
+    {
+      "basename": "3. Colores",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. Colores.md"
     },
     {
       "basename": "2. Sistema de Espaciado (Padding, Margin)",
@@ -195,10 +199,6 @@
     {
       "basename": "2. React Icons",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md"
-    },
-    {
-      "basename": "1. Que son los Third Party Components",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/1. Que son los Third Party Components.md"
     }
   ],
   "omittedPaths": []
