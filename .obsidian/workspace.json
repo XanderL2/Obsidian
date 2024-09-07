@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md"
               }
             }
           },
@@ -233,14 +233,23 @@
   },
   "active": "0c2039b678ab6f8e",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/1. Pseudoclases.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI/1. Paquetes UI.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
     "2. Desarrollo/LENGUAJES DE MARCAS/CSS/18. GRID.md",
     "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
     "2. Desarrollo/LENGUAJES DE MARCAS/CSS/11. Floats (No sirve).md",
     "2. Desarrollo/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
     "TAILWIND CSS.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/6. Bordes.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
@@ -258,20 +267,11 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion",
     "README.md",
-    "Prisma ORM.md",
-    "DOCKER 1.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/6. Hooks Basicos/3. Use Effect.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios",
-    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
-    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
     "Excalidraw",
     "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
     "6. Images/Pasted image 20240902231328.png",
-    "5. Diagramas/Diagramas Academicos/React",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree",
     "Pasted image 20240902231328.png",
     "6. Images/Pasted image 20240902125303.png",
     "Pasted image 20240902125303.png",

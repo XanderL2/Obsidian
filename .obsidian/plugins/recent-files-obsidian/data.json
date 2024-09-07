@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2. Dark Mode",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md"
+    },
+    {
+      "basename": "1. Flex",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md"
+    },
+    {
+      "basename": "4. Props (Parametros de Componentes)",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md"
+    },
+    {
+      "basename": "6. Event Handlers",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md"
+    },
+    {
+      "basename": "1. Pseudoclases",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/1. Pseudoclases.md"
+    },
+    {
+      "basename": "1. Paquetes UI",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI/1. Paquetes UI.md"
+    },
+    {
+      "basename": "2. React Icons",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md"
+    },
+    {
+      "basename": "1. UI Components Tree",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
+    },
+    {
       "basename": "3. Breakpoints",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md"
     },
@@ -27,10 +59,6 @@
     {
       "basename": "TAILWIND CSS",
       "path": "TAILWIND CSS.md"
-    },
-    {
-      "basename": "1. Flex",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md"
     },
     {
       "basename": "6. Bordes",
@@ -95,10 +123,6 @@
     {
       "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
       "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
-    },
-    {
-      "basename": "1. UI Components Tree",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md"
     },
     {
       "basename": "1. Arrays",
@@ -175,30 +199,6 @@
     {
       "basename": "3. Variables, Constantes y Tipos de Datos",
       "path": "2. Desarrollo/PROGRAMACION/Java/Java Basico/3. Variables, Constantes y Tipos de Datos.md"
-    },
-    {
-      "basename": "1. Introduccion",
-      "path": "2. Desarrollo/PROGRAMACION/Java/Java Basico/1. Introduccion.md"
-    },
-    {
-      "basename": "1. MVC (Modelo Vista Controlador)",
-      "path": "2. Desarrollo/PROGRAMACION/C-Sharp/3. Csharp Web/1. MVC (Modelo Vista Controlador).md"
-    },
-    {
-      "basename": "1. Inyeccion de Dependencias (DI)",
-      "path": "2. Desarrollo/PROGRAMACION/C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md"
-    },
-    {
-      "basename": "Temas",
-      "path": "3. Complementos/Temas/Temas.md"
-    },
-    {
-      "basename": "1. Instalacion e Introduccion a Jest JS",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Testing/Testing con Jest JS/1. Instalacion e Introduccion a Jest JS.md"
-    },
-    {
-      "basename": "2. N",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Testing/Testing con Jest JS/2. N.md"
     }
   ],
   "omittedPaths": []
