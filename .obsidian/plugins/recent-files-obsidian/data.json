@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Creacion de Rutas",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md"
+      "basename": "3. Proteccion de rutas",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md"
+    },
+    {
+      "basename": "2. Rutas y Redirecciones",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/2. Rutas y Redirecciones.md"
     },
     {
       "basename": "5. Estructura del Proyecto React",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md"
+    },
+    {
+      "basename": "1. Creacion de Rutas",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md"
     },
     {
       "basename": "1. React Router - Instalacion",
@@ -191,14 +199,6 @@
     {
       "basename": "3. Clean Code en Python",
       "path": "2. Desarrollo/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md"
-    },
-    {
-      "basename": "¿Que es el BIG DATA? ¿Cuales son sus fases?",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/¿Que es el BIG DATA? ¿Cuales son sus fases?.md"
-    },
-    {
-      "basename": "Anotaciones",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/Anotaciones.md"
     }
   ],
   "omittedPaths": []

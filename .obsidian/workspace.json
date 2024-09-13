@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb8f3198d812b90e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "459d551a26c89c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md"
               }
             }
           },
@@ -232,9 +220,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bb8f3198d812b90e",
+  "active": "459d551a26c89c0b",
   "lastOpenFiles": [
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/2. Rutas y Redirecciones.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion/1. React Router - Instalacion.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
@@ -272,8 +262,6 @@
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/5. Fixeo de Desbordes",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/10. Reutilizacion de UI",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/4  Estados de los elementos",
