@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b4f04ddb3f77c0b1",
+        "id": "52530474d406c2de",
         "type": "tabs",
         "children": [
           {
-            "id": "aa8e8f636b8255d9",
+            "id": "bb8f3198d812b90e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c2039b678ab6f8e",
+            "id": "459d551a26c89c0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5004348754883
+    "width": 307.5004348754883
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -99,6 +98,7 @@
       {
         "id": "c50bf46a7f04ccc2",
         "type": "tabs",
+        "dimension": 47.26027397260273,
         "children": [
           {
             "id": "e13811f1f3d4e8f1",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md"
               }
             }
           },
@@ -200,6 +200,7 @@
       {
         "id": "21ad219e1d43d5d9",
         "type": "tabs",
+        "dimension": 52.73972602739727,
         "children": [
           {
             "id": "691d9da870da3d53",
@@ -213,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
+    "width": 294.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -231,54 +232,54 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0c2039b678ab6f8e",
+  "active": "bb8f3198d812b90e",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/1. Flex.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/2. Dark Mode.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/2. Componentes/6. Event Handlers.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos/1. Pseudoclases.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI/1. Paquetes UI.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/4  Estados de los elementos",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/4. Thrid Party Components/2. React Icons.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/7. UI Components Tree/1. UI Components Tree.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/3. Breakpoints.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/2. GRID.md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/18. GRID.md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/17. FLEXBOX (Responsive Web Design).md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/11. Floats (No sirve).md",
-    "2. Desarrollo/LENGUAJES DE MARCAS/Servicios Web/3. EndPoints y Codigos de Estado.md",
-    "TAILWIND CSS.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/6. Bordes.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/5. Tipografias.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/3. Colores.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/2. Sistema de Espaciado (Padding, Margin).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md",
-    "6. Images/Pasted image 20240905170044.png",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion/1. React Router - Instalacion.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
+    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
+    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
+    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+    "6. Images/Pasted Image 20240913093515_730.png",
+    "6. Images/Pasted Image 20240913092219_403.png",
+    "6. Images/Pasted Image 20240913091419_102.png",
+    "6. Images/Pasted Image 20240913091252_417.png",
+    "6. Images/Pasted Image 20240913091107_634.png",
+    "6. Images/Pasted Image 20240913090006_586.png",
+    "6. Images/Pasted Image 20240913085724_914.png",
+    "6. Images/Pasted Image 20240913085622_555.png",
+    "6. Images/Pasted Image 20240913085247_329.png",
+    "6. Images/Pasted Image 20240913085100_800.png",
+    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/Express Sessions.md",
+    "5. Diagramas/Diagramas Academicos/Stack",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design",
-    "2. Desarrollo/LENGUAJES DE MARCAS/CSS/8. Box Model.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/2. Tailwind vs CSS Puro.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/2. Clases Utilitarias Basicas",
-    "Pasted image 20240905170044.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/1. Instalacion",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router",
+    "3. Complementos/Organizacion/Personal/Horario.md",
+    "2024-09-12.md",
+    "DOCKER 1.md",
+    "Prisma ORM.md",
+    "TAILWIND CSS.md",
     "README.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript",
-    "Excalidraw",
-    "5. Excalidraw/Diagramas Academicos/React/1. UI Components Tree",
-    "6. Images/Pasted image 20240902231328.png",
-    "Pasted image 20240902231328.png",
-    "6. Images/Pasted image 20240902125303.png",
-    "Pasted image 20240902125303.png",
-    "6. Images/Pasted image 20240830115831.png",
-    "6. Images/Pasted image 20240830115655.png",
-    "6. Images/Pasted image 20240830115228.png",
-    "6. Images/Pasted image 20240830115042.png",
+    "Excalidraw/1. Que es un Contexto - Create Context - UseContext 2024-09-10 20.09.48.excalidraw.md",
+    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
+    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
+    "3. Complementos/Organizacion/Personal/Kanban Principal.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/5. Fixeo de Desbordes",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/10. Reutilizacion de UI",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/4  Estados de los elementos",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/3. Responsive Web Design",
     "Sin título.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",

@@ -6,7 +6,6 @@
   "obsidian-file-color",
   "obsidian-outliner",
   "obsidian-kanban",
-  "obsidian-mind-map",
   "table-editor-obsidian",
   "obsidian-html-tags-autocomplete",
   "obsidian-emoji-toolbar",
@@ -18,5 +17,6 @@
   "obsidian-style-settings",
   "code-styler",
   "execute-code",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-mindmap-nextgen"
 ]
