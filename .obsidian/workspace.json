@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "52530474d406c2de",
+        "id": "bebb0c5bcd7121d8",
         "type": "tabs",
         "children": [
           {
-            "id": "459d551a26c89c0b",
+            "id": "d47fe0261cd8dc7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
-                "mode": "preview",
-                "source": false
+                "file": "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md"
+              }
+            }
+          },
+          {
+            "id": "9a767678680dd31e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5004348754883
+    "width": 307.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
+                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
+                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md"
+                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
               }
             }
           },
@@ -220,54 +230,54 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "459d551a26c89c0b",
+  "active": "9a767678680dd31e",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/2. Rutas y Redirecciones.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/1. Creacion de Rutas.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion/1. React Router - Instalacion.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
-    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
-    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
-    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
-    "6. Images/Pasted Image 20240913093515_730.png",
-    "6. Images/Pasted Image 20240913092219_403.png",
-    "6. Images/Pasted Image 20240913091419_102.png",
-    "6. Images/Pasted Image 20240913091252_417.png",
-    "6. Images/Pasted Image 20240913091107_634.png",
-    "6. Images/Pasted Image 20240913090006_586.png",
-    "6. Images/Pasted Image 20240913085724_914.png",
-    "6. Images/Pasted Image 20240913085622_555.png",
-    "6. Images/Pasted Image 20240913085247_329.png",
-    "6. Images/Pasted Image 20240913085100_800.png",
-    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "6. Images/Pasted Image 20240916184158_574.png",
+    "6. Images/Pasted Image 20240916183852_775.png",
+    "6. Images/Pasted Image 20240916183448_395.png",
+    "6. Images/Pasted Image 20240915174446_854.png",
     "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
+    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
+    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "Pasted Image 20240916184158_574.png",
+    "Pasted Image 20240916183852_775.png",
+    "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/8. Uso Basico en una Arquitectura de Mensajes.md",
+    "Pasted Image 20240916183448_395.png",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md",
     "5. Diagramas/Diagramas Academicos/Autenticacion/Express Sessions.md",
-    "5. Diagramas/Diagramas Academicos/Stack",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router",
-    "3. Complementos/Organizacion/Personal/Horario.md",
-    "2024-09-12.md",
-    "DOCKER 1.md",
-    "Prisma ORM.md",
-    "TAILWIND CSS.md",
-    "README.md",
-    "Excalidraw/1. Que es un Contexto - Create Context - UseContext 2024-09-10 20.09.48.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/Programacion/Herencia.md",
+    "5. Diagramas/Diagramas Academicos/UML/diagramaSecuencialEjemplo.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/UML/comidaCasoUso.excalidraw.md",
+    "Pasted Image 20240915174446_854.png",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Testing/Testing con Jest JS/2. N.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md",
+    "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
+    "2. Desarrollo/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
     "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
     "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
-    "3. Complementos/Organizacion/Personal/Kanban Principal.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "Excalidraw/Drawing 2024-09-16 16.24.14.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/DEV-OPS",
+    "6. Images/Pasted Image 20240915165224_075.png",
+    "Pasted Image 20240915165224_075.png",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
+    "6. Images/Pasted Image 20240913093515_730.png",
+    "5. Diagramas/Diagramas Academicos/Stack",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/5. Fixeo de Desbordes",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/10. Reutilizacion de UI",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/4  Estados de los elementos",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/3. Responsive Web Design",
     "Sin título.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",

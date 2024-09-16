@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAzuredevops",
       "SiReactrouter",
       "SiTailwindcss",
       "FasPaintbrush",
-      "SiExcalidraw",
-      "SiCryptpad"
+      "SiExcalidraw"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -162,5 +162,6 @@
   "Excalidraw": "SiExcalidraw",
   "5. Diagramas": "FasPaintbrush",
   "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router": "SiReactrouter",
-  "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript": "SiTailwindcss"
+  "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript": "SiTailwindcss",
+  "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/DEV-OPS": "SiAzuredevops"
 }

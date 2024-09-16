@@ -1,6 +1,166 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+    },
+    {
+      "basename": "4. Autenticacion (JWT)",
+      "path": "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md"
+    },
+    {
+      "basename": "2. Envio de Mensajes",
+      "path": "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+    },
+    {
+      "basename": "8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw",
+      "path": "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md"
+    },
+    {
+      "basename": "8. Uso Basico en una Arquitectura de Mensajes",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/8. Uso Basico en una Arquitectura de Mensajes.md"
+    },
+    {
+      "basename": "pwnhash",
+      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md"
+    },
+    {
+      "basename": "Express Sessions",
+      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/Express Sessions.md"
+    },
+    {
+      "basename": "CifradoAsimetrico.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md"
+    },
+    {
+      "basename": "autenticacion.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md"
+    },
+    {
+      "basename": "Herencia",
+      "path": "5. Diagramas/Diagramas Academicos/Programacion/Herencia.md"
+    },
+    {
+      "basename": "diagramaSecuencialEjemplo.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/UML/diagramaSecuencialEjemplo.excalidraw.md"
+    },
+    {
+      "basename": "comidaCasoUso.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/UML/comidaCasoUso.excalidraw.md"
+    },
+    {
+      "basename": "2. N",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Testing/Testing con Jest JS/2. N.md"
+    },
+    {
+      "basename": "1. Documentar rutas Protegidas",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md"
+    },
+    {
+      "basename": "1. DTO (Data transfer Object)",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md"
+    },
+    {
+      "basename": "3. Conexiones a bases de datos no relacionales",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md"
+    },
+    {
+      "basename": "Drawing 2024-09-03 17.58.08.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md"
+    },
+    {
+      "basename": "1. WebSockets",
+      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
+    },
+    {
+      "basename": "Programacion Principios",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
+    },
+    {
+      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
+      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
+    },
+    {
+      "basename": "4. UseContext 2024-09-05 11.26.06.excalidraw",
+      "path": "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md"
+    },
+    {
+      "basename": "1. ¿Que son los Guards?",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md"
+    },
+    {
+      "basename": "Kanban Temporal",
+      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+    },
+    {
+      "basename": "Horario",
+      "path": "3. Complementos/Organizacion/Personal/Horario.md"
+    },
+    {
+      "basename": "1. Words",
+      "path": "3. Complementos/Ingles/1. Words.md"
+    },
+    {
+      "basename": "10. Estandarizaciones",
+      "path": "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md"
+    },
+    {
+      "basename": "1. Tecnologias",
+      "path": "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/DEV-OPS/1. Tecnologias.md"
+    },
+    {
+      "basename": "1. ¿Que son los Pipes?",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md"
+    },
+    {
+      "basename": "3. Configurar Prisma para consultas",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md"
+    },
+    {
+      "basename": "7. Sockets Activos",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/7. Sockets Activos.md"
+    },
+    {
+      "basename": "8. Objeto Request (Metodos Post y Get)",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/8. Objeto Request (Metodos Post y Get).md"
+    },
+    {
+      "basename": "7. Protocolo y Metodos HTTPS",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/7. Protocolo y Metodos HTTPS.md"
+    },
+    {
+      "basename": "5. HTML Dinamico con Flask (Estructuras de Control en Flask)",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md"
+    },
+    {
+      "basename": "4. Manejo de Errores de rutas con Flask",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/4. Manejo de Errores de rutas con Flask.md"
+    },
+    {
+      "basename": "3. Enrutado en Flask",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/3. Enrutado en Flask.md"
+    },
+    {
+      "basename": "1. ¿Que es Backend? Funciones",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/1. ¿Que es Backend? Funciones.md"
+    },
+    {
+      "basename": "2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?",
+      "path": "2. Desarrollo/PROGRAMACION/Python/Flask/2. ¿Que es Flask? ¿Que hace? ¿Como iniciamos?.md"
+    },
+    {
+      "basename": "4. EsLint Rules",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md"
+    },
+    {
+      "basename": "3. Estructura de Modulos en Nest JS",
+      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md"
+    },
+    {
       "basename": "3. Proteccion de rutas",
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas/3. Proteccion de rutas.md"
     },
@@ -21,38 +181,6 @@
       "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion/1. React Router - Instalacion.md"
     },
     {
-      "basename": "2. Envio de Mensajes",
-      "path": "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md"
-    },
-    {
-      "basename": "1. WebSockets",
-      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
-    },
-    {
-      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
-    },
-    {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-    },
-    {
-      "basename": "4. Autenticacion (JWT)",
-      "path": "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md"
-    },
-    {
-      "basename": "Express Sessions",
-      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/Express Sessions.md"
-    },
-    {
-      "basename": "Kanban Temporal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-    },
-    {
-      "basename": "Horario",
-      "path": "3. Complementos/Organizacion/Personal/Horario.md"
-    },
-    {
       "basename": "DOCKER 1",
       "path": "DOCKER 1.md"
     },
@@ -67,138 +195,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
-      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
-    },
-    {
-      "basename": "4. UseContext 2024-09-05 11.26.06.excalidraw",
-      "path": "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md"
-    },
-    {
-      "basename": "Kanban Principal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Principal.md"
-    },
-    {
-      "basename": "1. Que es un Contexto - Create Context - UseContext",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md"
-    },
-    {
-      "basename": "1. Reglas de TypeScript",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md"
-    },
-    {
-      "basename": "3. Tipos de datos en las estructuras",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/3. TypeScript/3. Tipos de datos en las estructuras.md"
-    },
-    {
-      "basename": "1. OneLinners",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md"
-    },
-    {
-      "basename": "pwnhash",
-      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md"
-    },
-    {
-      "basename": "CifradoAsimetrico.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md"
-    },
-    {
-      "basename": "autenticacion.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md"
-    },
-    {
-      "basename": "4. Delete",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/4. Delete.md"
-    },
-    {
-      "basename": "5. Upsert",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/5. Upsert.md"
-    },
-    {
-      "basename": "2. Read (Select)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/2. Read (Select).md"
-    },
-    {
-      "basename": "1. Create (Insert)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/1. Create (Insert).md"
-    },
-    {
-      "basename": "1. DTO (Data transfer Object)",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md"
-    },
-    {
-      "basename": "4. Manejo de Errores y validaciones en WebSockets",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/4. Manejo de Errores y validaciones en WebSockets.md"
-    },
-    {
-      "basename": "6. Obligar a un usuario a pasar por un evento",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/6. Obligar a un usuario a pasar por un evento.md"
-    },
-    {
-      "basename": "2. Configuracion e instalacion",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/2. Configuracion e instalacion.md"
-    },
-    {
-      "basename": "1. ¿Que son los CORS del navegador?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/7. CORS/1. ¿Que son los CORS del navegador?.md"
-    },
-    {
-      "basename": "1. ¿Que son los Json Web Tokens?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/2. Login/1. ¿Que son los Json Web Tokens?.md"
-    },
-    {
-      "basename": "1. Crear un Register",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/3. Autenticacion en Nest JS/1. Register/1. Crear un Register.md"
-    },
-    {
-      "basename": "2. Node Fetch",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
-    },
-    {
-      "basename": "1. Axios",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/5. Peticiones HTTP/1. Axios.md"
-    },
-    {
-      "basename": "1. Que son los web sockets?",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/1. Que son los web sockets?.md"
-    },
-    {
-      "basename": "3. Web Sockets en Nest JS",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/3. Web Sockets en Nest JS.md"
-    },
-    {
-      "basename": "3. Update",
-      "path": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/4. CRUD/3. Update.md"
-    },
-    {
-      "basename": "1. Data Visualization",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/4. Data Visualization/1. Data Visualization.md"
-    },
-    {
-      "basename": "1. Metodos de Limpieza de Datos con Pandas.",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md"
-    },
-    {
-      "basename": "2. Extracccion de Informacion con Pandas",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md"
-    },
-    {
-      "basename": "3. Manipulacion de Datos",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/1. Data Extraction/CSV con Pandas/3. Manipulacion de Datos.md"
-    },
-    {
-      "basename": "1. Creacion de un Archivo CSV",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md"
-    },
-    {
-      "basename": "2. Casos de Reduccion de Codigo",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/2. Casos de Reduccion de Codigo.md"
-    },
-    {
-      "basename": "3. Clean Code en Python",
-      "path": "2. Desarrollo/PROGRAMACION/Python/Python/2. Refactorizacion de Codigo y Codigo Eficiente/3. Clean Code en Python.md"
     }
   ],
   "omittedPaths": []
