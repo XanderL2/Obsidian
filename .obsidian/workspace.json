@@ -4,31 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "bebb0c5bcd7121d8",
+        "id": "4238658b924b8603",
         "type": "tabs",
         "children": [
           {
-            "id": "d47fe0261cd8dc7a",
+            "id": "fa35c83dc0c0bc41",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "9a767678680dd31e",
+            "id": "22e7b3fb2ab7564e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+                "file": "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "099b80e31803045c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5004348754883,
-    "collapsed": true
+    "width": 307.5004348754883
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md"
               }
             }
           },
@@ -230,46 +242,46 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "9a767678680dd31e",
+  "active": "fa35c83dc0c0bc41",
   "lastOpenFiles": [
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/8. Uso Basico en una Arquitectura de Mensajes.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos relacionales.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
+    "2. Desarrollo/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "DOCKER 1.md",
+    "TAILWIND CSS.md",
+    "README.md",
+    "Prisma ORM.md",
+    "6. Images/Pasted Image 20240917113017_221.png",
+    "6. Images/Pasted Image 20240916190354_326.png",
+    "6. Images/Pasted Image 20240916190307_121.png",
+    "Pasted Image 20240917113017_221.png",
+    "Pasted Image 20240916190354_326.png",
+    "Pasted Image 20240916190307_121.png",
     "6. Images/Pasted Image 20240916184158_574.png",
     "6. Images/Pasted Image 20240916183852_775.png",
     "6. Images/Pasted Image 20240916183448_395.png",
     "6. Images/Pasted Image 20240915174446_854.png",
-    "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md",
-    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
-    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
-    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "Pasted Image 20240916184158_574.png",
-    "Pasted Image 20240916183852_775.png",
-    "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/8. Uso Basico en una Arquitectura de Mensajes.md",
-    "Pasted Image 20240916183448_395.png",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/pwnhash.md",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/Express Sessions.md",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/CifradoAsimetrico.excalidraw.md",
-    "5. Diagramas/Diagramas Academicos/Autenticacion/autenticacion.excalidraw.md",
-    "5. Diagramas/Diagramas Academicos/Programacion/Herencia.md",
-    "5. Diagramas/Diagramas Academicos/UML/diagramaSecuencialEjemplo.excalidraw.md",
-    "5. Diagramas/Diagramas Academicos/UML/comidaCasoUso.excalidraw.md",
-    "Pasted Image 20240915174446_854.png",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Testing/Testing con Jest JS/2. N.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/4. Documentacion de Rutas Protegidas/1. Documentar rutas Protegidas.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/6 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md",
-    "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md",
-    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
-    "2. Desarrollo/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md",
-    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-16 16.24.14.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards/1. ¿Que son los Guards?.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/DEV-OPS",
-    "6. Images/Pasted Image 20240915165224_075.png",
-    "Pasted Image 20240915165224_075.png",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
-    "6. Images/Pasted Image 20240913093515_730.png",
     "5. Diagramas/Diagramas Academicos/Stack",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router",
