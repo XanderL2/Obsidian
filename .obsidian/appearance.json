@@ -1,8 +1,8 @@
 {
   "accentColor": "#6600ff",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian",
+  "theme": "system",
   "nativeMenus": false,
   "textFontFamily": "Noto Sans",
   "baseFontSizeAction": true,

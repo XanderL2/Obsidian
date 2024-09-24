@@ -4,44 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4238658b924b8603",
+        "id": "22f957814e85bad8",
         "type": "tabs",
         "children": [
           {
-            "id": "fa35c83dc0c0bc41",
+            "id": "41bcc9b49c03ae31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e7b3fb2ab7564e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "099b80e31803045c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "673d2f4c4054ff5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,22 +46,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba6262b5ef0e65b3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "31d4fa1733a47e66",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "promesas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,12 +75,23 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "02b070d6a49dcd26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 307.5004348754883
+    "width": 385.5086555480957
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -108,7 +100,6 @@
       {
         "id": "c50bf46a7f04ccc2",
         "type": "tabs",
-        "dimension": 47.26027397260273,
         "children": [
           {
             "id": "e13811f1f3d4e8f1",
@@ -116,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md"
+                "file": "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md"
               }
             }
           },
@@ -167,7 +158,7 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               }
             }
@@ -205,26 +196,11 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "21ad219e1d43d5d9",
-        "type": "tabs",
-        "dimension": 52.73972602739727,
-        "children": [
-          {
-            "id": "691d9da870da3d53",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
+    "width": 355.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,37 +215,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fa35c83dc0c0bc41",
+  "active": "673d2f4c4054ff5d",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Conexiones a bases de datos no relacionales.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/2. SpreadOperator en Objetos.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/2. For In.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadore.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/1. Tipos de Datos y Variables.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/3. Configurar Prisma para consultas.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/2. Creacion de Tablas/1. Creacion de Tablas en Prisma.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/8. Web Sockets/8. Uso Basico en una Arquitectura de Mensajes.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/2. Conexiones a bases de datos relacionales.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/5. Prisma ORM/1. Introduccion/1. ¿Que es Prisma?.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/5. Pipes/1. ¿Que son los Pipes?.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
-    "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/GIT Y GITHUB/10. Estandarizaciones.md",
-    "2. Desarrollo/PROGRAMACION/Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "DOCKER 1.md",
-    "TAILWIND CSS.md",
-    "README.md",
-    "Prisma ORM.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/1. Introduccion/1. Que es JavaScript.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/7. Asincronia/1. Promesas.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/7. Asincronia/3. Async - Await (Priorizar Uso) 1.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Datos Complejos/3. Spread Operator (Operador 3 puntos).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/4. One Linners/1. OneLinners.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/6. Foreach.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/5. Do - While.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/4. While.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/3. For Of.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/1. For.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/4. Prisma ORM/3. Consultas/5. Consultas de Agregacion - Group By - Having.md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/2. Backend/4. Prisma ORM/3. Consultas/0. Hacer Consultas SQL Nativas.md",
+    "2. Desarrollo/BASES DATOS/4. ENFOQUE EFICIENTE/1. Enfoque Eficiente (SQL vs NoSQL).md",
+    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/5. Arrays y Dinamizacion/1. Arrays.md",
+    "Untitled Diagram.svg",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
+    "2. Desarrollo/BASES DATOS/4. ENFOQUE EFICIENTE",
+    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/3.",
+    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/2. REST",
+    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION",
     "6. Images/Pasted Image 20240917113017_221.png",
     "6. Images/Pasted Image 20240916190354_326.png",
     "6. Images/Pasted Image 20240916190307_121.png",
@@ -279,22 +265,12 @@
     "6. Images/Pasted Image 20240916184158_574.png",
     "6. Images/Pasted Image 20240916183852_775.png",
     "6. Images/Pasted Image 20240916183448_395.png",
-    "6. Images/Pasted Image 20240915174446_854.png",
-    "2. Desarrollo/HERRAMIENTAS DE DESARROLLO/DEV-OPS",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS",
     "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/2. Creacion de Rutas",
     "5. Diagramas/Diagramas Academicos/Stack",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router/1. Introduccion",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/5. React Router",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/5. Fixeo de Desbordes",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/10. Reutilizacion de UI",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/6. React + Tailwind + TypeScript/4  Estados de los elementos",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/4. React/9. Paquetes UI",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/React + Tailwind + TypeScript/3. Responsive Web Design/Sin nombre",
-    "Sin título.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",
-    "Sin título 1.canvas",
     "Untitled.canvas"
   ]
 }

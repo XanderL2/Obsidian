@@ -1,0 +1,97 @@
+
+---
+## Creacion de Tablas:
+
+- Aspectos a Considerar:
+    
+    - Se debe usar el dato adecuado segun el tamaño que vayamos a guardar.
+    - Cada consulta debe tener un punto y coma al realizarse.
+    - Los nombres de la tabla y los atributos no deben tener espacio ni simbolos especiales.
+    - Considerar la longitud de cada tipo de dato.
+```sql
+CREATE TABLE DEPT(
+ID TINYINT(2) AUTO_INCREMENT PRIMARY KEY, ---AUTOINCREMENTADO Y DEFINIMOS CLAVE PRIMARIA
+
+nombre VARCHAR(14),
+apellido VARCHAR(14)
+);
+```
+    
+## Modificado de Tablas (Alter Table):
+Para modificar las tablas usaremos  la clausula alter table, esta cuenta con algunas propidades, estas pueden ser, agregar una columna, eliminar una columna, modificar el tipo de dato de una columna, etc.
+- **Agregar una nueva Columna (ADD):**
+	
+```sql
+--Para agregar un Campo al Final
+ALTER TABLE nombre_tabla
+ADD nombre_columna tipo_dato;
+
+
+--Para agregar un campo despues de otro.
+ALTER TABLE mi_tabla
+ADD nuevo_campo INT AFTER campo_anterior;
+
+```
+
+-**Eliminar una Columna (DROP COLUMN):**
+Para eliminar una columna usaremos un "DROP COLUMN".
+
+```sql
+ALTER TABLE nombre_tabla
+DROP COLUMN nombre_columna;
+```
+
+- **Mokdificar el tipo de Dato de una Columna (ALTER COLUMN):**
+```sql
+ALTER TABLE nombre_tabla
+MODIFY COLUMN nombre_columna nuevo_tipo_dato;
+```
+
+- **Agregar una Restriccion a una Columna (ADD CONSTRAINT):**
+	 Para agregar una restriccion a una columna usaremos la clausula ADD CONSTRAINT, es importante saber que al momento de crear las tablas debemos insertar las restricciones, es mala practica insertarlas despues.
+	 
+```sql
+ALTER TABLE nombre_tabla
+ADD CONSTRAINT nombre_restriccion CHECK(CONDICION);
+
+--Ejemplo de como agreagar una restriccion
+```
+
+
+
+## Borrar Tablas (Drop Table):
+
+```sql
+DROP TABLE nombre_tabla;
+```
+
+
+## Relacion mediante Clave Foranea:
+
+- Aspectos a Considerar:
+    
+    - El atributo debe definirse antes.
+    - Es importante que el atributo de clave foranea que queremos crear sea del mismo de la tabla que queremos relacionar.
+    - Ademas ambos campos, es decir el de clave foranea y el de clave primaria deben tener las mismas restricciones.
+    - El atributo debe crearse en la misma tabla
+- La estructura la siguiente:
+    
+    ```sql
+    //El atributo ya debe estar definido:
+    
+    FOREIGN KEY (nombreAtributo_Relacion) REFENCES nombreTabla(Clave_Primaria);
+    ```
+    
+- Ejemplo:
+    
+```sql
+CREATE TABLE Pedidos (
+    pedido_id INT PRIMARY KEY,
+    cliente_id INT, --Definicion del atributo
+	
+    FOREIGN KEY (cliente_id) REFERENCES Clientes(cliente_id) --Relacion del atributo
+//Esta Relacionando Cliente ID de esta tabla con el ID de la tabla Clientes. 
+);
+```
+
+	
