@@ -27,7 +27,7 @@
 	- Debido a que **las clases abstractas pueden tener metodos y propiedades ya implementadas las usaremos para definir una base con implementacion de la cual heredaran otras clases.** Sin embargo, **estas deberan tener al menos un contrato, es decir al menos un metodo abstracto. Es por eso que decimos que hara un contrato parcial.**
 	- Por otro lado **las interfaces las usaremos para definir un contrato completo,** es decir que las clases que usen esta interfaz deberan implementar todo de la interfaz.
 	- Debido a esto las interfaces deben ser cortas y muy especificas y las clases abstractas mas generales
-	
+	- Nos interesa de vez en cuando aplicar un contrato cuando **no se puede agregar una implementacion por defecto**. Por ejemplo, en una clase Animal, nos seria muy dificil crear un metodo **makeSound** ya que todos los animales hacen un sonido distinto, entonces por eso es mejor declararlo como abstracto.
 	
 	| **Caracteristica** | **Clase abstracta**                                                                                                  | **Interface**                                                                                                                              |
 	| ------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -110,12 +110,45 @@
 	- Utiliza el bloque `finally` para asegurar que se liberen los recursos, como cerrar el socket.
 
 
+----
+## Reemplazo de Condicionales Anidados:
+
+- **Guard Clauses (Clausulas de Guarda):**
+	 Se basa en primero validar o comprobar la condiciones de error de las mas generales a las mas especificas y luego llevar a cabo el proceso principal. De esta manera simplificariamos el proceso quedandonos con ifs en su gran mayoria de manera eficiente.
+	 ![[Pasted image 20240325190011.png]]
 
 
+- **Hash Table (Tablas de busqueda):**
+	- Se basa en almacenar pares de clave - valor de lo que queremos devolver o accion que queremos tomar. De esta manera evitandonos crear *IFs anidados* o *Switches*.
 
+	```javascript
+	const errorMessages = {
+	  200: 'OK',
+	  404: 'Not Found',
+	  500: 'Internal Server Error',
+	  403: 'Forbidden',
+	  401: 'Unauthorized'
+	};
+	
+	function getErrorMessage(statusCode) {
+	  return errorMessages[statusCode] || 'Unknown Error';
+	}
+	```
 
-
-
+- **Hash Table con Acciones(Tablas de busqueda):**
+	
+	```javascript
+	
+	const actions = {
+	  Monday: () => console.log('Start of the week'),
+	  Wednesday: () => console.log('Midweek'),
+	  Friday: () => console.log('Almost weekend'),
+	  default: () => console.log('Just another day')
+	};
+	
+	const day = 'Tuesday';
+	(actions[day] || actions.default)();  // Ejecuta la función correcta
+	```
 
 ## Uso de Cammel Case:
 
