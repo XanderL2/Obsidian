@@ -4,15 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "521b868f462722db",
+        "id": "cfa5c767fedbe23c",
         "type": "tabs",
         "children": [
           {
-            "id": "4222321ef89928d1",
+            "id": "9f69e438a48c2aed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8fc04627213d9268",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a8731730f63fca19",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "b392af85b2bed327",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
+              }
             }
           }
         ]
@@ -34,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sudo /opt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+              }
             }
           },
           {
@@ -197,56 +233,56 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4222321ef89928d1",
+  "active": "02b070d6a49dcd26",
   "lastOpenFiles": [
+    "6. Images/Pasted image 20241001102019.png",
+    "6. Images/Pasted Image 20241005150640_081.png",
+    "6. Images/Pasted Image 20241005144433_538.png",
+    "6. Images/Pasted Image 20241005144308_903.png",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion/1. Que es Apache.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2..md",
+    "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
+    "Pasted Image 20241005150640_081.png",
+    "Pasted Image 20241005144433_538.png",
+    "Pasted Image 20241005144308_903.png",
+    "Pasted image 20241001102019.png",
+    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md",
+    "5. Diagramas/Diagramas Academicos/SQL/privilegiosRutina.excalidraw.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/10. Positions (Todos).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/9. Pseudoclases mas usadas (Eventos).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/8. Box Model.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/7. FONDOS (Backgrounds).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/6. Colores (Solidos, RGB, RGBA y Hexadecimales).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/5. Unidades de Medidas en CSS.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/11. Floats (No sirve).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/13.  Overflows (Tratado de desbordamiento - Personalizacion de la barra).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/12. Z - Index (Capas de Estilos).md",
+    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/2. Plantillas",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/2. Uso de Angular CLI",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/1. Introduccion",
     "6. Images/Pasted Image 20240929165739_021.png",
     "6. Images/Pasted Image 20240929164229_671.png",
     "6. Images/Pasted Image 20240929163331_200.png",
-    "6. Images/Pasted Image 20240929163208_603.png",
-    "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays/2. Metodos de Arrays.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md",
-    "Pasted Image 20240929165739_021.png",
-    "Pasted Image 20240929164229_671.png",
-    "Pasted Image 20240929163331_200.png",
-    "Pasted Image 20240929163208_603.png",
-    "3. Complementos/Youtube/Herramientas.md",
-    "3. Complementos/Freelancing/1. Plataformas.md",
     "3. Complementos/Freelancing",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/4. One Linners/1. OneLinners.md",
     "3. Complementos/Youtube",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/3. Documentacion de DTO/1. DTO (Data transfer Object).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/3. Docuementacion de Params y Queries.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/2. Api Operations y Api Response.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/1. Tags.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/3. TypeScript/3. Tipos de datos Complejos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/3. TypeScript/2. Tipos de Datos Primitivos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/3. TypeScript/1. Reglas de TypeScript.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/3. TypeScript/0. Introduccion.md",
-    "3. Complementos/Organizacion/Personal/Horario.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/1. Intrroduccion/2. Configuracion de  Swagger Principal.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/1. Intrroduccion/1. ¿Que es Swagger? - Instalacion.md",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/x. SubModulos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/Sin nombre",
-    "1. Ciberseguridad/Virtualizacion",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos",
-    "2. Desarrollo/PROGRAMACION/JavaScript/Programacion/1. Frontend/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/5. Arrays",
-    "Untitled Diagram.svg",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "2. Desarrollo/BASES DATOS/4. ENFOQUE EFICIENTE",
-    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/3.",
-    "6. Images/Pasted Image 20240917113017_221.png",
-    "6. Images/Pasted Image 20240916190354_326.png",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
     "2. DesarrolloWeb/PROGRAMACION/Java/Java Orientado a Objetos/Sin título.canvas",
     "5. Excalidraw/Sin título.canvas",

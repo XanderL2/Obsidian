@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiApache",
       "SiFreelancer",
       "FabYoutube",
       "SiAngular",
-      "SiVirtualbox",
-      "LiTable2"
+      "SiVirtualbox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -173,5 +173,6 @@
   "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion": "LiNetwork",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular": "SiAngular",
   "3. Complementos/Youtube": "FabYoutube",
-  "3. Complementos/Freelancing": "SiFreelancer"
+  "3. Complementos/Freelancing": "SiFreelancer",
+  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache": "SiApache"
 }
