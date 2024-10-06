@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "4. Loggin en Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
+    },
+    {
+      "basename": "3. Modulos de Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
+    },
+    {
+      "basename": "2. Directivas",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/2. Directivas.md"
+    },
+    {
+      "basename": "1. Archivos Principales de Configuracion",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md"
+    },
+    {
       "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
       "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+    },
+    {
+      "basename": "1. Tecnologias",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md"
     },
     {
       "basename": "1. Que es Apache",
       "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion/1. Que es Apache.md"
     },
     {
-      "basename": "2.",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2..md"
+      "basename": "1. Modos de Red en VirtualBox",
+      "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
+    },
+    {
+      "basename": "1. Diagramas de Clase",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
+    },
+    {
+      "basename": "3. Clases e iinstancias",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Clases e iinstancias.md"
+    },
+    {
+      "basename": "3. Constructores",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
+    },
+    {
+      "basename": "1. Introduccion a POO",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md"
+    },
+    {
+      "basename": "2. Propiedades y Atributos",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
     },
     {
       "basename": "1. WebSockets",
@@ -27,10 +67,6 @@
     {
       "basename": "privilegiosRutina.excalidraw",
       "path": "5. Diagramas/Diagramas Academicos/SQL/privilegiosRutina.excalidraw.md"
-    },
-    {
-      "basename": "1. Tecnologias",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md"
     },
     {
       "basename": "Kanban Temporal",
@@ -71,10 +107,6 @@
     {
       "basename": "12. Z - Index (Capas de Estilos)",
       "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/12. Z - Index (Capas de Estilos).md"
-    },
-    {
-      "basename": "1. Diagramas de Clase",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
     },
     {
       "basename": "¿Que son los Diagramas UML?",
@@ -167,34 +199,6 @@
     {
       "basename": "7. Sys (Recibir Parametros por Consola)",
       "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md"
-    },
-    {
-      "basename": "1. SSH",
-      "path": "1. Ciberseguridad/Sistemas Operativos/Linux/12 Conexion a Protocolos/1. SSH.md"
-    },
-    {
-      "basename": "1. Directivas",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/2. Plantillas/1. Directivas.md"
-    },
-    {
-      "basename": "3. Estructura Basica de un Componente",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion/3. Estructura Basica de un Componente.md"
-    },
-    {
-      "basename": "2. Eventos Nativos de Componentes",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion/2. Eventos Nativos de Componentes.md"
-    },
-    {
-      "basename": "1. Que es un Componente",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion/1. Que es un Componente.md"
-    },
-    {
-      "basename": "1. Uso de Angular Cli",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/2. Uso de Angular CLI/1. Uso de Angular Cli.md"
-    },
-    {
-      "basename": "1. Que es una SPA",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/1. Introduccion/1. Que es una SPA.md"
     }
   ],
   "omittedPaths": []

@@ -8,22 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f69e438a48c2aed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "8fc04627213d9268",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -122,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
               }
             }
           },
@@ -235,15 +227,26 @@
   },
   "active": "02b070d6a49dcd26",
   "lastOpenFiles": [
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/2. Directivas.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md",
+    "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion/1. Que es Apache.md",
+    "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md",
+    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Clases e iinstancias.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2..md",
     "6. Images/Pasted image 20241001102019.png",
     "6. Images/Pasted Image 20241005150640_081.png",
     "6. Images/Pasted Image 20241005144433_538.png",
     "6. Images/Pasted Image 20241005144308_903.png",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion/1. Que es Apache.md",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2..md",
-    "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
     "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
     "Pasted Image 20241005150640_081.png",
     "Pasted Image 20241005144433_538.png",
@@ -252,7 +255,6 @@
     "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
     "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md",
     "5. Diagramas/Diagramas Academicos/SQL/privilegiosRutina.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2.md",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
@@ -262,15 +264,6 @@
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/7. FONDOS (Backgrounds).md",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/6. Colores (Solidos, RGB, RGBA y Hexadecimales).md",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/5. Unidades de Medidas en CSS.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/11. Floats (No sirve).md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/13.  Overflows (Tratado de desbordamiento - Personalizacion de la barra).md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/12. Z - Index (Capas de Estilos).md",
-    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/2. Plantillas",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes",
@@ -278,7 +271,6 @@
     "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/1. Introduccion",
     "6. Images/Pasted Image 20240929165739_021.png",
     "6. Images/Pasted Image 20240929164229_671.png",
-    "6. Images/Pasted Image 20240929163331_200.png",
     "3. Complementos/Freelancing",
     "3. Complementos/Youtube",
     "Sin título.canvas",
