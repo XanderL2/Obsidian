@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiUbuntu",
+      "TiAirTrafficControl",
       "SiApache",
       "SiFreelancer",
-      "FabYoutube",
-      "SiAngular",
-      "SiVirtualbox"
+      "FabYoutube"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -174,5 +174,6 @@
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular": "SiAngular",
   "3. Complementos/Youtube": "FabYoutube",
   "3. Complementos/Freelancing": "SiFreelancer",
-  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache": "SiApache"
+  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache": "SiApache",
+  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion": "SiUbuntu"
 }

@@ -1,32 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "4. Loggin en Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
-    },
-    {
-      "basename": "3. Modulos de Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
-    },
-    {
       "basename": "2. Directivas",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/2. Directivas.md"
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/2. Directivas.md"
     },
     {
       "basename": "1. Archivos Principales de Configuracion",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md"
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md"
     },
     {
-      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
-      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+      "basename": "3. Modulos de Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
+    },
+    {
+      "basename": "1. Que es un VPS",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/1. Que es un VPS.md"
     },
     {
       "basename": "1. Tecnologias",
       "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md"
     },
     {
+      "basename": "X. Shared Hosting - VPS - Dedicated Hosting vs Cloud",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/X. Shared Hosting - VPS - Dedicated Hosting vs Cloud.md"
+    },
+    {
+      "basename": "4. Loggin en Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
+    },
+    {
+      "basename": "1. WebSockets",
+      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+    },
+    {
+      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
+      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+    },
+    {
+      "basename": "1. Nextlify - Pipper",
+      "path": "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md"
+    },
+    {
+      "basename": "Untitled Kanban",
+      "path": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
+    },
+    {
+      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+    },
+    {
       "basename": "1. Que es Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/Apache/1. Introduccion/1. Que es Apache.md"
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
     },
     {
       "basename": "1. Modos de Red en VirtualBox",
@@ -51,14 +79,6 @@
     {
       "basename": "2. Propiedades y Atributos",
       "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
-    },
-    {
-      "basename": "1. WebSockets",
-      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
-    },
-    {
-      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
     },
     {
       "basename": "Drawing 2024-09-03 17.58.08.excalidraw",
@@ -179,26 +199,6 @@
     {
       "basename": "1. Promesas",
       "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/7. Asincronia/1. Promesas.md"
-    },
-    {
-      "basename": "2. Funciones Anonimas y Arrow Functions",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md"
-    },
-    {
-      "basename": "1. Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md"
-    },
-    {
-      "basename": "1. Inyeccion de Dependencias (DI)",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/4. Patrones de Diseño/1. Inyeccion de Dependencias (DI).md"
-    },
-    {
-      "basename": "8. PyAutogui (Teclado, Mouse y Eventos)",
-      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md"
-    },
-    {
-      "basename": "7. Sys (Recibir Parametros por Consola)",
-      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md"
     }
   ],
   "omittedPaths": []
