@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "1. Objetos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md"
+    },
+    {
+      "basename": "2. Igualdad y Clonacion de Objetos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/2. Igualdad y Clonacion de Objetos.md"
+    },
+    {
+      "basename": "3. Garbage Collector",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md"
+    },
+    {
+      "basename": "4. SpreadOperator en Objetos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md"
+    },
+    {
+      "basename": "1. Arquitectura del proyecto",
+      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+    },
+    {
+      "basename": "1. WebSockets",
+      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+    },
+    {
+      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
+      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox",
+      "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
+    },
+    {
+      "basename": "1. Que es Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
+    },
+    {
+      "basename": "3. Modulos de Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
+    },
+    {
       "basename": "2. Directivas",
       "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/2. Directivas.md"
     },
@@ -9,8 +57,28 @@
       "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md"
     },
     {
-      "basename": "3. Modulos de Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
+      "basename": "2. Envio de Mensajes",
+      "path": "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md"
+    },
+    {
+      "basename": "4. Loggin en Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw.md"
     },
     {
       "basename": "1. Que es un VPS",
@@ -25,40 +93,12 @@
       "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/X. Shared Hosting - VPS - Dedicated Hosting vs Cloud.md"
     },
     {
-      "basename": "4. Loggin en Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
-    },
-    {
-      "basename": "1. WebSockets",
-      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
-    },
-    {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-    },
-    {
-      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
-      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
-    },
-    {
       "basename": "1. Nextlify - Pipper",
       "path": "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md"
     },
     {
       "basename": "Untitled Kanban",
       "path": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
-    },
-    {
-      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
-    },
-    {
-      "basename": "1. Que es Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox",
-      "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
     },
     {
       "basename": "1. Diagramas de Clase",
@@ -141,14 +181,6 @@
       "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
     },
     {
-      "basename": "3. Garbage Collector",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md"
-    },
-    {
-      "basename": "4. SpreadOperator en Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md"
-    },
-    {
       "basename": "6. Conexiones a Bases de Datos",
       "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/18. Gestion de Usuarios y Permisos/6. Conexiones a Bases de Datos.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "7. Anonimizacion",
       "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/7. Anonimizacion.md"
-    },
-    {
-      "basename": "5. Encriptacion",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/5. Encriptacion.md"
-    },
-    {
-      "basename": "4. Autenticacion",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/4. Autenticacion.md"
-    },
-    {
-      "basename": "3. Cuotas (Limitaciones por usuario)",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/3. Cuotas (Limitaciones por usuario).md"
-    },
-    {
-      "basename": "2. Proteccion de una Base de Datos",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/2. Proteccion de una Base de Datos.md"
-    },
-    {
-      "basename": "1. Seguridad de la informacion",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/1. Seguridad de la informacion.md"
-    },
-    {
-      "basename": "10. Estandarizaciones",
-      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
-    },
-    {
-      "basename": "2. Igualdad y Clonacion de Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/2. Igualdad y Clonacion de Objetos.md"
-    },
-    {
-      "basename": "1. Promesas",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/7. Asincronia/1. Promesas.md"
     }
   ],
   "omittedPaths": []
