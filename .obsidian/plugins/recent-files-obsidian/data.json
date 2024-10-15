@@ -1,164 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "1. Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md"
+      "basename": "1. JSONs",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md"
     },
     {
-      "basename": "2. Igualdad y Clonacion de Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/2. Igualdad y Clonacion de Objetos.md"
+      "basename": "1. Trabajar con Fechas",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas/1. Trabajar con Fechas.md"
     },
     {
-      "basename": "3. Garbage Collector",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md"
+      "basename": "2. Redondeo de Numeros",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/2. Redondeo de Numeros.md"
     },
     {
-      "basename": "4. SpreadOperator en Objetos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md"
+      "basename": "1. Numbers",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/1. Numbers.md"
     },
     {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
+      "basename": "2. Metodos y Propiedades de Strings",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/2. Metodos y Propiedades de Strings.md"
     },
     {
-      "basename": "1. WebSockets",
-      "path": "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md"
+      "basename": "1. Datos Primitivos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/1. Datos Primitivos.md"
     },
     {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md"
+      "basename": "1. Datos Primitivos 2024-10-13 17.12.50.excalidraw",
+      "path": "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md"
     },
     {
-      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+      "basename": "8. Control de Versiones",
+      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/8. Control de Versiones.md"
     },
     {
-      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
-      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox",
-      "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
-    },
-    {
-      "basename": "1. Que es Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
-    },
-    {
-      "basename": "3. Modulos de Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md"
-    },
-    {
-      "basename": "2. Directivas",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/2. Directivas.md"
-    },
-    {
-      "basename": "1. Archivos Principales de Configuracion",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md"
-    },
-    {
-      "basename": "2. Envio de Mensajes",
-      "path": "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md"
-    },
-    {
-      "basename": "4. Loggin en Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw.md"
-    },
-    {
-      "basename": "1. Que es un VPS",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/1. Que es un VPS.md"
-    },
-    {
-      "basename": "1. Tecnologias",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md"
-    },
-    {
-      "basename": "X. Shared Hosting - VPS - Dedicated Hosting vs Cloud",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/X. Shared Hosting - VPS - Dedicated Hosting vs Cloud.md"
-    },
-    {
-      "basename": "1. Nextlify - Pipper",
-      "path": "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md"
-    },
-    {
-      "basename": "1. Diagramas de Clase",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
-    },
-    {
-      "basename": "3. Clases e iinstancias",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Clases e iinstancias.md"
-    },
-    {
-      "basename": "3. Constructores",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
-    },
-    {
-      "basename": "1. Introduccion a POO",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md"
-    },
-    {
-      "basename": "2. Propiedades y Atributos",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
-    },
-    {
-      "basename": "Drawing 2024-09-03 17.58.08.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/React/Drawing 2024-09-03 17.58.08.excalidraw.md"
-    },
-    {
-      "basename": "privilegiosRutina.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/SQL/privilegiosRutina.excalidraw.md"
+      "basename": "Programacion Principios",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
     },
     {
       "basename": "Kanban Temporal",
       "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
     },
     {
+      "basename": "Sin título",
+      "path": "Sin título.md"
+    },
+    {
+      "basename": "8. Objeto Request (Metodos Post y Get)",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/8. Objeto Request (Metodos Post y Get).md"
+    },
+    {
+      "basename": "6. CSS con Flask",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/6. CSS con Flask.md"
+    },
+    {
+      "basename": "7. Protocolo y Metodos HTTPS",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/7. Protocolo y Metodos HTTPS.md"
+    },
+    {
+      "basename": "5. Url_For (Enrutado comun de Flask)",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. Url_For (Enrutado comun de Flask).md"
+    },
+    {
+      "basename": "5. HTML Dinamico con Flask (Estructuras de Control en Flask)",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md"
+    },
+    {
+      "basename": "7. Etiquetas Semanticas (Span, Div, Etc)",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache/1. Servidores Virtuales en Apache.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md"
+    },
+    {
+      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
+      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+    },
+    {
+      "basename": "1. Que es Apache",
+      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
+    },
+    {
+      "basename": "3. Enrutado en Flask",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/3. Enrutado en Flask.md"
+    },
+    {
+      "basename": "17. Paquetes",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/17. Paquetes.md"
+    },
+    {
+      "basename": "7. Bucle For",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/7. Bucle For.md"
+    },
+    {
+      "basename": "7. Estructura de Proyectos recomendada",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md"
+    },
+    {
+      "basename": "1. Metodos de Limpieza de Datos con Pandas.",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md"
+    },
+    {
+      "basename": "2. Extracccion de Informacion con Pandas",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md"
+    },
+    {
+      "basename": "1. Creacion de un Archivo CSV",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md"
+    },
+    {
+      "basename": "Horario",
+      "path": "3. Complementos/Organizacion/Personal/Horario.md"
+    },
+    {
+      "basename": "10. Estandarizaciones",
+      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
+    },
+    {
+      "basename": "19. Listas Dinamicas (Lists)",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md"
+    },
+    {
+      "basename": "2. Base (Super) - Referencia a Superclases",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md"
+    },
+    {
+      "basename": "1. Concepto",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md"
+    },
+    {
       "basename": "10. Positions (Todos)",
       "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/10. Positions (Todos).md"
     },
     {
-      "basename": "9. Pseudoclases mas usadas (Eventos)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/9. Pseudoclases mas usadas (Eventos).md"
+      "basename": "1. Diagramas de Clase",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
     },
     {
-      "basename": "8. Box Model",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/8. Box Model.md"
+      "basename": "¿Que son los Diagramas UML?",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md"
     },
     {
-      "basename": "7. FONDOS (Backgrounds)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/7. FONDOS (Backgrounds).md"
+      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
+      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
     },
     {
-      "basename": "6. Colores (Solidos, RGB, RGBA y Hexadecimales)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/6. Colores (Solidos, RGB, RGBA y Hexadecimales).md"
+      "basename": "3. Links e Imagenes",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/3. Links e Imagenes.md"
     },
     {
-      "basename": "5. Unidades de Medidas en CSS",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/5. Unidades de Medidas en CSS.md"
+      "basename": "1. ¿Que es HTML? Estructura Basica",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/1. ¿Que es HTML? Estructura Basica.md"
     },
     {
-      "basename": "11. Floats (No sirve)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/11. Floats (No sirve).md"
+      "basename": "2. Headers, Parrafos, Listas y Tablas",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md"
+    },
+    {
+      "basename": "Utilidades.",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/Utilidades..md"
+    },
+    {
+      "basename": "19. Media Queries",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/19. Media Queries.md"
+    },
+    {
+      "basename": "17. FLEXBOX (Responsive Web Design)",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/17. FLEXBOX (Responsive Web Design).md"
+    },
+    {
+      "basename": "16. Uso del Height Mala practica",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/16. Uso del Height Mala practica.md"
+    },
+    {
+      "basename": "15. Max-Min Height y Width (Importante)",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/15. Max-Min Height y Width (Importante).md"
+    },
+    {
+      "basename": "14. ¿Que es la Adaptabilidad y Responsive?",
+      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/14. ¿Que es la Adaptabilidad y Responsive?.md"
     },
     {
       "basename": "13.  Overflows (Tratado de desbordamiento - Personalizacion de la barra)",
@@ -167,38 +199,6 @@
     {
       "basename": "12. Z - Index (Capas de Estilos)",
       "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/12. Z - Index (Capas de Estilos).md"
-    },
-    {
-      "basename": "¿Que son los Diagramas UML?",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md"
-    },
-    {
-      "basename": "19. Listas Dinamicas (Lists)",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md"
-    },
-    {
-      "basename": "Programacion Principios",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
-    },
-    {
-      "basename": "6. Conexiones a Bases de Datos",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/18. Gestion de Usuarios y Permisos/6. Conexiones a Bases de Datos.md"
-    },
-    {
-      "basename": "4. Ejecucion de un Procedimiento Almacenado",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/20. Procedimientos Almacenados/4. Ejecucion de un Procedimiento Almacenado.md"
-    },
-    {
-      "basename": "6. Auditoria y registros de Actividad (Logs)",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/6. Auditoria y registros de Actividad (Logs).md"
-    },
-    {
-      "basename": "8. Copias de Seguridad y Restauracion de Datos",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/8. Copias de Seguridad y Restauracion de Datos.md"
-    },
-    {
-      "basename": "7. Anonimizacion",
-      "path": "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/19. Seguridad en Bases de Datos/7. Anonimizacion.md"
     }
   ],
   "omittedPaths": []

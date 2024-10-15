@@ -2,13 +2,12 @@
 ---
 
 ````markdown
-# Encabezados
+# Encabezados 1
 
 ## Encabezado 2
 
 ### Encabezado 3
 
-## Texto en Negrita y Cursiva
 
 **Texto en Negrita**
 
@@ -30,10 +29,6 @@
 
 ![Texto Alternativo](URL de la Imagen)
 
-## Citas
-
-> Esto es una cita.
-
 ## Línea Horizontal
 
 ---
@@ -47,7 +42,11 @@
 ```python
 # Tu código aquí
 print("Hola, mundo!")
+```
 ````
+
+
+
   
 
 

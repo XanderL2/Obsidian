@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa5c767fedbe23c",
+        "id": "b52cbab930e465d2",
         "type": "tabs",
         "children": [
           {
-            "id": "b392af85b2bed327",
+            "id": "46ffa4fe5823f553",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
                 "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "91c592b3cd5cd0c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md"
               }
             }
           }
@@ -48,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sudo /opt",
+                "query": "stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5086555480957
+    "width": 377.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md"
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md"
               }
             }
           },
@@ -193,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,54 +205,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b392af85b2bed327",
+  "active": "02b070d6a49dcd26",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/2. Igualdad y Clonacion de Objetos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/3. Garbage Collector.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/4. SpreadOperator en Objetos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Objetos/1. Objetos.md",
-    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "5. Diagramas/Diagramas Academicos/Protocolos/1. WebSockets.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md",
-    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+    "6. Images/Pasted image 20241015112919.png",
+    "6. Images/Pasted image 20241014093300.png",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas/1. Trabajar con Fechas.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/2. Redondeo de Numeros.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/1. Numbers.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/2. Metodos y Propiedades de Strings.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/1. Datos Primitivos.md",
+    "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
+    "Pasted image 20241015112919.png",
+    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/8. Control de Versiones.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "Pasted image 20241014093300.png",
+    "Sin título.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/8. Objeto Request (Metodos Post y Get).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/6. CSS con Flask.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/7. Protocolo y Metodos HTTPS.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. Url_For (Enrutado comun de Flask).md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md",
+    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache/1. Servidores Virtuales en Apache.md",
+    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md",
+    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md",
     "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
-    "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/3. Modulos de Apache.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/2. Directivas.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/1. Archivos Principales de Configuracion.md",
-    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md",
-    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Flask/3. Enrutado en Flask.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache",
+    "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/17. Paquetes.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos",
+    "Pasted Image 20241008171823_824.png",
+    "Pasted image 20241008171754.png",
     "6. Images/Pasted image 20241007100622.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/1. Que es un VPS.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion/X. Shared Hosting - VPS - Dedicated Hosting vs Cloud.md",
     "Pasted image 20241007100622.png",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion",
-    "3. Complementos/Proyectos/Nextlify/1. Nextlify - Pipper.md",
-    "3. Complementos/Proyectos/Nextlify/Untitled Kanban.md",
-    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
     "6. Images/Pasted image 20241001102019.png",
     "6. Images/Pasted Image 20241005150640_081.png",
     "6. Images/Pasted Image 20241005144433_538.png",
-    "6. Images/Pasted Image 20241005144308_903.png",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion",
-    "Pasted Image 20241005150640_081.png",
-    "Pasted Image 20241005144433_538.png",
-    "Pasted Image 20241005144308_903.png",
-    "Pasted image 20241001102019.png",
     "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/2. Plantillas",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes/1. Intorduccion",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/3. Componentes",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/2. Uso de Angular CLI",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/7. Angular/1. Introduccion",
-    "3. Complementos/Freelancing",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
