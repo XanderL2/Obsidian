@@ -13,10 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "1. Selectores de JS"
+            }
+          },
+          {
+            "id": "37751f94c21aa078",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Temporal"
+            }
+          },
+          {
+            "id": "03224e4fcfdc3e44",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Temporal"
+            }
+          },
+          {
+            "id": "83a446d0fad76ad9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-16 19.42.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-16 19.42.15.excalidraw"
             }
           }
         ]
@@ -38,13 +96,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stack",
+                "query": "codigos de estado",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -52,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           },
           {
@@ -60,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -70,7 +134,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           }
         ],
@@ -78,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5026054382324
+    "width": 442.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -94,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +168,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 1. Selectores de JS"
             }
           },
           {
@@ -111,10 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 1. Selectores de JS"
             }
           },
           {
@@ -125,7 +195,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -134,8 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md"
-              }
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 1. Selectores de JS"
             }
           },
           {
@@ -147,7 +221,9 @@
                 "sortOrder": "frequency",
                 "showSearch": true,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -155,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -163,7 +241,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -171,7 +251,9 @@
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
-              "state": {}
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -179,7 +261,9 @@
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
-              "state": {}
+              "state": {},
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
             }
           }
         ],
@@ -207,52 +291,52 @@
   },
   "active": "02b070d6a49dcd26",
   "lastOpenFiles": [
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos/1. Modificacion de Atributos",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1..md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos/1. Conceptos Previos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/1. DOM (Document Object Model).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/2. BOM (Browser Object Model)",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling/2. Event Handlers (Manejadores de Eventos).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/8. Asincronia/3. Async - Await (Priorizar Uso) 1.md",
+    "3. Complementos/Organizacion/Personal/Horario.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
+    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/2. REST/2. EndPoints y Codigos de Estado.md",
+    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/2. Codigos de Estado.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
+    "5. Diagramas/Proyectos/Hack Cat Labs/2. ArquitecturaProyecto.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/2. Api Operations y Api Response.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos",
     "6. Images/Pasted image 20241015112919.png",
     "6. Images/Pasted image 20241014093300.png",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas/1. Trabajar con Fechas.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/2. Redondeo de Numeros.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/1. Numbers.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/2. Metodos y Propiedades de Strings.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/1. Datos Primitivos.md",
-    "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md",
     "Pasted image 20241015112919.png",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/8. Control de Versiones.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
     "Pasted image 20241014093300.png",
-    "Sin título.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/8. Objeto Request (Metodos Post y Get).md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/6. CSS con Flask.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/7. Protocolo y Metodos HTTPS.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. Url_For (Enrutado comun de Flask).md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md",
-    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache/1. Servidores Virtuales en Apache.md",
-    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md",
-    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md",
-    "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Flask/3. Enrutado en Flask.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache",
-    "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/17. Paquetes.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos",
     "Pasted Image 20241008171823_824.png",
     "Pasted image 20241008171754.png",
     "6. Images/Pasted image 20241007100622.png",
     "Pasted image 20241007100622.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion",
     "6. Images/Pasted image 20241001102019.png",
     "6. Images/Pasted Image 20241005150640_081.png",
-    "6. Images/Pasted Image 20241005144433_538.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",

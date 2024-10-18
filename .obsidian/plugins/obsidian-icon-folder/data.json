@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiUbuntu",
-      "TiAirTrafficControl",
-      "SiApache",
-      "SiFreelancer",
-      "FabYoutube"
+      "BoBxsCalendarEvent",
+      "SiGooglechrome",
+      "CoCalendarEvent",
+      "SiHtml5",
+      "RiHtml5Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -137,7 +137,6 @@
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/7. Middlewares": "TiLayoutAlignMiddle",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/6. Guards": "SiAdguard",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md": "SiVite",
-  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM (Document Object Model)": "TiHealthRecognition",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/3. Orientado a Objetos": "BoBxsObjectsHorizontalCenter",
   "2. Desarrollo/PROGRAMACION/2. Python": "SiPython",
   "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python": "SiPandas",
@@ -175,5 +174,12 @@
   "3. Complementos/Youtube": "FabYoutube",
   "3. Complementos/Freelancing": "SiFreelancer",
   "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache": "SiApache",
-  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion": "SiUbuntu"
+  "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Introduccion": "SiUbuntu",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM": "TiHealthRecognition",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion": "LiBookA",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos": "FasTree",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos": "SiHtml5",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling": "BoBxsCalendarEvent",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(": "SiHtml5",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/2. BOM (Browser Object Model)": "SiGooglechrome"
 }

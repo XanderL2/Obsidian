@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "1. JSONs",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/4. JSON/1. JSONs.md"
+      "basename": "1. Selectores de JS",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md"
     },
     {
-      "basename": "1. Trabajar con Fechas",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/3. Fechas y Horas/1. Trabajar con Fechas.md"
+      "basename": "1.",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1..md"
     },
     {
-      "basename": "2. Redondeo de Numeros",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/2. Redondeo de Numeros.md"
+      "basename": "1. Conceptos Previos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos/1. Conceptos Previos.md"
     },
     {
-      "basename": "1. Numbers",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/1. Numbers.md"
+      "basename": "1. DOM (Document Object Model)",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/1. DOM (Document Object Model).md"
     },
     {
-      "basename": "2. Metodos y Propiedades de Strings",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/2. Metodos y Propiedades de Strings.md"
+      "basename": "2. Event Handlers (Manejadores de Eventos)",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling/2. Event Handlers (Manejadores de Eventos).md"
     },
     {
-      "basename": "1. Datos Primitivos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/1. Manejo de Strings/1. Datos Primitivos.md"
-    },
-    {
-      "basename": "1. Datos Primitivos 2024-10-13 17.12.50.excalidraw",
-      "path": "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md"
-    },
-    {
-      "basename": "8. Control de Versiones",
-      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/8. Control de Versiones.md"
-    },
-    {
-      "basename": "Programacion Principios",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
-    },
-    {
-      "basename": "Kanban Temporal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-    },
-    {
-      "basename": "Sin título",
-      "path": "Sin título.md"
-    },
-    {
-      "basename": "8. Objeto Request (Metodos Post y Get)",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/8. Objeto Request (Metodos Post y Get).md"
-    },
-    {
-      "basename": "6. CSS con Flask",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/6. CSS con Flask.md"
-    },
-    {
-      "basename": "7. Protocolo y Metodos HTTPS",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/7. Protocolo y Metodos HTTPS.md"
-    },
-    {
-      "basename": "5. Url_For (Enrutado comun de Flask)",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. Url_For (Enrutado comun de Flask).md"
-    },
-    {
-      "basename": "5. HTML Dinamico con Flask (Estructuras de Control en Flask)",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/5. HTML Dinamico con Flask (Estructuras de Control en Flask).md"
-    },
-    {
-      "basename": "7. Etiquetas Semanticas (Span, Div, Etc)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/7. Etiquetas Semanticas (Span, Div, Etc).md"
-    },
-    {
-      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw",
-      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw.md"
-    },
-    {
-      "basename": "1. Servidores Virtuales en Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Dominios en Apache/1. Servidores Virtuales en Apache.md"
-    },
-    {
-      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw",
-      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md"
-    },
-    {
-      "basename": "1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw",
-      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md"
-    },
-    {
-      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
-      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
-    },
-    {
-      "basename": "1. Que es Apache",
-      "path": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/1. Introduccion/1. Que es Apache.md"
-    },
-    {
-      "basename": "3. Enrutado en Flask",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Flask/3. Enrutado en Flask.md"
-    },
-    {
-      "basename": "17. Paquetes",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/17. Paquetes.md"
-    },
-    {
-      "basename": "7. Bucle For",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/1. Python Basico/7. Bucle For.md"
-    },
-    {
-      "basename": "7. Estructura de Proyectos recomendada",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md"
-    },
-    {
-      "basename": "1. Metodos de Limpieza de Datos con Pandas.",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/2. Data Cleaning/1. Metodos de Limpieza de Datos con Pandas..md"
-    },
-    {
-      "basename": "2. Extracccion de Informacion con Pandas",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/1. Data Extraction/CSV con Pandas/2. Extracccion de Informacion con Pandas.md"
-    },
-    {
-      "basename": "1. Creacion de un Archivo CSV",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/Big Data con Python/1. Data Extraction/CSV con Pandas/1. Creacion de un Archivo CSV.md"
+      "basename": "3. Async - Await (Priorizar Uso) 1",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/8. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
     },
     {
       "basename": "Horario",
       "path": "3. Complementos/Organizacion/Personal/Horario.md"
     },
     {
-      "basename": "10. Estandarizaciones",
-      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
+      "basename": "Kanban Temporal",
+      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
     },
     {
-      "basename": "19. Listas Dinamicas (Lists)",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md"
+      "basename": "2. Status Code",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md"
     },
     {
-      "basename": "2. Base (Super) - Referencia a Superclases",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md"
+      "basename": "2. Libreria SubProcess",
+      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md"
+    },
+    {
+      "basename": "2. EndPoints y Codigos de Estado",
+      "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/2. REST/2. EndPoints y Codigos de Estado.md"
+    },
+    {
+      "basename": "2. Codigos de Estado",
+      "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/2. Codigos de Estado.md"
+    },
+    {
+      "basename": "1. Node JS",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md"
+    },
+    {
+      "basename": "2. Solicitudes Http con Nest JS",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md"
+    },
+    {
+      "basename": "1. Creacion del Proyecto",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md"
+    },
+    {
+      "basename": "2. Estructura de Directorios",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md"
+    },
+    {
+      "basename": "3. Estructura de Modulos en Nest JS",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md"
+    },
+    {
+      "basename": "4. EsLint Rules",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md"
+    },
+    {
+      "basename": "5. Comandos de Creacion Rapida",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md"
+    },
+    {
+      "basename": "6. Dependencias",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md"
+    },
+    {
+      "basename": "7. Estructura de Proyectos recomendada",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md"
+    },
+    {
+      "basename": "3 Clases e Instancias",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md"
+    },
+    {
+      "basename": "2. ArquitecturaProyecto.excalidraw",
+      "path": "5. Diagramas/Proyectos/Hack Cat Labs/2. ArquitecturaProyecto.excalidraw.md"
+    },
+    {
+      "basename": "2. Api Operations y Api Response",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/2. Api Operations y Api Response.md"
+    },
+    {
+      "basename": "1. Tipos de Respuestas (Archivos, imagenes, etc)",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md"
+    },
+    {
+      "basename": "1. Protocolo HTTP y HTTPS",
+      "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/1. Protocolo HTTP y HTTPS.md"
+    },
+    {
+      "basename": "1. Callbacks (Llamar cuando regreses)",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md"
+    },
+    {
+      "basename": "0. Partes del Response",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md"
     },
     {
       "basename": "1. Concepto",
       "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md"
     },
     {
-      "basename": "10. Positions (Todos)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/10. Positions (Todos).md"
+      "basename": "2. Base (Super) - Referencia a Superclases",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Base (Super) - Referencia a Superclases.md"
     },
     {
-      "basename": "1. Diagramas de Clase",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
+      "basename": "3. Sobrescritura de metodos - Virtual y Override",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/3. Sobrescritura de metodos - Virtual y Override.md"
     },
     {
-      "basename": "¿Que son los Diagramas UML?",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md"
+      "basename": "4. Principio de Sustitucion de Liskov",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Principio de Sustitucion de Liskov.md"
     },
     {
-      "basename": "Drawing 2024-09-13 08.36.53.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md"
+      "basename": "4. Sobrecarga de constructores",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md"
     },
     {
-      "basename": "3. Links e Imagenes",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/3. Links e Imagenes.md"
+      "basename": "3. Constructores",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
     },
     {
-      "basename": "1. ¿Que es HTML? Estructura Basica",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/1. ¿Que es HTML? Estructura Basica.md"
+      "basename": "Programacion Principios",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
     },
     {
-      "basename": "2. Headers, Parrafos, Listas y Tablas",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md"
+      "basename": "10. Estandarizaciones",
+      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
     },
     {
-      "basename": "Utilidades.",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/Utilidades..md"
+      "basename": "1. Promesas",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/8. Asincronia/1. Promesas.md"
     },
     {
-      "basename": "19. Media Queries",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/19. Media Queries.md"
+      "basename": "1. Arrays",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/7. Arrays/1. Arrays.md"
     },
     {
-      "basename": "17. FLEXBOX (Responsive Web Design)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/17. FLEXBOX (Responsive Web Design).md"
+      "basename": "1. Objetos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/5. Objetos/1. Objetos.md"
     },
     {
-      "basename": "16. Uso del Height Mala practica",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/16. Uso del Height Mala practica.md"
+      "basename": "2. Funciones Anonimas y Arrow Functions",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/2. Funciones Anonimas y Arrow Functions.md"
     },
     {
-      "basename": "15. Max-Min Height y Width (Importante)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/15. Max-Min Height y Width (Importante).md"
+      "basename": "1. Funciones Declaradas (Normales)",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/4. Funciones/1. Funciones Declaradas (Normales).md"
     },
     {
-      "basename": "14. ¿Que es la Adaptabilidad y Responsive?",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/14. ¿Que es la Adaptabilidad y Responsive?.md"
+      "basename": "6. Foreach",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/6. Foreach.md"
     },
     {
-      "basename": "13.  Overflows (Tratado de desbordamiento - Personalizacion de la barra)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/13.  Overflows (Tratado de desbordamiento - Personalizacion de la barra).md"
+      "basename": "5. Do - While",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/5. Do - While.md"
     },
     {
-      "basename": "12. Z - Index (Capas de Estilos)",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/CSS/12. Z - Index (Capas de Estilos).md"
+      "basename": "4. While",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/4. While.md"
+    },
+    {
+      "basename": "3. For Of",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/3. For Of.md"
+    },
+    {
+      "basename": "2. For In",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/2, Bucles/2. For In.md"
+    },
+    {
+      "basename": "2. Switch - Case",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/2. Switch - Case.md"
+    },
+    {
+      "basename": "1. If - Else",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/3. Estructuras de Control/1. Condicionales/1. If - Else.md"
+    },
+    {
+      "basename": "3. Operadores",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/3. Operadores.md"
+    },
+    {
+      "basename": "2. Operadores",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/2. Variables y Tipos de Datos/2. Operadores.md"
     }
   ],
   "omittedPaths": []
