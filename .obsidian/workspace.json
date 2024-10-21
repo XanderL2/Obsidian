@@ -4,77 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b52cbab930e465d2",
+        "id": "a7785011f5c0c979",
         "type": "tabs",
         "children": [
           {
-            "id": "46ffa4fe5823f553",
+            "id": "d75d7c77f9712740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Selectores de JS"
-            }
-          },
-          {
-            "id": "37751f94c21aa078",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    null,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Temporal"
-            }
-          },
-          {
-            "id": "03224e4fcfdc3e44",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    null,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Kanban Temporal"
-            }
-          },
-          {
-            "id": "83a446d0fad76ad9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-16 19.42.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-10-16 19.42.15.excalidraw"
+              "title": "2. Headers, Parrafos, Listas y Tablas"
             }
           }
         ]
@@ -96,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codigos de estado",
+                "query": "markdown sin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
+                "file": "4. Atajos/Markdown Sintax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1. Selectores de JS"
+              "title": "Enlaces entrantes de Markdown Sintax"
             }
           },
           {
@@ -179,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
+                "file": "4. Atajos/Markdown Sintax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 1. Selectores de JS"
+              "title": "Enlaces salientes de Markdown Sintax"
             }
           },
           {
@@ -206,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md"
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1. Selectores de JS"
+              "title": "Esquema de 2. Headers, Parrafos, Listas y Tablas"
             }
           },
           {
@@ -267,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -289,54 +233,54 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "02b070d6a49dcd26",
+  "active": "d75d7c77f9712740",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos/1. Modificacion de Atributos",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1..md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos/1. Conceptos Previos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/1. DOM (Document Object Model).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/2. BOM (Browser Object Model)",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling/2. Event Handlers (Manejadores de Eventos).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Event Handling",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/8. Asincronia/3. Async - Await (Priorizar Uso) 1.md",
-    "3. Complementos/Organizacion/Personal/Horario.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/1. Python/1. Python Basico/1. Variables, Constantes y Tipos de Datos.md",
+    "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md",
+    "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md",
-    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/2. REST/2. EndPoints y Codigos de Estado.md",
-    "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/2. Codigos de Estado.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/1. Node JS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/3. Nest JS/1. Introduccion/7. Estructura de Proyectos recomendada.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/Python/3. Python Orientado a Objetos/1. Conceptos Basicos/3 Clases e Instancias.md",
-    "5. Diagramas/Proyectos/Hack Cat Labs/2. ArquitecturaProyecto.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/5 .Swagger (Documentacion)/2. Documentacion de Controllers/2. Api Operations y Api Response.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos",
+    "3. Complementos/Temas/Temas.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/4. Metodos y Propiedades Static.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/3. Dependencias.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/2. Tailwind vs CSS Puro.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md",
+    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Patrones de Diseño/1. Inyeccion de Dependencias (DI).md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code/Principios y Aplicacion del Clean Code/3. One Liners y Abreviaciones en CSharp.md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Patrones de Diseño",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code/Principios y Aplicacion del Clean Code/2. Principios SOLID.md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code/Refactoring/2. Patrones de Refactoring.md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code/Refactoring/1. Refactorizacion y Codigo Eficiente.md",
+    "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code/Principios y Aplicacion del Clean Code/1. ¿Que es el Clean Code?.md",
+    "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Testing/Testing con Jest JS/2. N.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Testing/Testing con Jest JS/1. Instalacion e Introduccion a Jest JS.md",
+    "TAILWIND CSS.md",
+    "4. Atajos/Virtual Hosting.md",
+    "Excalidraw/Drawing 2024-10-18 16.39.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-16 19.42.15.excalidraw.md",
+    "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md",
+    "6. Images/Pasted image 20241020163416.png",
+    "Pasted image 20241020163416.png",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/0. Introduccion",
+    "6. Images/Pasted image 20241018132648.png",
+    "6. Images/Pasted image 20241018132603.png",
+    "6. Images/Pasted image 20241018120100.png",
+    "6. Images/Pasted image 20241018115849.png",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos/3.",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos/2. Modificacion de Estilos desde JS",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Alterado de Elementos/1. Modificacion de Atributos desde JS",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/2. BOM (Browser Object Model)",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling",
     "6. Images/Pasted image 20241015112919.png",
     "6. Images/Pasted image 20241014093300.png",
     "Pasted image 20241015112919.png",
     "Pasted image 20241014093300.png",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers",
-    "Pasted Image 20241008171823_824.png",
-    "Pasted image 20241008171754.png",
-    "6. Images/Pasted image 20241007100622.png",
-    "Pasted image 20241007100622.png",
-    "6. Images/Pasted image 20241001102019.png",
-    "6. Images/Pasted Image 20241005150640_081.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",

@@ -1,7 +1,6 @@
 [
   "obsidian-importer",
   "obsidian-excalidraw-plugin",
-  "obsidian-icon-folder",
   "dataview",
   "obsidian-file-color",
   "obsidian-outliner",
@@ -17,5 +16,6 @@
   "code-styler",
   "execute-code",
   "highlightr-plugin",
-  "obsidian-mindmap-nextgen"
+  "obsidian-mindmap-nextgen",
+  "obsidian-icon-folder"
 ]
