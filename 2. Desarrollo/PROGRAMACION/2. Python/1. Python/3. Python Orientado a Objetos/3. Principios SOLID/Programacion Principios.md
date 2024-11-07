@@ -1,42 +1,46 @@
 
 ---
-
-
 ## Programacion Orientada a objetos:
-- **Encapsulamiento:**
-	
-	| **Modificador de acceso:** | **Uso general**                                                                                      |
-	| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-	| `Public`                   | Accesible desde cualquier lado                                                                       |
-	| `Protected`                | Accesible solo en las clases derivadas.                                                              |
-	| `Private`                  | Accesible solo en la misma clase.                                                                    |
-	| `Internal`                 | Accesible en todo el proyecto                                                                        |
-	| **Modificador Especial**   | **Uso General:**                                                                                     |
-	| `Static`                   | Significa que para acceder la propiedad o metodo no necesitaremos crear un objeto.                   |
-	| `Abstract`                 | Significa que las clases que hereden se veran en la obligacion de implementar el metodo o propiedad. |
-	| `Virtual`                  | Este modificador se le pone a los metodos que seran sobrescritos posteriormente de la clase padre.   |
-	| `Override`                 | Se usa para decir que vamos a sobrescribir un metodo que esta con el modificador *vritual*           |
+### Encapsulamiento:
 
-- **Herencia**
-	- Se heredan todos los atributos y metodos de la clase padre.
-	- Podremos conservar comportamiento de la clase padre pero sobrescribiendo solo algunos metodos de la clase base con el modificador *override*.
-	- Con la palabra *Super* en otros lenguajes o *Base* en C# podremos hacer referencia a los metodos y propiedades de la clase padre. De esta manera podremos sobrescribirlos y agregar mas logica al metodo.
-- **Polimorfismo:**
-	- Es la accion de que multiples clases tengan los mismos metodos pero estos los implementen de diferente forma. 
-- **Abstraccion**
-	- Debido a que **las clases abstractas pueden tener metodos y propiedades ya implementadas las usaremos para definir una base con implementacion de la cual heredaran otras clases.** Sin embargo, **estas deberan tener al menos un contrato, es decir al menos un metodo abstracto. Es por eso que decimos que hara un contrato parcial.**
-	- Por otro lado **las interfaces las usaremos para definir un contrato completo,** es decir que las clases que usen esta interfaz deberan implementar todo de la interfaz.
-	- Debido a esto las interfaces deben ser cortas y muy especificas y las clases abstractas mas generales
-	- Nos interesa de vez en cuando aplicar un contrato cuando **no se puede agregar una implementacion por defecto**. Por ejemplo, en una clase Animal, nos seria muy dificil crear un metodo **makeSound** ya que todos los animales hacen un sonido distinto, entonces por eso es mejor declararlo como abstracto.
-	
-	| **Caracteristica** | **Clase abstracta**                                                                                                  | **Interface**                                                                                                                              |
-	| ------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-	| `Contrato`         | Contrato parcial, es decir puede tener codigo ya implementado                                                        | Contrato completo, es decir obligara a implentar todos los elementos                                                                       |
-	| `Uso`              | Se usaran como base con implementacion de la cual heredaran otras clases.                                            | Se usaran para obligar a una clase a que implemente un metodo o propiedad                                                                  |
-	| `Recomendaciones`  | Actuara como una Superclase por eso deben ser mas generales. _Ejemplo:_ Figura es superclase de Circulo, y cuadrado. | Deben ser especificas y muy cortas. _Ejemplo:_ Volador (Obligara a implementar el metodo de volar)                                         |
-	| `Definicion`       | Definen un `es`. *Ejemplo:* ¿Que es un cuadrado? Una figura.                                                         | Definen un `¿Que puede hacer?`. *Ejemplo:* ¿Que puede hacer una figura? Puede rotar, entonces implementaremos una interfaz `FiguraRotadora |
-	
-	<br>
+| **Modificador de acceso:** |                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| `Public`                   | Accesible desde cualquier lado                                                                       |
+| `Protected`                | Accesible solo en las clases derivadas.                                                              |
+| `Private`                  | Accesible solo en la misma clase.                                                                    |
+| `Internal`                 | Accesible en todo el proyecto                                                                        |
+| **Modificador Especial**   | **Uso General:**                                                                                     |
+| `Static`                   | Significa que para acceder la propiedad o metodo no necesitaremos crear un objeto.                   |
+| `Abstract`                 | Significa que las clases que hereden se veran en la obligacion de implementar el metodo o propiedad. |
+| `Virtual`                  | Este modificador se le pone a los metodos que seran sobrescritos posteriormente de la clase padre.   |
+| `Override`                 | Se usa para decir que vamos a sobrescribir un metodo que esta con el modificador *vritual*           |
+
+**Consideraciones:**
+ - *Las clases deben ser modificadas solo por Getters, Setters  y Metodos*, nunca por propiedad directa.
+- Si queremos que una propiedad solo sea accedida desde la clase que va a heredar debemos poner en `Protected` sus Getters y Setters 
+- Es recomendable *ocultar logica compleja en una clase*, esto para evitar que directamente el codigo no sobrecomplique. 
+- *Los metodos auxiliares*, es decir, los metodos que se usaran solo dentro de la clase para un proceso en especifico *deben ser privados por buena practica*.
+
+### Herencia:
+- Se heredan todos los atributos y metodos de la clase padre.
+- Podremos conservar comportamiento de la clase padre pero sobrescribiendo solo algunos metodos de la clase base con el modificador *override*.
+- Con la palabra *Super* en otros lenguajes o *Base* en C# podremos hacer referencia a los metodos y propiedades de la clase padre. De esta manera podremos ampliar la logica de los metodo[]()s.
+### Polimorfismo:
+- Es la accion de que multiples clases tengan los mismos metodos pero estos los implementen de diferente forma. 
+
+### Abstraccion
+- Debido a que **las clases abstractas pueden tener metodos y propiedades ya implementadas las usaremos para definir una base con implementacion de la cual heredaran otras clases.** Sin embargo, **estas deberan tener al menos un contrato, es decir al menos un metodo abstracto. Es por eso que decimos que hara un contrato parcial.**
+- Por otro lado **las interfaces las usaremos para definir un contrato completo,** es decir que las clases que usen esta interfaz deberan implementar todo de la interfaz.
+- Debido a esto las interfaces deben ser cortas y muy especificas y las clases abstractas mas generales
+- Nos interesa de vez en cuando aplicar un contrato cuando **no se puede agregar una implementacion por defecto**. Por ejemplo, en una clase Animal, nos seria muy dificil crear un metodo **makeSound** ya que todos los animales hacen un sonido distinto, entonces por eso es mejor declararlo como abstracto.
+
+| **Caracteristica** | **Clase abstracta**                                                                                                  | **Interface**                                                                                                                              |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Contrato`         | Contrato parcial, es decir puede tener codigo ya implementado                                                        | Contrato completo, es decir obligara a implentar todos los elementos                                                                       |
+| `Uso`              | Se usaran como base con implementacion de la cual heredaran otras clases.                                            | Se usaran para obligar a una clase a que implemente un metodo o propiedad                                                                  |
+| `Recomendaciones`  | Actuara como una Superclase por eso deben ser mas generales. _Ejemplo:_ Figura es superclase de Circulo, y cuadrado. | Deben ser especificas y muy cortas. _Ejemplo:_ Volador (Obligara a implementar el metodo de volar)                                         |
+| `Definicion`       | Definen un `es`. *Ejemplo:* ¿Que es un cuadrado? Una figura.                                                         | Definen un `¿Que puede hacer?`. *Ejemplo:* ¿Que puede hacer una figura? Puede rotar, entonces implementaremos una interfaz `FiguraRotadora |
+
 
 -------- 
 ## SOLID:

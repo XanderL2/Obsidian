@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "OcProject16",
-      "IbAcademicBook",
-      "SiTextpattern",
-      "FasCode",
-      "SiDotnet"
+      "SiPhp",
+      "SiCss3",
+      "CoCalendarEvent",
+      "LiBook",
+      "FasChild"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -108,5 +108,14 @@
   "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Clean Code": "FasCode",
   "2. Desarrollo/HERRAMIENTAS/CLEAN CODE/Patrones de Diseño": "SiTextpattern",
   "5. Diagramas/Diagramas Academicos": "IbAcademicBook",
-  "5. Diagramas/Proyectos": "OcProject16"
+  "5. Diagramas/Proyectos": "OcProject16",
+  "2. Desarrollo/PROGRAMACION/3. C-Sharp/4. One Linners.md": "TiStar",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(": "SiHtml5",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/2. BOM (Browser Object Model)": "FabChrome",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/0. Introduccion": "FasPaintRoller",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos": "FasChild",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion": "LiBook",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling": "CoCalendarEvent",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML": "SiCss3",
+  "2. Desarrollo/PROGRAMACION/Php": "SiPhp"
 }

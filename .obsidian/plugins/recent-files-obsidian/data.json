@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Temas",
+      "path": "3. Complementos/Temas/Temas.md"
+    },
+    {
+      "basename": "1. Peticion GET",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/3. Metodos HTTP en Express/1. Peticion GET.md"
+    },
+    {
+      "basename": "MindMapSintax",
+      "path": "4. Atajos/MindMapSintax.md"
+    },
+    {
+      "basename": "Markdown Sintax",
+      "path": "4. Atajos/Markdown Sintax.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "1. Metodologia Cyber Kill Chain (Metodologias de Pentesting)",
+      "path": "1. Ciberseguridad/Hacking Etico/0. Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md"
+    },
+    {
+      "basename": "5. Mermaid Syntax",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/5. Mermaid Syntax.md"
+    },
+    {
+      "basename": "Drawing 2024-10-23 12.18.24.excalidraw",
+      "path": "Excalidraw/Drawing 2024-10-23 12.18.24.excalidraw.md"
+    },
+    {
+      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
+      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md"
+    },
+    {
+      "basename": "Programacion Principios",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
+    },
+    {
+      "basename": "10. Estandarizaciones",
+      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
+    },
+    {
+      "basename": "1. Diagramas de Clase",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
+    },
+    {
       "basename": "2. Headers, Parrafos, Listas y Tablas",
       "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md"
     },
@@ -19,10 +71,6 @@
     {
       "basename": "Kanban Temporal",
       "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-    },
-    {
-      "basename": "Temas",
-      "path": "3. Complementos/Temas/Temas.md"
     },
     {
       "basename": "4. Metodos y Propiedades Static",
@@ -49,24 +97,8 @@
       "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md"
     },
     {
-      "basename": "Markdown Sintax",
-      "path": "4. Atajos/Markdown Sintax.md"
-    },
-    {
       "basename": "2. Propiedades y Atributos",
       "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
-    },
-    {
-      "basename": "10. Estandarizaciones",
-      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
-    },
-    {
-      "basename": "Programacion Principios",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
-    },
-    {
-      "basename": "1. Diagramas de Clase",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
     },
     {
       "basename": "Drawing 2024-10-18 17.01.13.excalidraw",
@@ -167,38 +199,6 @@
     {
       "basename": "2. Codigos de Estado",
       "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/2. Codigos de Estado.md"
-    },
-    {
-      "basename": "1. Node JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/1. Node JS.md"
-    },
-    {
-      "basename": "2. Solicitudes Http con Nest JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/2. Solicitudes Http con Nest JS.md"
-    },
-    {
-      "basename": "1. Creacion del Proyecto",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/1. Creacion del Proyecto.md"
-    },
-    {
-      "basename": "2. Estructura de Directorios",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/2. Estructura de Directorios.md"
-    },
-    {
-      "basename": "3. Estructura de Modulos en Nest JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/3. Estructura de Modulos en Nest JS.md"
-    },
-    {
-      "basename": "4. EsLint Rules",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/4. EsLint Rules.md"
-    },
-    {
-      "basename": "5. Comandos de Creacion Rapida",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/5. Comandos de Creacion Rapida.md"
-    },
-    {
-      "basename": "6. Dependencias",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/6. Dependencias.md"
     }
   ],
   "omittedPaths": []
