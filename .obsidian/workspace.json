@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/2. Create React APP.md",
+                "file": "3. Complementos/Ingles/1. Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Create React APP"
+              "title": "1. Words"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/2. Metodos de Arrays.md",
-                "mode": "source",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/4. Autenticacion y Autorizacion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Metodos de Arrays"
+              "title": "4. Autenticacion y Autorizacion"
             }
           }
         ],
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5026054382324,
-    "collapsed": true
+    "width": 442.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -180,10 +179,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/2. Metodos de Arrays.md"
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/4. Autenticacion y Autorizacion.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. Metodos de Arrays"
+              "title": "Esquema de 4. Autenticacion y Autorizacion"
             }
           },
           {
@@ -265,33 +264,34 @@
   },
   "active": "a109c6a475deb3fa",
   "lastOpenFiles": [
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/5. Directivas para exponer directorios.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/4. Autenticacion y Autorizacion.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/6. Paginas Multiidioma.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/8. Redirecciones.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/3. Configuracion de Servidores Virtuales por IP.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/7. Paginas de Error.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/2. Configuracion de Servidores Virtuales de Dominio.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/1. Servidores Virtuales en Apache.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/2. Configuracion de un Servidor Apache/4. Loggin en Apache.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/2. Metodos de Arrays.md",
+    "3. Complementos/Ingles/1. Words.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/2. Create React APP.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/Php/0. Introduccion/2. Variables.md",
     "2. Desarrollo/PROGRAMACION/Php/2. Datos Complejos",
     "2. Desarrollo/PROGRAMACION/Php/0. Introduccion/Sin título.md",
     "2. Desarrollo/PROGRAMACION/Php/0. Introduccion/1. Introduccion.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/2. Metodos de Arrays.md",
     "2. Desarrollo/PROGRAMACION/Php/0. Introduccion",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/7. Arrays/1. Arrays.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/2. Componentes/4. Props (Parametros de Componentes).md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/2. Componentes/3. JSX Sintax.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/2. Componentes/2. Crear Componentes.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/5. Estructura del Proyecto React.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/x. Dependencias comunes.md",
     "Excalidraw/2. Create React APP 2024-11-05 22.04.33.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/2. Create React APP.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/3. Vite JS + React.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/4. Donde se generara nuestro codigo de React.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. React/1. Introduccion/1. Que es React?.md",
     "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/23. Excepciones (Try - Catch).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/18. Paso por Valor y por Referencia.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/11. Arrays.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/7. Paginas de Error.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/6. Redirecciones.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/5. Paginas Multiidioma.md",
     "2. Desarrollo/PROGRAMACION/Php",
     "Pasted image 20241027121347.png",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/2. Elementos",
