@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "Familias de Nodos en JS 2024-10-26 13.22.01.excalidraw",
+      "path": "Excalidraw/Familias de Nodos en JS 2024-10-26 13.22.01.excalidraw.md"
+    },
+    {
+      "basename": "8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw",
+      "path": "Excalidraw/8. Uso Basico en una Arquitectura de Mensajes 2024-09-15 16.55.07.excalidraw.md"
+    },
+    {
+      "basename": "4. UseContext 2024-09-05 11.26.06.excalidraw",
+      "path": "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md"
+    },
+    {
+      "basename": "2. Create React APP 2024-11-05 22.04.33.excalidraw",
+      "path": "Excalidraw/2. Create React APP 2024-11-05 22.04.33.excalidraw.md"
+    },
+    {
+      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
+      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.21.11.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md"
+    },
+    {
+      "basename": "1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw",
+      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 14.14.51.excalidraw.md"
+    },
+    {
+      "basename": "1. Que es Apache 2024-10-05 14.27.19.excalidraw",
+      "path": "Excalidraw/1. Que es Apache 2024-10-05 14.27.19.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.09.01.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md"
+    },
+    {
+      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw",
+      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md"
+    },
+    {
+      "basename": "1. Datos Primitivos 2024-10-13 17.12.50.excalidraw",
+      "path": "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md"
+    },
+    {
       "basename": "Temas",
       "path": "3. Complementos/Temas/Temas.md"
     },
@@ -29,18 +89,6 @@
       "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/5. Mermaid Syntax.md"
     },
     {
-      "basename": "Drawing 2024-10-23 12.18.24.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-23 12.18.24.excalidraw.md"
-    },
-    {
-      "basename": "1. UI Components Tree 2024-09-03 18.09.07.excalidraw",
-      "path": "Excalidraw/1. UI Components Tree 2024-09-03 18.09.07.excalidraw.md"
-    },
-    {
-      "basename": "1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw",
-      "path": "Excalidraw/1. Servidores Virtuales en Apache 2024-10-12 13.49.00.excalidraw.md"
-    },
-    {
       "basename": "Programacion Principios",
       "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
     },
@@ -63,10 +111,6 @@
     {
       "basename": "1. Modos de Red en VirtualBox",
       "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md"
     },
     {
       "basename": "Kanban Temporal",
@@ -151,55 +195,9 @@
     {
       "basename": "3. Obtencion y Modificacion de Elementos HTML",
       "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/3. Obtencion y Modificacion de Elementos HTML.md"
-    },
-    {
-      "basename": "2. Modificacion de Estilos desde JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Estilos desde JS.md"
-    },
-    {
-      "basename": "1. Modificacion de Atributos desde JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/1. Modificacion de Atributos desde JS.md"
-    },
-    {
-      "basename": "1. Selectores de JS",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md"
-    },
-    {
-      "basename": "1.",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1..md"
-    },
-    {
-      "basename": "1. Conceptos Previos",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/0. Conceptos Previos/1. Conceptos Previos.md"
-    },
-    {
-      "basename": "1. DOM (Document Object Model)",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/1. DOM (Document Object Model).md"
-    },
-    {
-      "basename": "3. Async - Await (Priorizar Uso) 1",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/8. Asincronia/3. Async - Await (Priorizar Uso) 1.md"
-    },
-    {
-      "basename": "Horario",
-      "path": "3. Complementos/Organizacion/Personal/Horario.md"
-    },
-    {
-      "basename": "2. Status Code",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/2. Elementos de los modulos/2. Controllers/4. Objeto Response - Nest/2. Status Code.md"
-    },
-    {
-      "basename": "2. Libreria SubProcess",
-      "path": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/2. Libreria SubProcess.md"
-    },
-    {
-      "basename": "2. EndPoints y Codigos de Estado",
-      "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/2. REST/2. EndPoints y Codigos de Estado.md"
-    },
-    {
-      "basename": "2. Codigos de Estado",
-      "path": "2. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Tipos de Servicios Web/1. INTRODUCCION/2. Codigos de Estado.md"
     }
   ],
-  "omittedPaths": []
+  "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false
 }
