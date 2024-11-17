@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabGithub",
+      "SiGit",
       "SiPhp",
       "SiCss3",
-      "CoCalendarEvent",
-      "LiBook",
-      "FasChild"
+      "CoCalendarEvent"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -117,5 +117,7 @@
   "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion": "LiBook",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling": "CoCalendarEvent",
   "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML": "SiCss3",
-  "2. Desarrollo/PROGRAMACION/Php": "SiPhp"
+  "2. Desarrollo/PROGRAMACION/Php": "SiPhp",
+  "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git": "SiGit",
+  "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/2. Github": "FabGithub"
 }
