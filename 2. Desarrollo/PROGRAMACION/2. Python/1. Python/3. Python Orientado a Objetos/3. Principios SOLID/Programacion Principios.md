@@ -14,7 +14,7 @@
 | `Abstract`                 | Significa que las clases que hereden se veran en la obligacion de implementar el metodo o propiedad. |
 | `Virtual`                  | Este modificador se le pone a los metodos que seran sobrescritos posteriormente de la clase padre.   |
 | `Override`                 | Se usa para decir que vamos a sobrescribir un metodo que esta con el modificador *vritual*           |
-
+⚠️
 **Consideraciones:**
  - *Las clases deben ser modificadas solo por Getters, Setters  y Metodos*, nunca por propiedad directa.
 - Si queremos que una propiedad solo sea accedida desde la clase que va a heredar debemos poner en `Protected` sus Getters y Setters 
