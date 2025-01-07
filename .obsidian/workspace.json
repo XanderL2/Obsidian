@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "db795dfdd015d7dd",
+        "id": "57f32b4535828a36",
         "type": "tabs",
         "children": [
           {
-            "id": "eab7115f5560d924",
+            "id": "4b78f74e8940c729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/9. HTTPs - Conexiones seguras.md",
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/2. FLEXBOX (Responsive Web Design).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. HTTPs - Conexiones seguras"
+              "title": "2. FLEXBOX (Responsive Web Design)"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "csv",
+                "query": "nodemailer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/9. HTTPs - Conexiones seguras.md"
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/2. FLEXBOX (Responsive Web Design).md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de 9. HTTPs - Conexiones seguras"
+              "title": "Esquema de 2. FLEXBOX (Responsive Web Design)"
             }
           },
           {
@@ -176,8 +176,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -233,53 +233,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eab7115f5560d924",
+  "active": "4b78f74e8940c729",
   "lastOpenFiles": [
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/10. Configuracion de Php en un Servidor Apache.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/11. Despliegue de una App Python en Apache2.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/9. HTTPs - Conexiones seguras.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/3. GRID.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/3. Unidades de Medida y Box Model/1. Unidades de Medidas en CSS.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/3. Unidades de Medida y Box Model/2. Box Model.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/2. Variables y Operadores/1. Variables.md",
+    "3. Complementos/Proyectos/Juegos-App/App de ofertas y notifcaciones de Juegos.md",
+    "TAILWIND CSS.md",
+    "README.md",
+    "DOCKER 1.md",
+    "6. Images/Pasted image 20250107141732.png",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/Utilidades..md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/9. Propiedades Utilitarias/1. Z - Index (Capas de Estilos).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/9. Propiedades Utilitarias/2.  Overflows (Tratado de desbordamiento - Personalizacion de la barra).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/2. FLEXBOX (Responsive Web Design).md",
+    "2. Desarrollo/HERRAMIENTAS/Figma/1. Prototipado.md",
+    "2. Desarrollo/HERRAMIENTAS/Estructuras de Proyectos/1. Screaming Architecture.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/6. XML/4. Feeds RSS (Sindicacion de Contenidos).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/6. XML/3. ¿Donde se usa XML?.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/6. XML/2.  DTDS (Reglas de un documento XML).md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/6. XML/1. ¿Que es XML?.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/5. BOOTSTRAP/2. Grid de Bootstrap  y Breakpoints.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/5. BOOTSTRAP/1. Introduccion y Utilizacion de Bootstrap.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/3. Breakpoints.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/2. GRID.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/1. Flex.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/3  Estados de los elementos/1. Pseudoclases.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/3  Estados de los elementos/2. Dark Mode.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/3  Estados de los elementos/5. Group.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/5. Estructuras de Control",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/1. Introduccion/Sin nombre",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/4. Mixins (Funciones)",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/2. Variables y Operadores",
+    "6. Images/Pasted image 20250107113344.png",
+    "6. Images/Pasted image 20250106181308.png",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/9. Propiedades Utilitarias",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/8. Pseudoclases",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/6. Min - Max",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento",
+    "6. Images/Pasted image 20241214170511.png",
     "6. Images/Pasted Image 20241201172403_025.png",
     "6. Images/Pasted Image 20241201172216_006.png",
     "6. Images/Pasted Image 20241201171716_284.png",
     "6. Images/Pasted Image 20241201171113_082.png",
     "6. Images/Pasted Image 20241201171043_013.png",
     "6. Images/Pasted Image 20241201170702_740.png",
-    "6. Images/Pasted Image 20241201170517_696.png",
-    "6. Images/Pasted image 20241129161826.png",
-    "Excalidraw/9. HTTPs - Conexiones seguras 2024-12-01 17.03.51.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/2..md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/8. Redirecciones.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/7. Paginas de Error.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/6. Paginas Multiidioma.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/4. Autenticacion y Autorizacion.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache/3. Configuracion de Servidores Virtuales/5. Directivas para exponer directorios.md",
-    "Pasted Image 20241201172403_025.png",
-    "Pasted Image 20241201172216_006.png",
-    "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md",
-    "Excalidraw/Drawing 2024-11-30 22.21.38.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/1. UML/¿Que son los Diagramas UML?.md",
-    "Excalidraw/0. Conceptos Basicos 2024-11-26 19.36.45.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/8. Asincronia/2. Promesas.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/2. Redondeo de Numeros.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/8. Asincronia/3. Async - Await.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/8. Asincronia/1. Callbacks.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/8. Asincronia/0. Conceptos Basicos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/6. Manejo de Objetos Predefinidos/2. Numbers/1. Numbers.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/3. Ramas y Fusiones/1. Ramas y Fusiones.md",
-    "2. Desarrollo/PROGRAMACION/Php/0. Introduccion/1. Introduccion.md",
-    "Excalidraw/Drawing 2024-11-23 14.12.05.excalidraw.md",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/7. Estandarizaciones",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/6. Flujo de Trabajo Colaborativo",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/4. Trabajo con Repositorios Remotos",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/2. Manejo y Restauracion de Cambios",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/2. Github",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/3. Ramas y Fusiones",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/5. Git Ignore y Readme",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/1. Comandos Basicos",
-    "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/1. Git/0.  Introduccion",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",

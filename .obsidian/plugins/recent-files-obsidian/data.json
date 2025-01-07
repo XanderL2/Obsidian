@@ -1,6 +1,158 @@
 {
   "recentFiles": [
     {
+      "basename": "Kanban Temporal",
+      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
+    },
+    {
+      "basename": "4. Peticiones DELETE",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/2. Peticiones HTTP/4. Peticiones DELETE.md"
+    },
+    {
+      "basename": "3. Peticiones PUT",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/2. Peticiones HTTP/3. Peticiones PUT.md"
+    },
+    {
+      "basename": "2. Peticiones POST",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/2. Peticiones HTTP/2. Peticiones POST.md"
+    },
+    {
+      "basename": "1. Peticiones GET",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/2. Peticiones HTTP/1. Peticiones GET.md"
+    },
+    {
+      "basename": "2. Node Fetch",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/5. Peticiones HTTP/2. Node Fetch.md"
+    },
+    {
+      "basename": "4. SpreadOperator en Objetos",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/5. Objetos/4. SpreadOperator en Objetos.md"
+    },
+    {
+      "basename": "5. Peticiones PATCH",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/2. Peticiones HTTP/5. Peticiones PATCH.md"
+    },
+    {
+      "basename": "1. Fetch API",
+      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/9. Fetch API/1. Introduccion/1. Fetch API.md"
+    },
+    {
+      "basename": "2. Modificadores de acceso",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md"
+    },
+    {
+      "basename": "1. Concepto",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/1. Concepto.md"
+    },
+    {
+      "basename": "5. Principio de Sustitucion de Liskov",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/5. Principio de Sustitucion de Liskov.md"
+    },
+    {
+      "basename": "3. Sobrescritura de metodos - Virtual y Override",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/3. Sobrescritura de metodos - Virtual y Override.md"
+    },
+    {
+      "basename": "2. Propiedades y Atributos",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
+    },
+    {
+      "basename": "Drawing 2024-12-04 15.27.08.excalidraw",
+      "path": "Excalidraw/Drawing 2024-12-04 15.27.08.excalidraw.md"
+    },
+    {
+      "basename": "2. Ejemplo en Codigo",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/2. Ejemplo en Codigo.md"
+    },
+    {
+      "basename": "Drawing 2024-12-04 17.44.58.excalidraw",
+      "path": "2. Desarrollo/PROGRAMACION/Java/Drawing 2024-12-04 17.44.58.excalidraw.md"
+    },
+    {
+      "basename": "23. Excepciones (Try - Catch)",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/23. Excepciones (Try - Catch).md"
+    },
+    {
+      "basename": "22. Gestion de Ficheros",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md"
+    },
+    {
+      "basename": "1. Introduccion a POO",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/1. Introduccion a POO.md"
+    },
+    {
+      "basename": "4. Sobrecarga de constructores",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/4. Sobrecarga de constructores.md"
+    },
+    {
+      "basename": "3. Constructores",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Constructores.md"
+    },
+    {
+      "basename": "6. Herencia Multinivel",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/6. Herencia Multinivel.md"
+    },
+    {
+      "basename": "4. Base (Super) - Referencia a Superclases",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/4. Base (Super) - Referencia a Superclases.md"
+    },
+    {
+      "basename": "5. Mermaid Syntax",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/5. Mermaid Syntax.md"
+    },
+    {
+      "basename": "1. Diagramas de Clase",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
+    },
+    {
+      "basename": "1. Concepto",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/3. Herrencia/1. Concepto.md"
+    },
+    {
+      "basename": "5. Clases anonimas",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/5. Clases anonimas.md"
+    },
+    {
+      "basename": "4. Metodos y Propiedades Static",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/4. Metodos y Propiedades Static.md"
+    },
+    {
+      "basename": "3. Getters y Setters",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/3. Getters y Setters.md"
+    },
+    {
+      "basename": "3. Clases e instancias",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/3. Clases e instancias.md"
+    },
+    {
+      "basename": "Programacion Principios",
+      "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
+    },
+    {
+      "basename": "2. Clases Abstractas",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/2. Clases Abstractas.md"
+    },
+    {
+      "basename": "1. Concepto de Abstraccion",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/1. Concepto de Abstraccion.md"
+    },
+    {
+      "basename": "1. Concepto - ¿Que es el polimorfismo?",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/4. Polimorfismo/1. Concepto - ¿Que es el polimorfismo?.md"
+    },
+    {
+      "basename": "3. Interfaces",
+      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/5. Abstraccion/3. Interfaces.md"
+    },
+    {
+      "basename": "2024-12-03 - Examen Programacion",
+      "path": "2024-12-03 - Examen Programacion.md"
+    },
+    {
+      "basename": "¿Que son y para que Sirven los Diagramas de Casos de Uso?",
+      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md"
+    },
+    {
       "basename": "Familias de Nodos en JS 2024-10-26 13.22.01.excalidraw",
       "path": "Excalidraw/Familias de Nodos en JS 2024-10-26 13.22.01.excalidraw.md"
     },
@@ -47,154 +199,6 @@
     {
       "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw",
       "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.45.27.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 16.30.15.excalidraw.md"
-    },
-    {
-      "basename": "1. Datos Primitivos 2024-10-13 17.12.50.excalidraw",
-      "path": "Excalidraw/1. Datos Primitivos 2024-10-13 17.12.50.excalidraw.md"
-    },
-    {
-      "basename": "Temas",
-      "path": "3. Complementos/Temas/Temas.md"
-    },
-    {
-      "basename": "1. Peticion GET",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/3. Metodos HTTP en Express/1. Peticion GET.md"
-    },
-    {
-      "basename": "MindMapSintax",
-      "path": "4. Atajos/MindMapSintax.md"
-    },
-    {
-      "basename": "Markdown Sintax",
-      "path": "4. Atajos/Markdown Sintax.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "1. Metodologia Cyber Kill Chain (Metodologias de Pentesting)",
-      "path": "1. Ciberseguridad/Hacking Etico/0. Introduccion al Hacking/1. Metodologia Cyber Kill Chain (Metodologias de Pentesting).md"
-    },
-    {
-      "basename": "5. Mermaid Syntax",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/5. Mermaid Syntax.md"
-    },
-    {
-      "basename": "Programacion Principios",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md"
-    },
-    {
-      "basename": "10. Estandarizaciones",
-      "path": "2. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/10. Estandarizaciones.md"
-    },
-    {
-      "basename": "1. Diagramas de Clase",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/4. Diagramas de Clases/1. Diagramas de Clase.md"
-    },
-    {
-      "basename": "2. Headers, Parrafos, Listas y Tablas",
-      "path": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/HTML/2. Headers, Parrafos, Listas y Tablas.md"
-    },
-    {
-      "basename": "1. Variables, Constantes y Tipos de Datos",
-      "path": "2. Desarrollo/PROGRAMACION/2. Python/1. Python/1. Python Basico/1. Variables, Constantes y Tipos de Datos.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox",
-      "path": "1. Ciberseguridad/Virtualizacion/1. Modos de Red en VirtualBox.md"
-    },
-    {
-      "basename": "Kanban Temporal",
-      "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
-    },
-    {
-      "basename": "4. Metodos y Propiedades Static",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/4. Metodos y Propiedades Static.md"
-    },
-    {
-      "basename": "2. Modificadores de acceso",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/2. Encapsulamiento/2. Modificadores de acceso.md"
-    },
-    {
-      "basename": "1. Tamaños",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/2. Clases Utilitarias Basicas/1. Tamaños.md"
-    },
-    {
-      "basename": "3. Dependencias",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/3. Dependencias.md"
-    },
-    {
-      "basename": "2. Tailwind vs CSS Puro",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/2. Tailwind vs CSS Puro.md"
-    },
-    {
-      "basename": "1. Instalacion de Tailwind en nuestro Proyecto de Vite",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/6. React + Tailwind + TypeScript/1. Instalacion/1. Instalacion de Tailwind en nuestro Proyecto de Vite.md"
-    },
-    {
-      "basename": "2. Propiedades y Atributos",
-      "path": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Csharp Orientado a Objetos/1. Introduccion/2. Propiedades y Atributos.md"
-    },
-    {
-      "basename": "Drawing 2024-10-18 17.01.13.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-18 17.01.13.excalidraw.md"
-    },
-    {
-      "basename": "Diagramas de Secuencia",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/3. Diagramas de Comportamiento/Diagramas de Secuencia.md"
-    },
-    {
-      "basename": "Scrum.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Agiles/Scrum.excalidraw.md"
-    },
-    {
-      "basename": "¿Que son y para que Sirven los Diagramas de Casos de Uso?",
-      "path": "2. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML/2. Diagramas de Casos de Uso/¿Que son y para que Sirven los Diagramas de Casos de Uso?.md"
-    },
-    {
-      "basename": "Drawing 2024-10-18 16.39.30.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-18 16.39.30.excalidraw.md"
-    },
-    {
-      "basename": "ayesa.excalidraw",
-      "path": "5. Diagramas/Diagramas Academicos/Agiles/ayesa.excalidraw.md"
-    },
-    {
-      "basename": "4. Autenticacion (JWT)",
-      "path": "5. Diagramas/Proyectos/Hack Cat Labs/4. Autenticacion (JWT).md"
-    },
-    {
-      "basename": "2. Envio de Mensajes",
-      "path": "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md"
-    },
-    {
-      "basename": "1. Arquitectura del proyecto",
-      "path": "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md"
-    },
-    {
-      "basename": "Drawing 2024-10-16 19.42.15.excalidraw",
-      "path": "Excalidraw/Drawing 2024-10-16 19.42.15.excalidraw.md"
-    },
-    {
-      "basename": "2. Gestion de Grupos",
-      "path": "1. Ciberseguridad/Sistemas Operativos/Linux/6. Gestion de Usuarios y Grupos/2. Gestion de Grupos.md"
-    },
-    {
-      "basename": "2. Event Handlers (Manejadores de Eventos)",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Event Handlers (Manejadores de Eventos).md"
-    },
-    {
-      "basename": "3. Obtencion y Modificacion de Elementos HTML",
-      "path": "2. Desarrollo/PROGRAMACION/1. JavaScript/Programacion/1. Frontend/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/3. Obtencion y Modificacion de Elementos HTML.md"
     }
   ],
   "omittedPaths": [],

@@ -14,7 +14,6 @@
 | `Abstract`                 | Significa que las clases que hereden se veran en la obligacion de implementar el metodo o propiedad. |
 | `Virtual`                  | Este modificador se le pone a los metodos que seran sobrescritos posteriormente de la clase padre.   |
 | `Override`                 | Se usa para decir que vamos a sobrescribir un metodo que esta con el modificador *vritual*           |
-⚠️
 **Consideraciones:**
  - *Las clases deben ser modificadas solo por Getters, Setters  y Metodos*, nunca por propiedad directa.
 - Si queremos que una propiedad solo sea accedida desde la clase que va a heredar debemos poner en `Protected` sus Getters y Setters 
@@ -24,7 +23,7 @@
 ### Herencia:
 - Se heredan todos los atributos y metodos de la clase padre.
 - Podremos conservar comportamiento de la clase padre pero sobrescribiendo solo algunos metodos de la clase base con el modificador *override*.
-- Con la palabra *Super* en otros lenguajes o *Base* en C# podremos hacer referencia a los metodos y propiedades de la clase padre. De esta manera podremos ampliar la logica de los metodo[]()s.
+- Con la palabra *Super* en otros lenguajes o *Base* en C# podremos hacer referencia a los metodos y propiedades de la clase padre. De esta manera podremos ampliar la logica de los metodos.
 ### Polimorfismo:
 - Es la accion de que multiples clases tengan los mismos metodos pero estos los implementen de diferente forma. 
 
@@ -51,7 +50,7 @@
 - **OCP:** Una clase debe estar abierta para su extension pero cerrada para su modificacion.
 	- **¿Puedo añadir mas funcionalidad sin necesidad de modificar el codigo?**
 	 <br>
-- **LSP:** Las clases hijas deben poder reemplazar a las clases padre, es decir la clase hija debe implementar todos sus metodos y atributos de la clase padre, esto agregado lo propio de la clase hija. En otras palabras:
+- **LSP:** Las clases hijas deben poder reemplazar a las clases padre, es decir la clase hija debe no debe rechazar ningun metodo de la clase padre.
 	- **Las clases hijas deben implementar correctamente todos los atributos y metodos de su clase padre. Si existen metodos o atributos que no se pueden implementar, abstraer y crear otra interfaz o clase mas concreta.** 
 	- **Ejemplo:** Tienes una clase `Animal` con un método `hacerSonido()`. Si creas una subclase `Pato` que sobreescribe `hacerSonido()` para hacer "cuac", y otra subclase `Pez` , pero `Pez` no puede realmente hacer sonidos, entonces el código que espera un `Animal` podría fallar o comportarse de manera inesperada.
 	 <br>
@@ -111,7 +110,7 @@
 		}
 		```
 
-	- Utiliza el bloque `finally` para asegurar que se liberen los recursos, como cerrar el socket.
+	- Utilizar el bloque `finally` para asegurar que se liberen los recursos, como cerrar el socket.
 
 
 ----
