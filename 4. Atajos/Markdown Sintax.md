@@ -47,10 +47,6 @@ print("Hola, mundo!")
 
 
 
-  
-
-
-
 
 
 

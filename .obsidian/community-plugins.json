@@ -17,5 +17,7 @@
   "execute-code",
   "highlightr-plugin",
   "obsidian-mindmap-nextgen",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-git"
 ]
