@@ -7,7 +7,8 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 Arrange (Preparado):  ^fyIpNYqe
 
 Act  (Captura del Retorno):  ^VvEV7OXu
@@ -28,309 +29,48 @@ verificamos que la salida o retorno de la funcion sea correcta.
 Modelo AAA ^p0QIYyt8
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
-	"elements": [
-		{
-			"type": "text",
-			"version": 70,
-			"versionNonce": 774676611,
-			"isDeleted": false,
-			"id": "fyIpNYqe",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -283.33076171875007,
-			"y": 164.10420532226564,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 214.21975708007812,
-			"height": 25,
-			"seed": 1158252963,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711541297083,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Arrange (Preparado): ",
-			"rawText": "Arrange (Preparado): ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Arrange (Preparado): ",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 294,
-			"versionNonce": 332943021,
-			"isDeleted": false,
-			"id": "VvEV7OXu",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -298.31409481978585,
-			"y": 262.5315784413217,
-			"strokeColor": "#fd7e14",
-			"backgroundColor": "transparent",
-			"width": 288.5196533203125,
-			"height": 25,
-			"seed": 807856141,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711542557646,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Act  (Captura del Retorno): ",
-			"rawText": "Act  (Captura del Retorno): ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Act  (Captura del Retorno): ",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 189,
-			"versionNonce": 1334307981,
-			"isDeleted": false,
-			"id": "wL6zmJcC",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -294.02392883300774,
-			"y": 368.0208374023438,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 212.15975952148438,
-			"height": 25,
-			"seed": 846280653,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711544259911,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "Assert (Verificacion): ",
-			"rawText": "Assert (Verificacion): ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Assert (Verificacion): ",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "text",
-			"version": 219,
-			"versionNonce": 14691597,
-			"isDeleted": false,
-			"id": "GxkkmsMc",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -271.16337356567385,
-			"y": 196.36460571289064,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 500.304931640625,
-			"height": 40,
-			"seed": 121181251,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711541213622,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Se crean variables e instancias de los objetos a usar, \ncomo una especie de preparado para lo que vamos a testear. ",
-			"rawText": "Se crean variables e instancias de los objetos a usar, \ncomo una especie de preparado para lo que vamos a testear. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Se crean variables e instancias de los objetos a usar, \ncomo una especie de preparado para lo que vamos a testear. ",
-			"lineHeight": 1.25,
-			"baseline": 34
-		},
-		{
-			"type": "text",
-			"version": 478,
-			"versionNonce": 1731744803,
-			"isDeleted": false,
-			"id": "QIZZw0Ap",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -269.0413757324219,
-			"y": 297.05423278808587,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 507.93707275390625,
-			"height": 60,
-			"seed": 1405516803,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711541900377,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Es el momento en el que invocamos a las funciones y pasamos\ndistintos tipos de parametros para el Test, buscando capturar\nla salida para evaluarla en la siguiente fase",
-			"rawText": "Es el momento en el que invocamos a las funciones y pasamos\ndistintos tipos de parametros para el Test, buscando capturar\nla salida para evaluarla en la siguiente fase",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Es el momento en el que invocamos a las funciones y pasamos\ndistintos tipos de parametros para el Test, buscando capturar\nla salida para evaluarla en la siguiente fase",
-			"lineHeight": 1.25,
-			"baseline": 54
-		},
-		{
-			"type": "text",
-			"version": 579,
-			"versionNonce": 582496877,
-			"isDeleted": false,
-			"id": "coBhGoPA",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -255.42546997070315,
-			"y": 403.5875579833984,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 503.6810302734375,
-			"height": 60,
-			"seed": 1957047171,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711542118147,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Es el momento en el que con ayuda de los metodos de XUnit \nverificamos que la salida o retorno de la funcion sea correcta.\n",
-			"rawText": "Es el momento en el que con ayuda de los metodos de XUnit \nverificamos que la salida o retorno de la funcion sea correcta.\n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Es el momento en el que con ayuda de los metodos de XUnit \nverificamos que la salida o retorno de la funcion sea correcta.\n",
-			"lineHeight": 1.25,
-			"baseline": 54
-		},
-		{
-			"type": "text",
-			"version": 27,
-			"versionNonce": 910693571,
-			"isDeleted": false,
-			"id": "p0QIYyt8",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -360.6820504516103,
-			"y": 128.71587507727799,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 91.53616333007812,
-			"height": 20,
-			"seed": 831973187,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1711543749177,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Modelo AAA",
-			"rawText": "Modelo AAA",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Modelo AAA",
-			"lineHeight": 1.25,
-			"baseline": 14
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 524.2751376833193,
-		"scrollY": 18.649326471738142,
-		"zoom": {
-			"value": 1.1913254971125227
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
 ```
 %%

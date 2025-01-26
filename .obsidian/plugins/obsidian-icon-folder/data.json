@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGithub",
       "TiRegexOff",
       "SiSwagger",
       "SiNestjs",
-      "SiPrisma",
-      "SiExpress"
+      "SiPrisma"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -131,5 +131,6 @@
   "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/5. BOOTSTRAP": "SiBootstrap",
   "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/6. XML": "TiFileTypeXml",
   "2. Desarrollo/PROGRAMACION/3. C-Sharp/3. Csharp Orientado a Objetos": "FasObjectGroup",
-  "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales": "TiRegexOff"
+  "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales": "TiRegexOff",
+  "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/4. Complementos/3. SimpleGit": "SiGithub"
 }
