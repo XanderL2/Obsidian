@@ -15,13 +15,13 @@
   "Editor@@blockquote-background-color@@dark": "#C800FF",
   "Editor@@blockquote-border-color@@dark": "#C800FF",
   "Editor@@blockquote-border-thickness": 5,
-  "Appearance@@bg@@dark": "#14161D",
-  "Appearance@@bg_dark@@dark": "#171721",
+  "Appearance@@bg_dark@@dark": "#230F2F",
   "Appearance@@bg_dark2@@dark": "#280038",
   "Editor@@embed-padding": "5",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
   "encore-settings@@theme-dark": "encore-theme-dark-carbon",
   "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
   "shiba-theme-settings@@shiba-colors-theme-dark": "pure-dark",
-  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme"
+  "shiba-theme-settings@@shiba-colors-theme-light": "default-light-theme",
+  "Appearance@@bg@@dark": "#090120"
 }

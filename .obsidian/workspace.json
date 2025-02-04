@@ -8,35 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1da4db4bf1a6434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/1. Introduccion/2. Estructura del Proyecto.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Estructura del Proyecto"
-            }
-          },
-          {
             "id": "52c77378f7f42cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/2. Gestion de Paquetes (NPM-NPX)/2. Gestion de Paquetes.md",
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Gestion de Paquetes"
+              "title": "1. Expresiones Regulares"
+            }
+          },
+          {
+            "id": "9bd3cf7fddd2f800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Libreria Re (Expresiones Regulares)"
+            }
+          },
+          {
+            "id": "c109b65b58c9169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Expresiones Regulares"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -103,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5086555480957
+    "width": 358.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -165,10 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/2. Gestion de Paquetes (NPM-NPX)/2. Gestion de Paquetes.md"
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. Gestion de Paquetes"
+              "title": "Esquema de 1. Expresiones Regulares"
             }
           },
           {
@@ -236,11 +255,12 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,45 +278,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52c77378f7f42cdd",
+  "active": "c109b65b58c9169f",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/2. Gestion de Paquetes (NPM-NPX)/1. NPM vs NPX.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/4. ECS6 vs CommonJS/1. ES6 vs CommonJS.md",
-    "3. Complementos/Proyectos/Extensiones de Obsidian/2. GithubAuto Sync.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/4. Complementos/3. SimpleGit",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/1. Introduccion/2. Estructura del Proyecto.md",
-    "3. Complementos/Proyectos/Extensiones de Obsidian/1. Git ImageAutoupload.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/7. Async Code/1. Callbacks (Llamar cuando regreses).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/7. Async Code/2. Promesas.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/6. MIddlewares/2. Middleware Morgan.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/6. MIddlewares/1. Introduccion a Middlewares.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/5. Objeto Request/3. Queries URL (Queries API).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/5. Objeto Request/2. Parametros URL (Request Params API).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/5. Objeto Request/0. Partes del Objeto Request.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/4. Objeto Response/1. Tipos de Respuestas (Archivos, imagenes, etc).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/4. Objeto Response/0. Partes del Response.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/2. Routing (Enrutado)/3. Metodo ALL (Pasa por todos los Metodos HTTP).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/2. Exoress JS/2. Routing (Enrutado)/2. Devolver Ruta por defecto.md",
-    "3. Complementos/GPT/1. Crear Roadmaps.md",
-    "Excalidraw/Drawing 2025-01-26 16.55.29.excalidraw.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/3. Libreria Shutil (Manejo de Archivos).md",
     "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/5. Requests HTTP (Enviar Solicitudes request).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/6. Libreria JSON (Manejo de JSONS en Python).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/7. Sys (Recibir Parametros por Consola).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/8. PyAutogui (Teclado, Mouse y Eventos).md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/9. Librerias de Estilos para Scripting.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/10. ArgParse (Parametros a traves de Terminal).md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos Examen.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/12. Codificacion Base64.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/1. Eventos.md",
+    "3. Complementos/Youtube/Herramientas.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/2. Gestores de Eventos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/1. Evento de Mouse.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/3. Event Bubbling.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/3. Objeto Event.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado/1. Eventos basicos de teclado.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/Sin nombre",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/BASES DATOS/3 .MongoDB/1..md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/2. Selectores/1. Selectores de JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/1. DOM (Document Object Model).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/0. Introduccion/1. Que es el DOM y BOM.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Geometria",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Estilos desde JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Atributos desde JS.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/1. Modificacion del contenido de Elementos HTML.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/0. Basico.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/0. Introduccion/3. Body y Head en el DOM.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1.",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/practicas.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/1. Introduccion/2. Estructura del Proyecto.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/3. GRID.md",
+    "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/14. CRUD (Modificacion de Regsitros)/CRUD (Create, Read, Update, Delete).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/4. Complementos/3. SimpleGit",
     "6. Images/Pasted image 20250126140119.png",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/4. ECS6 vs CommonJS",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/4. User Modules",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/9. Peticiones HTTP y Comunicacion/3. Peticiones Retro/2. XMLHttpRequest",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/9. Peticiones HTTP y Comunicacion/3. Peticiones Retro/1. Form Data",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/2. Gestion de Paquetes (NPM-NPX)",
     "Pasted image 20250114115555.png",
     "6. Images/Pasted image 20250107141732.png",
     "6. Images/Pasted image 20250107113344.png",
