@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/2. GetBoundingClientRect.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. GetBoundingClientRect"
+              "title": "1. Examen"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/2. GetBoundingClientRect.md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. GetBoundingClientRect"
+              "title": "Esquema de 1. Examen"
             }
           },
           {
@@ -261,17 +261,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffbd58b3b356e5fb",
+  "active": "9933d1915aa31f91",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/2. Drag and Drop API.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/4. Scrolling.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/3. ElementsFromPoint.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/2. GetBoundingClientRect.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/1. Posicionamiento en base al padre.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/1. Evento de Mouse Clasicos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado/1. Eventos basicos de teclado.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios/1. Eventos de Formularios.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/4. Scrolling.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/3. ElementsFromPoint.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/1. Posicionamiento en base al padre.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/2. GetBoundingClientRect.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/1. Eventos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/1. Evento de Mouse Clasicos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/2. Drag and Drop API.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/2. Gestores de Eventos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado/1. Eventos basicos de teclado.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Estilos desde JS.md",
     "Excalidraw/1. Propiedades de Geometria en relacion al Padre 2025-02-09 13.11.07.excalidraw.md",
     "l.md",
@@ -289,8 +291,6 @@
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/5. Operadores RxJS/1. Operadores de RxJs.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/1. Introduccion/1. Introduccion.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/3. Subjects/1. Subjects.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/2. Observables Normales/1. Observables.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. RxJS",
     "6. Images/Pasted image 20250209115545.png",
     "Pasted image 20250209115545.png",
