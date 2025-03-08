@@ -4,38 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "32f4a227c8fe0167",
+        "id": "1b50c82ef6eeadc8",
         "type": "tabs",
         "children": [
           {
-            "id": "9933d1915aa31f91",
+            "id": "f4b1cda66d1fdfc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Examen"
-            }
-          },
-          {
-            "id": "db9061354d12e79a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/1. Evento de Mouse Clasicos.md",
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Evento de Mouse Clasicos"
+              "title": "1. Transiciones"
+            }
+          },
+          {
+            "id": "3434cf3baa21d7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Uso de Iconos Custom"
+            }
+          },
+          {
+            "id": "2cacbd190316cc63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs)/1. NgContainer.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. NgContainer"
+            }
+          },
+          {
+            "id": "e59187b788f328fe",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Kanban Temporal"
+            }
+          },
+          {
+            "id": "aa4708b46bae71be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Positions (Todos)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,18 +143,19 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 428.5086555480957
+    "width": 428.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -165,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
+                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1. Examen"
+              "title": "Esquema de Kanban Temporal"
             }
           },
           {
@@ -261,46 +313,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9933d1915aa31f91",
+  "active": "e59187b788f328fe",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios/1. Eventos de Formularios.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/4. Scrolling.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/3. ElementsFromPoint.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/1. Posicionamiento en base al padre.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/2. GetBoundingClientRect.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/1. Eventos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/1. Evento de Mouse Clasicos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/2. Drag and Drop API.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico/2. Gestores de Eventos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado/1. Eventos basicos de teclado.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Estilos desde JS.md",
-    "Excalidraw/1. Propiedades de Geometria en relacion al Padre 2025-02-09 13.11.07.excalidraw.md",
-    "l.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/2. Coger Elementos del DOM (ViewChild).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/Sin título.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/2. Interaccion entre Componentes - Output e Input.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/1. Plantillas - Bindings.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/2. Directivas Estructurales Modernas.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/3. Directivas Atributo.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/2. Modificacion de Atributos desde JS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/2. Modificacion de Elementos HTML/1. Modificacion del contenido de Elementos HTML.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/9. Peticiones HTTP y Comunicacion/3. Peticiones Retro/1. Form Data/1. Que un FormData y URLSearchParams.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/8. Asincronia/3. Async - Await.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/4. User Modules/2. ES6 Modules.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/8. RxJS/1. Cuando se debe usar RxJS.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/6. Async Pipe/1. Async Pipe.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/8. RxJS",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/3. Nest JS/1. Introduccion/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/5. Operadores RxJS/1. Operadores de RxJs.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/4. Directivas Estructurales Viejas.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/1. Orden de las Clases.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/2. Naming.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/1. NgContainer.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Clases Predifinidas de Iconos.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/1. Uso de Angular Material Icons.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/3. GRID.md",
+    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs)/Sin nombre",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/1. Anidamiento.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/2. Selectores y Especificidad/2. Jerarquia, Principio de Especificidad y Metodologia BEM.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/2. Extends - Herencia de Propiedades.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/4. Mixins (Funciones)/1. Mixins (Funciones).md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/1. Introduccion/1. Introduccion.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/4. RxJS",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/Drawing 2024-11-01 11.43.18.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-30 22.21.38.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-16 22.55.13.excalidraw.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/3. Breakpoints.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. NGs/Sin nombre",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/2. Observables Normales/1. Observables.md",
+    "6. Images/Pasted image 20250303173705.png",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/2. Animaciones",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/6. Importacion de Archivos",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/Sin nombre",
     "6. Images/Pasted image 20250209115545.png",
     "Pasted image 20250209115545.png",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/3. Eventos de Mouse",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/2. Eventos de Teclado",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Basico",
     "6. Images/Pasted image 20250126140119.png",
     "Pasted image 20250114115555.png",
     "6. Images/Pasted image 20250107141732.png",
@@ -308,7 +361,6 @@
     "6. Images/Pasted image 20250106181308.png",
     "6. Images/Pasted image 20241214170511.png",
     "6. Images/Pasted Image 20241201172403_025.png",
-    "6. Images/Pasted Image 20241201172216_006.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",

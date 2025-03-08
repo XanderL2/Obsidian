@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lienzo Proyectil",
+      "path": "3. Complementos/Organizacion/Personal/Lienzo Proyectil.md"
+    },
+    {
       "basename": "Kanban Temporal",
       "path": "3. Complementos/Organizacion/Personal/Kanban Temporal.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw",
       "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.22.40.excalidraw.md"
-    },
-    {
-      "basename": "1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw",
-      "path": "Excalidraw/1. Modos de Red en VirtualBox 2024-09-29 17.03.18.excalidraw.md"
     }
   ],
   "omittedPaths": [],
