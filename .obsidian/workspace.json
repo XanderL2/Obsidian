@@ -4,89 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "1b50c82ef6eeadc8",
+        "id": "70168b4bb75b96e5",
         "type": "tabs",
         "children": [
           {
-            "id": "f4b1cda66d1fdfc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Transiciones"
-            }
-          },
-          {
-            "id": "3434cf3baa21d7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Uso de Iconos Custom"
-            }
-          },
-          {
-            "id": "2cacbd190316cc63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs)/1. NgContainer.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. NgContainer"
-            }
-          },
-          {
-            "id": "e59187b788f328fe",
+            "id": "63ffedafcedd5df4",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+                "file": "3. Complementos/Organizacion/Personal/Lienzo Proyectil.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
                     false,
                     false,
-                    null,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Kanban Temporal"
+              "title": "Lienzo Proyectil"
             }
           },
           {
-            "id": "aa4708b46bae71be",
+            "id": "ba80973a4c1eef16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/4. Funciones de agregacion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Positions (Todos)"
+              "title": "4. Funciones de agregacion"
+            }
+          },
+          {
+            "id": "62ad42c1d776ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "21. Colas (Queue)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,12 +121,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 428.5086555480957,
-    "collapsed": true
+    "width": 443.5026054382324
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -217,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Kanban Temporal"
+              "title": "Esquema de 21. Colas (Queue)"
             }
           },
           {
@@ -313,45 +283,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e59187b788f328fe",
+  "active": "62ad42c1d776ccdb",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/2. Coger Elementos del DOM (ViewChild).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/Sin título.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/2. Interaccion entre Componentes - Output e Input.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/1. Plantillas - Bindings.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/2. Directivas Estructurales Modernas.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/3. Directivas Atributo.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/4. Directivas Estructurales Viejas.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/1. Orden de las Clases.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/2. Naming.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/1. NgContainer.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Clases Predifinidas de Iconos.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/1. Uso de Angular Material Icons.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/7. Responsive Web Design/3. GRID.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/20. Pilas (Stacks).md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/3. Funciones Lambda.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/4. Funciones de agregacion.md",
+    "3. Complementos/Organizacion/Personal/Lienzo Proyectil.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/2. Clausulas de LINQ.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/1. Introduccion a LINQ.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/24. Linked List.md",
+    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/25. Funciones LAMBDA.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/26. Clases Genericas.md",
+    "2. Desarrollo/PROGRAMACION/4. Utilidades/1. Formulas Matematicas Basicas.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/23. Excepciones (Try - Catch).md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/18. Paso por Valor y por Referencia.md",
+    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
+    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
+    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
+    "Excalidraw/Drawing 2025-03-09 12.14.06.excalidraw.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
+    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/9. Bucle FOR.md",
+    "2. Desarrollo/PROGRAMACION/4. Utilidades",
+    "2. Desarrollo/PROGRAMACION/Utilities",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs)/Sin nombre",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/1. Anidamiento.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/2. Selectores y Especificidad/2. Jerarquia, Principio de Especificidad y Metodologia BEM.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/2. Extends - Herencia de Propiedades.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/4. Mixins (Funciones)/1. Mixins (Funciones).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/1. Introduccion/1. Introduccion.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/Drawing 2024-11-01 11.43.18.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-30 22.21.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-16 22.55.13.excalidraw.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/3. Breakpoints.md",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. NGs/Sin nombre",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/2. Observables Normales/1. Observables.md",
     "6. Images/Pasted image 20250303173705.png",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/2. Animaciones",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones",
     "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/6. Importacion de Archivos",
     "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/Sin nombre",
     "6. Images/Pasted image 20250209115545.png",
     "Pasted image 20250209115545.png",
     "6. Images/Pasted image 20250126140119.png",
