@@ -45,10 +45,6 @@
   ],
   "fileColors": [
     {
-      "path": "1. Ciberseguridad",
-      "color": "285yFLIEcTko_jy6B7Qsl"
-    },
-    {
       "path": "2. Desarrollo",
       "color": "ngSjPwMU-3oOiw-fNbvmL"
     },
@@ -71,6 +67,10 @@
     {
       "path": "Excalidraw",
       "color": "9m8m_shtIV4m2_tNJcUBV"
+    },
+    {
+      "path": "1. Ciberseguridad",
+      "color": "285yFLIEcTko_jy6B7Qsl"
     }
   ]
 }

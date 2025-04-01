@@ -4,60 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "70168b4bb75b96e5",
+        "id": "e6fce5bfcbe1dd23",
         "type": "tabs",
         "children": [
           {
-            "id": "63ffedafcedd5df4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "3. Complementos/Organizacion/Personal/Lienzo Proyectil.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Lienzo Proyectil"
-            }
-          },
-          {
-            "id": "ba80973a4c1eef16",
+            "id": "fee4b8a5cbd9fce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/4. Funciones de agregacion.md",
-                "mode": "preview",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/3. Formas mas basicas de Cambio.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Funciones de agregacion"
+              "title": "3. Formas mas basicas de Cambio"
             }
           },
           {
-            "id": "62ad42c1d776ccdb",
+            "id": "a0cdfafb614f1a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. Colas (Queue)"
+              "title": "2. Metodos de Arrays"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "genericas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +93,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -187,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
+                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 21. Colas (Queue)"
+              "title": "Esquema de 2. Metodos de Arrays"
             }
           },
           {
@@ -283,45 +262,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62ad42c1d776ccdb",
+  "active": "02b070d6a49dcd26",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/20. Pilas (Stacks).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/21. Colas (Queue).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/22. Gestion de Ficheros.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/3. Funciones Lambda.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/4. Funciones de agregacion.md",
-    "3. Complementos/Organizacion/Personal/Lienzo Proyectil.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/2. Clausulas de LINQ.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/1. Expresiones Regulares/1. Expresiones Regulares.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Librerias Fundamentales/2. LINQ/1. Introduccion a LINQ.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/24. Linked List.md",
-    "1. Ciberseguridad/Programacion y Scripting/Python/Librerias de Scripting y Utilidades/4. Libreria Re (Expresiones Regulares).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/19. Listas Dinamicas (Lists).md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/3. Formas mas basicas de Cambio.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos Examen.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/5. Arrays y Dinamizacion/1. Arrays.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/1. Introduccion.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/2. Cuando usar UseState.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/8. Asincronia/3. Async - Await.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/8. Asincronia/1. Callbacks.md",
+    "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/1. OneLinners.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/25. Funciones LAMBDA.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/26. Clases Genericas.md",
-    "2. Desarrollo/PROGRAMACION/4. Utilidades/1. Formulas Matematicas Basicas.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/23. Excepciones (Try - Catch).md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/18. Paso por Valor y por Referencia.md",
-    "5. Diagramas/Diagramas Academicos/Stack/Drawing 2024-09-13 08.36.53.excalidraw.md",
-    "5. Diagramas/Proyectos/Social Pipe/2. Envio de Mensajes.md",
-    "5. Diagramas/Proyectos/Social Pipe/1. Arquitectura del proyecto.md",
-    "Excalidraw/Drawing 2025-03-09 12.14.06.excalidraw.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons/2. Uso de Iconos Custom.md",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/9. Bucle FOR.md",
-    "2. Desarrollo/PROGRAMACION/4. Utilidades",
-    "2. Desarrollo/PROGRAMACION/Utilities",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs)/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. NGs/Sin nombre",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/3. Use Effect.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/1. Introduccion/1. Que son los Hooks.md",
+    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/7. Event Handlers.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/6. Estilos en Componentes.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/4. Childrens.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/3. JSX Sintax.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/2. Crear Componentes.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/1. Que es un Componente?.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/3. Fetch API/1. FetchAPI.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/4. Thrid Party Components/1. Que son los Third Party Components.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/4. Thrid Party Components/2. React Icons.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios/1. Eventos de Formularios.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/1. Introduccion",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Complementos Fundamentales/3. Async Await (Task)",
+    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/Basico",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/John the Ripper",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/Hashcat",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes/WireShark",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/3. Cifrados y Descifrados",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes",
+    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes",
+    "6. Images/Pasted Image 20250312200952_339.png",
     "6. Images/Pasted image 20250303173705.png",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/2. Animaciones",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones",
-    "2. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/6. Importacion de Archivos",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Angular Material/Icons",
     "6. Images/Pasted image 20250209115545.png",
     "Pasted image 20250209115545.png",
     "6. Images/Pasted image 20250126140119.png",
@@ -330,7 +310,6 @@
     "6. Images/Pasted image 20250107113344.png",
     "6. Images/Pasted image 20250106181308.png",
     "6. Images/Pasted image 20241214170511.png",
-    "6. Images/Pasted Image 20241201172403_025.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
