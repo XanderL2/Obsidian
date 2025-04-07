@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fee4b8a5cbd9fce8",
+            "id": "90e26bd2c3fb11d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/3. Formas mas basicas de Cambio.md",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Formas mas basicas de Cambio"
+              "title": "1. Ver Logs"
             }
           },
           {
-            "id": "a0cdfafb614f1a58",
+            "id": "2ce7e918fee7a637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Metodos de Arrays"
+              "title": "1. Tecnologias"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443.5026054382324
+    "width": 417.51103591918945
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -166,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
+                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. Metodos de Arrays"
+              "title": "Esquema de 1. Ver Logs"
             }
           },
           {
@@ -262,54 +261,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02b070d6a49dcd26",
+  "active": "90e26bd2c3fb11d0",
   "lastOpenFiles": [
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/3. Formas mas basicas de Cambio.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos de Arrays.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/2. Metodos Examen.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/7. Arrays/1. Arrays.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/5. Arrays y Dinamizacion/1. Arrays.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/1. Introduccion.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState/2. Cuando usar UseState.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/8. Asincronia/3. Async - Await.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/1. Logica/8. Asincronia/1. Callbacks.md",
-    "2. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/1. OneLinners.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/3. Contenedores/1. Gestion de Contenedores.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/2. Gestion de Imagenes/1. Gestion de Imagenes.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/2. Creacion de Imagenes de Proyecto/1. DockerFile.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes/1. Que es un Volumen.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes/2. Gestion de Volumenes.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/3. Gestion de los contenedores/1. Levantar contenedores de contenedores.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/2. DockerCompose File/1. Clausulas de DockerCompose.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/1. Introduccion/1. Que es Docker.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/1. Introduccion/1. Que es Docker Compose.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network/2. Gestion de Redes Docker.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network/1. Que es DockerNetwork.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/0. Introduccion/1. Construccion de imagenes.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/1. Obtencion de Imagenes Base/1. Creacion de una imagen a partir de una base.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/6. Gestion de Dependencias/1. Gestion de dependencias..md",
+    "2. Desarrollo/BASES DATOS/3 .MongoDB/MongoDbAtlas/1. Clusters.md",
+    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/6. Gestion de Dependencias",
+    "DOCKER 1.md",
+    "README.md",
+    "TAILWIND CSS.md",
+    "Sin título.md",
+    "6. Images/Pasted image 20250406172048.png",
+    "6. Images/Pasted image 20250406140307.png",
+    "6. Images/Pasted image 20250406140201.png",
+    "6. Images/Pasted image 20250406135545.png",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/3. Gestion de los contenedores",
+    "Pasted image 20250406172048.png",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/2. DockerCompose File",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/1. Introduccion",
+    "Pasted image 20250406140307.png",
+    "Pasted image 20250406140201.png",
+    "Pasted image 20250406135545.png",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes",
+    "Excalidraw/1. Construccion de imagenes 2025-04-05 19.52.16.excalidraw.md",
     "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/3. Use Effect.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/1. Introduccion/1. Que son los Hooks.md",
-    "Excalidraw/4. UseContext 2024-09-05 11.26.06.excalidraw.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/8. Hooks Intermedios/1. Que es un Contexto - Create Context - UseContext.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/7. Event Handlers.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/6. Estilos en Componentes.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/4. Childrens.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/3. JSX Sintax.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/2. Crear Componentes.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/2. Componentes/1. Que es un Componente?.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/3. Fetch API/1. FetchAPI.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/4. Thrid Party Components/1. Que son los Third Party Components.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/4. Thrid Party Components/2. React Icons.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios/1. Eventos de Formularios.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/2,. UseState",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/6. Hooks Basicos/1. Introduccion",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/2. Complementos Fundamentales/3. Async Await (Task)",
-    "2. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp/Basico",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/John the Ripper",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes/Hashcat",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/4. Sniffers y Captura de Paquetes/WireShark",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/3. Cifrados y Descifrados",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/2. Reconstruccion de Hashes",
-    "1. Ciberseguridad/Hacking Etico/1. Herramientas/3. Criptografia/1. Identificacion de Hashes",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Imagenes/1. Creacion de Imagenes/1. Obtencion de Imagenes Base/Sin título.md",
+    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/0. Introduccion",
+    "2. Desarrollo/HERRAMIENTAS/Figma/1. Prototipado.md",
+    "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/8. Filtrato de Datos (Where)/Where (Condicionales en BD).md",
     "6. Images/Pasted Image 20250312200952_339.png",
     "6. Images/Pasted image 20250303173705.png",
-    "6. Images/Pasted image 20250209115545.png",
-    "Pasted image 20250209115545.png",
-    "6. Images/Pasted image 20250126140119.png",
-    "Pasted image 20250114115555.png",
-    "6. Images/Pasted image 20250107141732.png",
-    "6. Images/Pasted image 20250107113344.png",
-    "6. Images/Pasted image 20250106181308.png",
-    "6. Images/Pasted image 20241214170511.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",
